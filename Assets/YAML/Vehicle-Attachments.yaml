@@ -1,0 +1,233 @@
+---
+Items:
+- name: Advanced Subspace Encryption Array
+  Price: 6000
+  Restricted: true
+  Rarity: 7
+- name: Advanced Targeting Array
+  Price: 4000
+  Rarity: 4
+- name: All-Terrain Legs
+  Price: 3000
+  Rarity: 5
+- name: Amphibious Modification
+  Price: 1000
+  Rarity: 5
+- name: Astrogation Droid Brain
+  Price: 7500
+  Rarity: 6
+- name: Astromech Droid Socket
+  Price: 3000
+  Rarity: 5
+- name: Augmented Buffer
+  Price: 750
+- name: Autopilot Droid Brain
+  Price: 6000
+  Rarity: 5
+- name: Briefing Auditorium
+  Price: 2500
+  Rarity: 4
+- name: Cloaked Smuggling Compartments
+  Price: 2200
+  Restricted: true
+  Rarity: 4
+- name: Collision Avoidance System
+  Price: 2200
+  Rarity: 6
+- name: Containment Field
+  Price: 7500
+  Restricted: true
+  Rarity: 9
+- name: Decoy Buoy
+  Price: 5000
+  Restricted: true
+  Rarity: 5
+- name: Ejection System
+  Price: 400
+  Rarity: 4
+- name: Electronic Counter-Countermeasures Suite
+  Price: 3500
+  Rarity: 6
+- name: Electronic Countermeasures Suite
+  Price: 3000
+  Rarity: 6
+- name: Encrypted Computer
+  Price: 1000
+  Rarity: 6
+- name: Engine Boosting System
+  Price: 1100
+  Rarity: 5
+- name: Enhanced Carbon-Durasteel Armor
+  Price: 2000
+  Rarity: 3
+- name: Enhanced Hyperspace Shields
+  Price: 4000
+  Rarity: 5
+- name: Enhanced Prisoner Lockup
+  Price: 3500
+  Rarity: 7
+- name: Enhanced Repulsorlift
+  Price: 1000
+  Rarity: 3
+- name: Environmental Simulators
+  Price: 75000
+  Rarity: 6
+- name: Fabritech Fogger Smoke Generator
+  Price: 2750
+  Rarity: 2
+- name: Foreign Debris Ejector
+  Price: 900
+  Rarity: 3
+- name: Gunner Droid Brain
+  Price: 7000
+  Rarity: 6
+- name: Handling Upgrades
+  Price: 4000
+  Rarity: 6
+- name: Hardened Circuits
+  Price: 4500
+  Rarity: 5
+- name: High-Output Ion Turbine
+  Price: 5300
+  Rarity: 5
+- name: High-Output Repulsor Coils
+  Price: 4500
+  Rarity: 3
+- name: Holo-Tank
+  Price: 5000
+  Rarity: 4
+- name: HoloNet Pirate Array
+  Price: 25000
+  Restricted: true
+  Rarity: 8
+- name: Hull/Keel Reinforcement
+  Price: 2500
+  Rarity: 4
+- name: Hydraulic Control Circuits
+  Price: 1000
+  Rarity: 7
+- name: Hyperdrive Generator
+  Price: 6400
+  Rarity: 1
+- name: Interior Broadcast Suite
+  Price: 800
+  Rarity: 3
+- name: Laser Focusing Array
+  Price: 5000
+  Rarity: 6
+- name: Luxury Passenger Compartments
+  Price: 2000
+  Rarity: 3
+- name: Maneuvering Thrusters
+  Price: 500
+- name: Nightshadow Coating
+  Price: 3500
+  Rarity: 8
+- name: Onboard Amenities Unit
+  Price: 750
+  Rarity: 3
+- name: Overcharged Ion Engines
+  Price: 9500
+  Rarity: 4
+- name: Physical Countermeasures
+  Price: 2200
+  Rarity: 4
+- name: Podracer Control Cables
+  Price: 1000
+  Rarity: 2
+- name: Podracer Engine
+  Price: 4000
+  Rarity: 5
+- name: Pseudo-Cloaking Device
+  Price: 12000
+  Restricted: true
+  Rarity: 8
+- name: Rapid Cargo Evacuation Chute
+  Price: 500
+  Restricted: true
+  Rarity: 3
+- name: Reinforced Engine Cowlings
+  Price: 2500
+  Rarity: 3
+- name: Reinforced Shield Generator
+  Price: 3800
+  Rarity: 5
+- name: Repulsorlift Enhancement
+  Price: 2500
+- name: Retrofitted Hanger Bay
+  Price: 5000
+  Rarity: 3
+- name: Secondary Transponder
+  Price: 20000
+  Restricted: true
+  Rarity: 7
+- name: Security Measures
+  Price: 500
+  Rarity: 4
+- name: Shield Generator
+  Price: 4200
+  Rarity: 4
+- name: Sienar Grappler 213 Tactical Tractor Beam
+  Price: 6200
+  Rarity: 7
+- name: Sienar T9 Stinger Assault Boarding Tube
+  Price: 1000
+  Restricted: true
+  Rarity: 4
+- name: Slave Circuit
+  Price: 10000
+  Rarity: 2
+- name: Slicing Computer
+  Price: 5000
+  Rarity: 6
+- name: Smuggling Compartments
+  Price: 1200
+  Restricted: true
+  Rarity: 1
+- name: Tatical Command, Control, and Communications Suite
+  Price: 4200
+  Rarity: 6
+- name: Theater Command and Control System
+  Price: 8500
+  Rarity: 6
+- name: Upgraded Comms Array
+  Price: 4800
+  Rarity: 6
+- name: Upgraded Firepower
+  Price: 1000
+- name: Vaksai Modification Package
+  Price: 45000
+  Rarity: 7
+- name: Whisperthrust Engine
+  Price: 7500
+  Restricted: true
+  Rarity: 7
+- name: Arakyd Mini-Missile Pack
+  Price: 7000
+  Restricted: true
+  Rarity: 5
+- name: Arakyd Missile Pack
+  Price: 10000
+  Restricted: true
+  Rarity: 5
+- name: Ax-108 "Ground Buzzer" Surface-Defense Blaster Cannon
+  Price: 2000
+  Rarity: 5
+- name: Gravity Mine Launcher
+  Price: 3500
+  Rarity: 6
+- name: Minelayer
+  Price: 4000
+  Restricted: true
+  Rarity: 6
+- name: Oversized External Weapons Mount
+  Price: 3000
+  Restricted: true
+  Rarity: 6
+- name: Ram Attachment
+  Price: 6500
+  Rarity: 3
+- name: Sienar MM-XT Mini-Missile Tube
+  Price: 700
+  Restricted: true
+  Rarity: 4

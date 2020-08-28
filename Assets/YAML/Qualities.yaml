@@ -1,0 +1,177 @@
+---
+Items:
+- name: Accurate
+  Active: Passive
+  Ranked: true
+  Effect: For each rank of this trait, the attacker adds [BOOST] to his attack dice pools while using this weapon.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:168, 37ee73a9-01c8-440c-a734-ea52e2ff780a:154, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:161
+  GeneratedId: 3773543e-aab3-410a-a1bc-f3dcc1f1423d
+- name: Auto-Fire
+  Active: Active
+  Effect: Increase the difficulty of the attack by [DIFFICULTY]. If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each time the attacker triggers Auto-fire it deals an additional hit to the target.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:168, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:161
+  GeneratedId: b94e2a0c-2fb5-465f-bbe9-26741c75c74f
+- name: Auto-Fire (Only)
+  Active: Passive
+  Effect: Must use Auto-fire; increase the difficulty of the attack by [DIFFICULTY]. If the attack hits the attacker can trigger Auto-fire. Auto-fire can be triggered multiple times.Each time the attacker triggers Auto-fire it deals an additional hit to the target.
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:45, cf023ae2-5206-49e0-9e39-550bba0f7f56:52
+  GeneratedId: 1b859195-19ba-422d-b8ef-06b26f3b7dc5
+- name: Blast
+  Active: Active
+  Ranked: true
+  Effect: If the attack is successful and Blast activates, each character (friend or foe) Engaged with the original target sufferes wounds equal to the weapon's Blast rating.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:168, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
+  GeneratedId: 36e5d3dd-23e8-4cc9-835f-ccf215802f81
+- name: Breach
+  Active: Passive
+  Ranked: true
+  Effect: Ignore one point of Armor for every rank of Breach
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:168, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
+  GeneratedId: efcd0107-e99a-4e8f-a4a1-1fde85c7a186
+- name: Burn
+  Active: Active
+  Ranked: true
+  Effect: If the attack is successful, the target continues to take the weapon's base damage for a number of rounds equal to the weapon's Burn rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
+  GeneratedId: 11ef3ec0-db93-4122-adab-ce4e992375c9
+- name: Concussive
+  Active: Active
+  Ranked: true
+  Effect: The target is staggered for a number of rounds equal to the weapon's Concussive rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
+  GeneratedId: 08ba61a0-37a0-4cac-86ab-ce66d4314001
+- name: Cortosis
+  Active: Passive
+  Effect: Weapons with the Cortosis quality are immune to the Sunder quality.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:162
+  GeneratedId: 47389124-c209-4217-a109-73558b812528
+- name: Cumbersome
+  Active: Passive
+  Ranked: true
+  Effect: The character needs a Brawn characteristic equal to or greater than the weapon's Cumbersome rating.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:169, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:155, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 944863e7-bfd2-4e2b-ac93-5005cea07c8a
+- name: Defensive
+  Active: Passive
+  Ranked: true
+  Effect: A character wielding a weapon with the Defensive quality increases his melee defense by the weapons's Defensive rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 8e537a67-a066-4d09-9b2e-e269d11abd8b
+- name: Deflection
+  Active: Passive
+  Ranked: true
+  Effect: An item with the Deflection quality increases the wearer's ranged defense equal to its Deflection rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: b21f67bb-df8c-4d0c-8e9f-5ea19cae6887
+- name: Disorient
+  Active: Active
+  Ranked: true
+  Effect: The target is disoriented for a number of rounds equal to the weapon's Disorient rating.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:169, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 9b4fc401-42e2-45af-aa45-6f29a86e5d03
+- name: Ensnare
+  Active: Active
+  Ranked: true
+  Effect: The target is immobilized for a number of rounds equal to the weapon's Ensnare rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 052985fd-b5c4-491e-a940-9dc430787f8f
+- name: Guided
+  Active: Active
+  Ranked: true
+  Effect: Weapon can make an attack check at the end of the round, the check's Ability dice are equal to the weapon's Guided rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: dda81fea-24da-4090-b8d7-55d557e6ffb0
+- name: Inaccurate
+  Active: Passive
+  Ranked: true
+  Effect: Add [SETBACK] to the attacker's dice pool equal to their Inaccurate rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:169, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 4beac3c4-f78e-426a-9986-7c627246f82a
+- name: Inferior
+  Active: Passive
+  Effect: Generates automatic [THREAT] on all checks.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: ce5595a2-5ccb-49ab-bf34-b953f591c043
+- name: Ion
+  Active: Passive
+  Effect: Damage is dealt as System Strain (Vehicles) or Strain Threshold (Droids)
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 568e0255-eb49-4b06-b8cf-28575e18082a
+- name: Knockdown
+  Active: Active
+  Effect: The target is knocked prone.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:169, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 2b088c7e-ccad-43b1-8737-83f8a29b41be
+- name: Limited Ammo
+  Active: Passive
+  Ranked: true
+  Effect: May be used to make a number of attacks equal to it's Limited Ammo rating before it must be reloaded.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:163
+  GeneratedId: 751b1dfd-0187-4ef3-b418-b5888526b551
+- name: Linked
+  Active: Active
+  Ranked: true
+  Effect: On a successful attack the wielder may activate to gain an additional hit and may do so a number of times equal to the weapon's Linked rating.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:156, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 753f80ef-cf2b-45f5-bc8a-f39c319faef7
+- name: Pierce
+  Active: Passive
+  Ranked: true
+  Effect: Ignores one point of Soak for each rank of Pierce
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: b2ab94e4-6345-4574-89fa-0011cabcad9b
+- name: Prepare
+  Active: Passive
+  Ranked: true
+  Effect: The user must perform a number of Prepare maneuvers equal to the weapon's Prepare rating before making attacks.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: ab817a33-66d9-4c0d-ace9-24876aef7893
+- name: Slow-Firing
+  Active: Passive
+  Ranked: true
+  Effect: Weapon must waith a number of rounds equal to its Slow-Firing rating before firing again.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: a5e23ae6-cc85-4e8b-84b3-353d3285d51a
+- name: Stun
+  Active: Active
+  Ranked: true
+  Effect: Weapon causes Strain to the target
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 49e3e6aa-8e7a-40e3-b980-d17bf75bd1c0
+- name: Stun Damage
+  Active: Passive
+  Effect: Weapon deals damage as strain instead of wounds.
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:32, f34ec89d-b99e-4b0c-b9c6-562894526075:170, 02ff3289-de1a-4365-bced-fea8f6b2743b:32, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, d7a5ca79-8e91-4d2a-bc3e-e158ec42530f:32, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 6c130c1e-cc89-4306-afc9-6554fc6f7ab5
+- name: Stun Setting
+  Active: Passive
+  Effect: Can switch weapon to Stun Damage
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:157
+  GeneratedId: 6ddaa727-4b7e-4345-8c5a-43144776902f
+- name: Sunder
+  Active: Active
+  Effect: Damages opposing weapon one step.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 200aa08c-7dfa-4690-aa3e-77a68db306c2
+- name: Superior
+  Active: Passive
+  Effect: Generates automatic [ADVANTAGE] on all checks
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:170, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 1d65dee2-d229-4652-8b5a-1c812287ad55
+- name: Tractor
+  Active: Passive
+  Effect: Target may not move unless it makes a successful Piloting check with a difficulty based on the tractor beam's rating.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:171, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 175f6160-3077-43ef-947a-56e9462f6b7c
+- name: Unwieldy
+  Active: Passive
+  Ranked: true
+  Effect: To wield correctly, character needs Agility characteristic equal or greater than rating.
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 4e7e746c-23b1-41fe-a340-e4659f92c295
+- name: Vicious
+  Active: Passive
+  Ranked: true
+  Effect: Add 10 times the Vicious rating to the critical roll.
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:171, 37ee73a9-01c8-440c-a734-ea52e2ff780a:157, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:164
+  GeneratedId: 0ac6f5a5-eb63-4ca2-8665-844401058704

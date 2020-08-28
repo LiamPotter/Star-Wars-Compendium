@@ -1,0 +1,4969 @@
+---
+Items:
+- category: Armed Transport
+  Name: Gozanti-Class Armed Transport
+  Silhouette: 5
+  Speed: 2
+  Handling: -3
+  Model: Gozanti
+  Manufacturer: Gallofree Yards, Inc. and Corellian Engineering Corporation
+  Crew: 12
+  Encumbrance: 1000
+  Passengers: 12
+  Price: 200000
+  Restricted: false
+  Rarity: 6
+  Weapons: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:277, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:58
+  GeneratedId: 9a3765d8-06f3-40c8-9e67-7e2dda962006
+- category: Assault Ship
+  Name: VT-49 Decimator
+  Silhouette: 4
+  Speed: 3
+  Handling: -3
+  Model: VT-49 Decimator
+  Manufacturer: Kuat Drive Yards
+  Crew: 4
+  Encumbrance: 60
+  Passengers: 6
+  Price: 160000
+  Restricted: false
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:55
+  GeneratedId: aebdc382-9644-45d6-bbb6-b455b7e555f2
+- category: Assault Starfighter
+  Name: Alpha-class XG-1 "Star Wing" Assault Gunboat
+  Silhouette: 3
+  Speed: 4
+  Handling: -2
+  Model: Alpha-class
+  Manufacturer: Cygnus Spaceworks
+  Crew: 1
+  Encumbrance: 8
+  Price: 135000
+  Restricted: true
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:54
+  GeneratedId: 7b7945ac-0d0a-4aa8-a1c7-173f211d6b4c
+- category: Barge
+  Name: J-Type Diplomatic Barge
+  Silhouette: 5
+  Speed: 4
+  Handling: 1
+  Model: J-Type
+  Manufacturer: Nubia Star Drives
+  Crew: 5
+  Encumbrance: 180
+  Passengers: 10
+  Price: 1000000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:62
+  GeneratedId: 56f92b4c-4e90-4ccc-9903-4b0720adbf1f
+- category: Battlecruiser
+  Name: Maelstrom-class Battle Cruiser
+  Silhouette: 8
+  Speed: 1
+  Handling: -3
+  Model: Maelstrom-classs
+  Manufacturer: Kuat Drive Yards
+  Crew: 45000
+  Encumbrance: 12500
+  Passengers: 15000
+  Price: 158000000
+  Restricted: true
+  Rarity: 8
+  Weapons: 120
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:57
+  GeneratedId: 8824f969-0232-4a2c-9930-5fa4b97e7454
+- category: Bulk Cruiser
+  Name: Corellian Engineering Corporation Deep Space Recovery Vessel L-2783
+  Silhouette: 5
+  Speed: 2
+  Handling: -4
+  Model: L-2783
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 100
+  Encumbrance: 5000
+  Passengers: 100
+  Price: 6500000
+  Restricted: false
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: d9ac248f-b392-4790-8683-dca15e8ba603:64
+  GeneratedId: bd2d1390-5ff7-465e-b842-faa7a5071075
+- category: Bulk Cruiser
+  Name: Rendili Stardrive Neutron Star-Class Bulk Cruiser
+  Silhouette: 7
+  Speed: 1
+  Handling: -3
+  Model: Neutron Star
+  Manufacturer: Rendili Star Drive
+  Crew: 2200
+  Encumbrance: 5000
+  Passengers: 250
+  Price: 2800000
+  Restricted: false
+  Rarity: 4
+  Weapons: 51
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:69
+  GeneratedId: adce1d4b-c79f-441b-800a-79ebbe75427f
+- category: Bulk Freighter
+  Name: Action IV Bulk Freighter
+  Silhouette: 5
+  Speed: 2
+  Handling: -2
+  Model: Action IV
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 26
+  Encumbrance: 8500
+  Passengers: 6
+  Price: 150000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:61
+  GeneratedId: 16c283ec-4075-4021-a8af-f382f23970fc
+- category: Bulk Freighter
+  Name: ISO-One
+  Silhouette: 5
+  Speed: 2
+  Handling: -3
+  Model: BFF-1 series
+  Manufacturer: Phylon Freight
+  Crew: 15
+  Encumbrance: 1000
+  Passengers: 25
+  Price: 150000
+  Restricted: false
+  Rarity: 4
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:96
+  GeneratedId: c444dcd8-c735-4a47-ba99-e2846e3ec75d
+- category: Bulk Freighter
+  Name: ND-47 Stalwart Bulk Freighter
+  Silhouette: 5
+  Speed: 2
+  Handling: -2
+  Model: Stalwart-class
+  Manufacturer: Nova-Drive
+  Crew: 4
+  Encumbrance: 200
+  Passengers: 10
+  Price: 70000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:62
+  GeneratedId: f680f78d-c7eb-416e-9bd9-34ca29858563
+- category: Carrier
+  Name: Quasar Fire-class Escort Carrier
+  Silhouette: 6
+  Speed: 2
+  Handling: -2
+  Model: Quasar Fire
+  Manufacturer: SoroSuub Corporation
+  Crew: 250
+  Encumbrance: 5000
+  Passengers: 150
+  Price: 1750000
+  Restricted: false
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:61
+  GeneratedId: 58d20e47-ce27-4b00-ba6b-89cd30b6d3d0
+- category: Carrier
+  Name: Secutor-class Battlecarrier
+  Silhouette: 8
+  Speed: 2
+  Handling: -4
+  Model: Secutor
+  Manufacturer: Kuat Drive Yards
+  Crew: 40000
+  Encumbrance: 28000
+  Passengers: 14000
+  Price: 200000000
+  Restricted: true
+  Rarity: 7
+  Weapons: 73
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:62
+  GeneratedId: 0ce375d4-3802-4934-9371-209a0b9478c2
+- category: Carrier
+  Name: Ton-Falk-class Escort Carrier
+  Silhouette: 7
+  Speed: 2
+  Handling: -3
+  Model: Ton-Falk
+  Manufacturer: Kuat Drive Yards
+  Crew: 4000
+  Encumbrance: 9000
+  Passengers: 800
+  Price: 3500000
+  Restricted: true
+  Rarity: 7
+  Weapons: 15
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:61
+  GeneratedId: 5034cd75-56df-471b-95d0-aa8828b79991
+- category: Corvette
+  Name: Blockade Bandit
+  Silhouette: 5
+  Speed: 2
+  Handling: -2
+  Model: CR90
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 40
+  Encumbrance: 750
+  Passengers: 50
+  Price: 700000
+  Restricted: false
+  Rarity: 5
+  Weapons: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:93
+  GeneratedId: 1ff6b172-1520-41a3-8ced-9c358dab6172
+- category: Corvette
+  Name: CR90 Corvette
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: CR90
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 165
+  Encumbrance: 2500
+  Passengers: 600
+  Price: 1200000
+  Restricted: false
+  Rarity: 5
+  Weapons: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:274, 37ee73a9-01c8-440c-a734-ea52e2ff780a:266, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:266
+  GeneratedId: 9afaf5c3-3760-4029-a38d-632e97b6760f
+- category: Corvette
+  Name: CR92A Assassin-Class Corvette
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: CR92a
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 150
+  Encumbrance: 1000
+  Passengers: 60
+  Price: 2500000
+  Restricted: true
+  Rarity: 6
+  Weapons: 10
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:113
+  GeneratedId: 97d14d97-ec64-443f-8f4b-78cabaf269a8
+- category: Corvette
+  Name: Cybershop Ship
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: Modified CR90
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 135
+  Encumbrance: 1000
+  Passengers: 220
+  Price: 1300000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: d9ac248f-b392-4790-8683-dca15e8ba603:63
+  GeneratedId: 034f53f3-2597-440c-b368-ff91aa21cb5a
+- category: Corvette
+  Name: Marauder-Class Assault Corvette
+  Silhouette: 5
+  Speed: 3
+  Model: Marauder
+  Manufacturer: Republic Sienar Systems
+  Crew: 177
+  Encumbrance: 175
+  Passengers: 80
+  Price: 3000000
+  Restricted: true
+  Rarity: 5
+  Weapons: 11
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:267
+  GeneratedId: 2d23b2eb-6636-48b2-8d22-cbad89541c58
+- category: Corvette
+  Name: Savrip
+  Silhouette: 5
+  Speed: 3
+  Model: Marauder
+  Manufacturer: Republic Sienar Systems
+  Crew: 120
+  Encumbrance: 175
+  Passengers: 40
+  Restricted: true
+  Rarity: 5
+  Weapons: 11
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:83
+  GeneratedId: 58841251-5b25-48b6-8d84-c82480500d7d
+- category: Corvette
+  Name: Vigil-Class Corvette
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: Vigil
+  Manufacturer: Kuat Drive Yards
+  Crew: 200
+  Encumbrance: 1800
+  Passengers: 200
+  Price: 3500000
+  Restricted: true
+  Rarity: 5
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:274
+  GeneratedId: 551044f4-4b0a-4e01-8b4b-c1884281524e
+- category: Courier
+  Name: Sienar Fleet Systems Legate-Class Courier
+  Silhouette: 4
+  Speed: 4
+  Model: Legate-class
+  Manufacturer: Sienar Fleet Systems
+  Crew: 2
+  Encumbrance: 15
+  Passengers: 4
+  Price: 65000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: bb9db15e-1f38-4c66-accc-c827ec545e76:63
+  GeneratedId: 31a4ee55-f4e3-432d-b8dc-c33433f85e42
+- category: Cruiser
+  Name: End of Days
+  Silhouette: 7
+  Speed: 3
+  Handling: -1
+  Model: Keldabe
+  Manufacturer: Zann Consortium
+  Crew: 6000
+  Encumbrance: 8000
+  Passengers: 1000
+  Price: 200000000
+  Restricted: true
+  Rarity: 8
+  Weapons: 47
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:80
+  GeneratedId: 809a8613-ce0f-4f61-8529-281fb287eb57
+- category: Cruiser
+  Name: Jedi Training Cruiser Crucible
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: Unknown Class
+  Manufacturer: believed to be Rendili Vehicle Corporation
+  Crew: 2
+  Encumbrance: 300
+  Passengers: 10
+  Price: 2000000
+  Restricted: true
+  Rarity: 10
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:64
+  GeneratedId: 79a0fbe3-3343-4a24-968b-92d720a02d51
+- category: Cruiser
+  Name: Keldabe-Class Battleship
+  Silhouette: 7
+  Speed: 3
+  Handling: -1
+  Model: Keldabe
+  Manufacturer: Mandal Motors / Zann Consortium
+  Crew: 6000
+  Encumbrance: 8000
+  Passengers: 1000
+  Price: 200000000
+  Restricted: true
+  Rarity: 8
+  Weapons: 47
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:69
+  GeneratedId: 1aa158bd-bc93-4eb3-b428-1b6dcf7d6e93
+- category: Destroyer
+  Name: ADZ-Class Destroyer
+  Silhouette: 5
+  Speed: 2
+  Handling: -2
+  Model: Adz
+  Manufacturer: Kuat Drive Yards
+  Crew: 30
+  Encumbrance: 250
+  Passengers: 8
+  Price: 4450000
+  Restricted: true
+  Rarity: 7
+  Weapons: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:266
+  GeneratedId: ecd2fb1e-f258-4ab0-a6c6-f138af28b907
+- category: Dreadnought
+  Name: Assertor-class Command Dreadnought
+  Silhouette: 9
+  Speed: 2
+  Handling: -4
+  Model: Assertor-class
+  Manufacturer: Kuat Drive Yards
+  Crew: 125000
+  Encumbrance: 145000
+  Passengers: 20000
+  Price: 1100000000
+  Restricted: true
+  Rarity: 10
+  Weapons: 320
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:56
+  GeneratedId: 7a6bdfc0-e060-4600-b06e-f941af27b05e
+- category: Droid Operated
+  Name: YQ-400 Monitor-Class System Patrol Ship
+  Silhouette: 4
+  Speed: 3
+  Model: Monitor-class
+  Manufacturer: The Nerfworks
+  Price: 200000
+  Restricted: false
+  Rarity: 8
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:55
+  GeneratedId: e10ccd81-8bc1-480d-b7ec-18354c1b76f1
+- category: Escape Pod
+  Name: Consular-Class Cruiser's Salon Pod
+  Silhouette: 3
+  Speed: 2
+  Handling: -4
+  Model: Salon Pod
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 10
+  Restricted: false
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:63
+  GeneratedId: f183c1fe-96c1-4ae5-a2f4-bfdbc069d789
+- category: Escape Pod
+  Name: Escape Pod
+  Silhouette: 2
+  Speed: 3
+  Handling: -1
+  Model: Escape Pod
+  Manufacturer: Faberstien-Lago
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 5
+  Price: 5000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: c88afe62-c2c6-4649-94eb-b5c0c648d411:14
+  GeneratedId: 894f60a1-3159-4ffa-a331-6318c7afbce5
+- category: Escape Pod
+  Name: Life Boat
+  Silhouette: 3
+  Speed: 3
+  Handling: -2
+  Model: Life Boat
+  Manufacturer: Faberstien-Lago
+  Crew: 1
+  Encumbrance: 50
+  Passengers: 25
+  Price: 15000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: c88afe62-c2c6-4649-94eb-b5c0c648d411:14
+  GeneratedId: 110f685b-54c5-4928-bb02-f53aea5fd22d
+- category: Frigate
+  Name: DP20 Gunship
+  Silhouette: 5
+  Speed: 4
+  Handling: -1
+  Model: DP20
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 91
+  Encumbrance: 300
+  Price: 3200000
+  Restricted: false
+  Rarity: 6
+  Weapons: 18
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:266
+  GeneratedId: 6a5a9552-ecc8-46c1-8ee0-13157265b1be
+- category: Frigate
+  Name: EF76 Nebulon-B Escort Frigate
+  Silhouette: 6
+  Speed: 3
+  Handling: -1
+  Model: Nebulon-B
+  Manufacturer: Kuat Drive Yards
+  Crew: 920
+  Encumbrance: 4000
+  Passengers: 75
+  Price: 8500000
+  Restricted: true
+  Rarity: 7
+  Weapons: 27
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:278*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:268
+  GeneratedId: 036fbab0-5750-4751-bdf1-bcf57f8050be
+- category: Frigate
+  Name: Flatline and Brilliance
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: Interceptor IV
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 20
+  Encumbrance: 10000
+  Passengers: 5
+  Price: 300000
+  Restricted: false
+  Rarity: 7
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:81
+  GeneratedId: e6e0f155-5fa8-4871-b2b4-cf4cc1d8270e
+- category: Frigate
+  Name: Imperial System Patrol Craft IPV-1
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: IPV-1
+  Manufacturer: Sienar Fleet Systems
+  Crew: 12
+  Encumbrance: 20
+  Passengers: 10
+  Price: 4000000
+  Restricted: true
+  Rarity: 5
+  Weapons: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:93
+  GeneratedId: 18e7d219-4be3-4f6f-9206-2255618d7bd4
+- category: Frigate
+  Name: IR-3F-Class Light Frigate
+  Silhouette: 5
+  Speed: 4
+  Handling: -1
+  Model: IR-3F
+  Manufacturer: Republic Sienar Systems
+  Crew: 20
+  Encumbrance: 1800
+  Passengers: 10
+  Price: 1000000
+  Restricted: false
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:267
+  GeneratedId: 1033b38a-e870-415d-b72c-50b6a12bd03d
+- category: Frigate
+  Name: Lancer-Class Frigate
+  Silhouette: 5
+  Speed: 2
+  Handling: -1
+  Model: Lancer
+  Manufacturer: Kuat Drive Yards
+  Crew: 800
+  Encumbrance: 200
+  Passengers: 40
+  Price: 4760000
+  Restricted: true
+  Rarity: 7
+  Weapons: 20
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:278
+  GeneratedId: b64d8a59-0331-4026-813b-5419a76b6729
+- category: Frigate
+  Name: MC30c Frigate
+  Silhouette: 6
+  Speed: 4
+  Model: MC30c
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 820
+  Encumbrance: 3500
+  Passengers: 95
+  Price: 9500000
+  Restricted: true
+  Rarity: 6
+  Weapons: 40
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:118
+  GeneratedId: 0f15fd7a-f53d-4547-94dd-d02665479d10
+- category: Frigate
+  Name: Munificent-class Command, Control, and Communications Frigate
+  Silhouette: 7
+  Speed: 2
+  Model: Munificent-class
+  Manufacturer: Hoersch-Kessel Drive, Inc
+  Crew: 1100
+  Encumbrance: 10000
+  Passengers: 850
+  Price: 12300000
+  Restricted: false
+  Rarity: 9
+  Weapons: 108
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:52
+  GeneratedId: 7b7dedab-c8c7-42aa-b709-81251255761a
+- category: Frigate
+  Name: Shadow Raptor
+  Silhouette: 6
+  Speed: 3
+  Handling: 1
+  Model: Nebulon-B
+  Manufacturer: Kuat Drive Yards
+  Crew: 683
+  Encumbrance: 3500
+  Passengers: 225
+  Price: 8500000
+  Restricted: true
+  Rarity: 7
+  Weapons: 39
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: c88afe62-c2c6-4649-94eb-b5c0c648d411:13
+  GeneratedId: 5133cc20-32e5-4396-8127-ad7938dc4fc9
+- category: Frigate
+  Name: Starbolt Assault Carrier
+  Silhouette: 6
+  Speed: 3
+  Handling: -1
+  Model: Starbolt
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 800
+  Encumbrance: 4000
+  Passengers: 250
+  Price: 10000000
+  Restricted: true
+  Rarity: 8
+  Weapons: 10
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:70
+  GeneratedId: fec625ee-41aa-4308-b273-674afe567543
+- category: Frigate
+  Name: Surveyor-class Reconnaissance Frigate
+  Silhouette: 6
+  Speed: 3
+  Handling: -1
+  Model: Surveyor-class
+  Manufacturer: Kuat Drive Yards
+  Crew: 900
+  Encumbrance: 3700
+  Passengers: 80
+  Price: 9600000
+  Restricted: true
+  Rarity: 8
+  Weapons: 22
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:53
+  GeneratedId: cc6151c9-1fb3-4be4-8a5b-d0ff47fb50f6
+- category: Frigate
+  Name: Ubrikkian Industries Kossak-Class Frigate
+  Silhouette: 6
+  Speed: 3
+  Handling: -2
+  Model: Kossak-Class
+  Manufacturer: Ubrikkian Industries
+  Crew: 975
+  Encumbrance: 3500
+  Passengers: 90
+  Price: 8300000
+  Restricted: false
+  Rarity: 7
+  Weapons: 30
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:117
+  GeneratedId: fd36b015-e402-494d-ad3d-8ab2bef70eb2
+- category: Frigate
+  Name: Xanter-Class Deep-Space Exploration Frigate
+  Silhouette: 6
+  Speed: 1
+  Handling: -2
+  Model: Xanter
+  Manufacturer: Rendili Star Drive
+  Crew: 150
+  Encumbrance: 2000
+  Passengers: 50
+  Price: 3750000
+  Restricted: false
+  Rarity: 7
+  Weapons: 11
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:67
+  GeneratedId: 26ae95e7-0c38-49b9-8e96-3181384a7d5f
+- category: Gunship
+  Name: Barrage Gunship
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: Barrage-class
+  Manufacturer: Alto Systems
+  Crew: 7
+  Encumbrance: 90
+  Passengers: 5
+  Price: 145000
+  Restricted: false
+  Rarity: 8
+  Weapons: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:62
+  GeneratedId: f04df9f0-7455-4406-87ce-d4459166b33d
+- category: Heavy Cruiser
+  Name: Dreadnought-Class Heavy Cruiser
+  Silhouette: 7
+  Speed: 2
+  Handling: -2
+  Model: Dreadnought
+  Manufacturer: Rendili Star Drive
+  Crew: 16000
+  Encumbrance: 7500
+  Passengers: 3000
+  Price: 7200000
+  Restricted: false
+  Rarity: 6
+  Weapons: 40
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:279
+  GeneratedId: 4c973c6b-3397-47de-8ff9-4e718ee4856e
+- category: Heavy Cruiser
+  Name: Interdictor-Class Heavy Cruiser
+  Silhouette: 7
+  Speed: 2
+  Handling: -2
+  Model: Interdictor-class
+  Manufacturer: Sienar Fleet Systems
+  Crew: 2807
+  Encumbrance: 6500
+  Passengers: 80
+  Price: 15400000
+  Restricted: true
+  Rarity: 8
+  Weapons: 20
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:280, 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:60
+  GeneratedId: 28b506bc-f6fb-4c9a-9711-97f6ee839baf
+- category: Heavy Cruiser
+  Name: Vindicator-Class Heavy Cruiser
+  Silhouette: 7
+  Speed: 3
+  Handling: -1
+  Model: Vindicator
+  Manufacturer: Sienar Fleet Systems
+  Crew: 2551
+  Encumbrance: 7500
+  Passengers: 400
+  Price: 10400000
+  Restricted: true
+  Rarity: 8
+  Weapons: 58
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:280
+  GeneratedId: 4163cb4f-0e7c-498f-8215-4f0d2b494781
+- category: Heavy Freighter
+  Name: Temple-Class Heavy Freighter
+  Silhouette: 6
+  Speed: 1
+  Handling: -3
+  Model: Temple
+  Manufacturer: Kuat Drive Yards
+  Crew: 50
+  Encumbrance: 30000
+  Passengers: 150
+  Price: 950000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:443
+  GeneratedId: c748e46a-4c4e-4312-ab1e-c4670f97ed2d
+- category: Heavy Star Cruiser
+  Name: Independence
+  Silhouette: 8
+  Speed: 2
+  Handling: -2
+  Model: Home One
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 5400
+  Encumbrance: 20000
+  Passengers: 1200
+  Price: 150000000
+  Restricted: false
+  Rarity: 7
+  Weapons: 78
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:60
+  GeneratedId: ae21e08f-cf86-4eee-884d-9ce87940067c
+- category: Heavy Star Cruiser
+  Name: MC80 Liberty Type Star Cruiser
+  Silhouette: 8
+  Speed: 2
+  Handling: -2
+  Model: Liberty
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 5400
+  Encumbrance: 70000
+  Passengers: 1200
+  Price: 104000000
+  Restricted: false
+  Rarity: 7
+  Weapons: 74
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:284
+  GeneratedId: 18f2dddb-9eb7-4750-a10b-1d8b1fda83d3
+- category: Heavy Star Cruiser
+  Name: MC80A Home One type Heavy Star Cruiser
+  Silhouette: 9
+  Speed: 2
+  Handling: -2
+  Model: Home One type
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 5480
+  Encumbrance: 85000
+  Passengers: 1200
+  Price: 112000000
+  Restricted: false
+  Rarity: 8
+  Weapons: 158
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:54
+  GeneratedId: a1d6d5e4-e6ad-4c21-99b2-63900acc2aa1
+- category: Light Assault Transport
+  Name: 4R3 Light Assault Transport
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: 4R3
+  Manufacturer: Telgorn Corporation
+  Crew: 5
+  Encumbrance: 80
+  Passengers: 16
+  Price: 300000
+  Restricted: false
+  Rarity: 7
+  Weapons: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:67
+  GeneratedId: a043fde3-09ec-420f-b72d-b9662cee8bda
+- category: Light Assault Transport
+  Name: Surronian Conqueror-Class Assault Ship
+  Silhouette: 4
+  Speed: 3
+  Model: Conqueror
+  Manufacturer: Surronian
+  Crew: 3
+  Encumbrance: 80
+  Passengers: 1
+  Price: 100500
+  Restricted: false
+  Rarity: 9
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:67
+  GeneratedId: 028b9777-61f4-4e28-a667-7412258c04aa
+- category: Light Cruiser
+  Name: C-ROC Gozanti-class Light Cruiser
+  Silhouette: 5
+  Speed: 3
+  Handling: -3
+  Model: Gozanti-class/C-ROC Type
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 12
+  Encumbrance: 1800
+  Passengers: 20
+  Price: 190000
+  Restricted: false
+  Rarity: 8
+  Weapons: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:63
+  GeneratedId: 7dd5eb2e-d0d3-4073-b0f8-93a459384dc5
+- category: Light Cruiser
+  Name: Consular-Class Light Assault Cruiser
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: Consular
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 9
+  Encumbrance: 3200
+  Passengers: 16
+  Price: 3400000
+  Restricted: false
+  Rarity: 5
+  Weapons: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:276
+  GeneratedId: a4b1fd64-4267-4517-a8b4-dfcb439452dd
+- category: Light Cruiser
+  Name: MC40a Light Cruiser
+  Silhouette: 6
+  Speed: 2
+  Handling: -1
+  Model: MC40a
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 3770
+  Encumbrance: 5000
+  Passengers: 650
+  Price: 15500000
+  Restricted: true
+  Rarity: 6
+  Weapons: 40
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:119
+  GeneratedId: 74e9dc9f-d1d1-49de-a809-73154fd7e82c
+- category: Light Cruiser
+  Name: Renegade's Blood
+  Silhouette: 5
+  Speed: 4
+  Model: Consular
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 9
+  Encumbrance: 3200
+  Passengers: 16
+  Price: 3400000
+  Restricted: false
+  Rarity: 5
+  Weapons: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:82
+  GeneratedId: f8867891-80ab-40fb-a0be-b14b450e4ce2
+- category: Light Freighter
+  Name: G9 Rigger Light Freighter
+  Silhouette: 4
+  Speed: 2
+  Handling: -2
+  Model: Rigger-class
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 80
+  Passengers: 6
+  Price: 55000
+  Restricted: false
+  Rarity: 5
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:262
+  GeneratedId: b30753f7-14e7-40d7-ad2e-4f7cea7dc1de
+- category: Light Freighter
+  Name: Kazellis-Class Light Freighter
+  Silhouette: 4
+  Speed: 4
+  Model: Kazellis-class
+  Manufacturer: Kazellis Corporation
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 4
+  Price: 70000
+  Restricted: false
+  Rarity: 8
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:59
+  GeneratedId: e8e7628b-7acf-4ddb-94a7-201a933817e5
+- category: Light Freighter
+  Name: Lancer-class Pursuit Craft
+  Silhouette: 4
+  Speed: 5
+  Handling: -2
+  Model: Lancer-class
+  Manufacturer: MandalMotors
+  Crew: 2
+  Encumbrance: 60
+  Passengers: 4
+  Price: 120000
+  Restricted: false
+  Rarity: 8
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:61
+  GeneratedId: f3a140bb-d71e-472c-9d8f-221500ba4268
+- category: Light Freighter
+  Name: MC-18 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Model: MC-18
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 2
+  Encumbrance: 150
+  Passengers: 5
+  Price: 140000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:62
+  GeneratedId: a8069142-3457-4b96-ab41-8da496ec7834
+- category: Light Freighter
+  Name: VCX-100 Light Freighter
+  Silhouette: 5
+  Speed: 3
+  Handling: -3
+  Model: VCX-100
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 6
+  Encumbrance: 200
+  Passengers: 6
+  Price: 155000
+  Restricted: false
+  Rarity: 8
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:63
+  GeneratedId: 8f131511-f01c-4d77-988d-6bb82a5fac7d
+- category: Light Freighter
+  Name: Wander-Class Jump Freighter
+  Silhouette: 3
+  Speed: 3
+  Model: Wander-class
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 3
+  Encumbrance: 50
+  Passengers: 1
+  Price: 65000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:59
+  GeneratedId: 95672a86-f451-49b1-a8fc-9900a728034d
+- category: Light Freighter
+  Name: YV-666
+  Silhouette: 4
+  Speed: 3
+  Handling: -2
+  Model: YV-666
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 200
+  Passengers: 6
+  Price: 132000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:62
+  GeneratedId: ee9d8d41-7b10-4b51-82a2-90a3aa224e81
+- category: Patrol Boat
+  Name: Agressor Assault Fighter
+  Silhouette: 4
+  Speed: 5
+  Handling: -1
+  Model: Aggressor
+  Manufacturer: Trilon Inc
+  Crew: 2
+  Encumbrance: 20
+  Passengers: 8
+  Price: 160000
+  Restricted: false
+  Rarity: 6
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:58
+  GeneratedId: 476fc22a-a72e-47be-bf1a-cfdded85b0fc
+- category: Patrol Boat
+  Name: Bloodblade
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: Firespray
+  Manufacturer: Kuat Systems Engineering
+  Crew: 3
+  Encumbrance: 40
+  Passengers: 6
+  Price: 80000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:143*
+  GeneratedId: c95bb2fc-0712-4752-9b5a-9b238ecd6629
+- category: Patrol Boat
+  Name: Far*Reach Reconnaissance Ship
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Far*Reach-class
+  Manufacturer: Loronar Corporation
+  Crew: 6
+  Encumbrance: 65
+  Passengers: 2
+  Price: 60000
+  Restricted: false
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
+  GeneratedId: d3128d62-15c7-4200-b46a-e2f4ef1eeec4
+- category: Patrol Boat
+  Name: Firespray-31 System Patrol Craft
+  Silhouette: 4
+  Speed: 4
+  Model: Firespray
+  Manufacturer: Kuat Systems Engineering
+  Crew: 3
+  Encumbrance: 40
+  Passengers: 6
+  Price: 80000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 02ff3289-de1a-4365-bced-fea8f6b2743b:43*, 37ee73a9-01c8-440c-a734-ea52e2ff780a:255
+  GeneratedId: 1ab4db49-c42e-47d4-badf-218acc96f0c0
+- category: Patrol Boat
+  Name: G-1A Heavy Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: G-1A
+  Manufacturer: Byblos Drive Yards
+  Crew: 2
+  Encumbrance: 25
+  Passengers: 3
+  Price: 130000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:59
+  GeneratedId: acd1f552-211d-4b44-8f5f-f6b9ba452546
+- category: Patrol Boat
+  Name: GAT-12H Skipray Blastboat
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: Skipray
+  Manufacturer: Sienar Fleet Systems
+  Crew: 5
+  Encumbrance: 20
+  Price: 150000
+  Restricted: false
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:259
+  GeneratedId: b16f10e7-f012-4a6c-81eb-73b3773f76a6
+- category: Patrol Boat
+  Name: Imperial Customs Frigate
+  Silhouette: 4
+  Speed: 3
+  Handling: -2
+  Model: Customs Frigate
+  Manufacturer: Rendili StarDrive
+  Crew: 12
+  Encumbrance: 140
+  Passengers: 10
+  Price: 140000
+  Restricted: true
+  Rarity: 6
+  Weapons: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:54
+  GeneratedId: 774c6b15-0224-4405-9089-31209ae86e0f
+- category: Patrol Boat
+  Name: Incom A-24 Sleuth-Class Scout Ship
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: Sleuth
+  Manufacturer: Incom Corporation
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 1
+  Price: 45000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:59
+  GeneratedId: 866fa7a3-e709-404d-aea6-93bad8d4bf12
+- category: Patrol Boat
+  Name: Incom A-36 Pathfinder-Class Force Reconnaissance Vessel
+  Silhouette: 4
+  Speed: 4
+  Model: Pathfinder
+  Manufacturer: Incom Corporation
+  Crew: 4
+  Encumbrance: 40
+  Passengers: 4
+  Price: 135000
+  Restricted: false
+  Rarity: 7
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:60
+  GeneratedId: de55f260-45ba-4337-8f4f-a358b4667ee8
+- category: Patrol Boat
+  Name: JM-5000 Jumpmaster Long Range Scout
+  Silhouette: 4
+  Speed: 4
+  Handling: 1
+  Model: JumpMaster
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 30
+  Passengers: 1
+  Price: 55000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:71, 37ee73a9-01c8-440c-a734-ea52e2ff780a:256
+  GeneratedId: c70e0b8c-4d3f-4d80-97ab-fb23d70c1116
+- category: Patrol Boat
+  Name: Loronar E-9 Explorer-Class Armed Long-Range Scout Vessel
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Explorer
+  Manufacturer: Loronar Corporation
+  Crew: 4
+  Encumbrance: 60
+  Passengers: 4
+  Price: 120000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:61
+  GeneratedId: e2984631-ce0b-45ea-9d14-dc8e7465ef86
+- category: Patrol Boat
+  Name: MandalMotors M22-T Krayt Gunship
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: M22-T Krayt
+  Manufacturer: MandalMotors
+  Crew: 2
+  Encumbrance: 20
+  Passengers: 2
+  Price: 185000
+  Restricted: false
+  Rarity: 6
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:114
+  GeneratedId: 29e483a4-0637-49e2-b6b3-ed4c29e6a520
+- category: Patrol Boat
+  Name: PB-950 Patrol Boat
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: PB-950
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 4
+  Encumbrance: 150
+  Passengers: 8
+  Price: 150000
+  Restricted: false
+  Rarity: 5
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:110
+  GeneratedId: 1929b6ca-5122-4362-a0ac-d0d9d0787b92
+- category: Patrol Boat
+  Name: PPB Pocket Patrol Boat
+  Silhouette: 3
+  Speed: 4
+  Model: PPB
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 12
+  Price: 70000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:109
+  GeneratedId: df734075-777a-4952-a411-4122240d0486
+- category: Patrol Boat
+  Name: Regulator-Class Patrol Vessel
+  Silhouette: 4
+  Speed: 4
+  Model: Regulator-class
+  Manufacturer: Sienar Fleet Systems
+  Crew: 2
+  Encumbrance: 18
+  Passengers: 6
+  Price: 110000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:55
+  GeneratedId: 6eed6fec-c54a-4f2f-bcc3-1fd4b265f445
+- category: Patrol Boat
+  Name: The Diligent
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: PB-950
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 4
+  Encumbrance: 180
+  Passengers: 8
+  Price: 125000
+  Restricted: false
+  Rarity: 5
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:127
+  GeneratedId: d1866728-4666-4286-98eb-0f52eed21702
+- category: Racing Vessel
+  Name: S-Type Racing Sloop
+  Silhouette: 3
+  Speed: 6
+  Handling: 1
+  Model: S-Type Racing Sloop
+  Manufacturer: Nubia Star Drives, Inc.
+  Crew: 2
+  Encumbrance: 20
+  Passengers: 2
+  Price: 160000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:111
+  GeneratedId: b018d80c-44b1-4e75-9200-52b5438b6490
+- category: Scout Ship
+  Name: Alidade-class Long-Range Survey Ship
+  Silhouette: 5
+  Speed: 2
+  Handling: -1
+  Model: Alidade-class
+  Manufacturer: Sienar Ships
+  Crew: 8
+  Encumbrance: 250
+  Passengers: 5
+  Price: 150000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:58
+  GeneratedId: 9f689cb9-daf0-4f57-888f-005bee59e441
+- category: Scout Ship
+  Name: Kaminoan Observation Ship
+  Silhouette: 6
+  Speed: 2
+  Handling: -2
+  Model: Observation Platform
+  Manufacturer: Kamino Engineering
+  Encumbrance: 2500
+  Passengers: 20
+  Price: 750000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:65
+  GeneratedId: ac850b03-458b-464d-84f2-c8a5adeee058
+- category: Scout Ship
+  Name: The Deep Dark
+  Silhouette: 4
+  Speed: 3
+  Model: Skywatcher-class
+  Manufacturer: Sienar Fleet Systems
+  Crew: 12
+  Encumbrance: 50
+  Passengers: 6
+  Price: 120000
+  Restricted: true
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:70
+  GeneratedId: 64ddb8d0-3632-4dd8-8377-211d03e537e1
+- category: Scout Ship
+  Name: Vangaard Pathfinder Scout Ship
+  Silhouette: 4
+  Speed: 4
+  Handling: 1
+  Model: Pathfinder
+  Manufacturer: Vangaard Industries
+  Crew: 2
+  Encumbrance: 45
+  Passengers: 2
+  Price: 45000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:260
+  GeneratedId: 8fc5e072-08f9-4f3d-9d58-c8bff03bd754
+- category: Shuttle
+  Name: Curich-Class Shuttle
+  Silhouette: 5
+  Speed: 3
+  Model: Curich
+  Manufacturer: Sienar Fleet Systems
+  Crew: 3
+  Encumbrance: 300
+  Passengers: 50
+  Price: 130000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:61
+  GeneratedId: 8de59554-fc8b-4aec-a864-b1089cce5dc9
+- category: Shuttle
+  Name: Cygnus Spaceworks Eta-Class Shuttle
+  Silhouette: 4
+  Speed: 3
+  Model: Eta-class
+  Manufacturer: Cygnus Spaceworks
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 10
+  Price: 100000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  GeneratedId: 3bfce3eb-c5b7-4cca-b2c8-f2270fe6a5b5
+- category: Shuttle
+  Name: Kappa-Class Shuttle
+  Silhouette: 4
+  Speed: 3
+  Model: Kappa
+  Manufacturer: Sienar Fleet Systems
+  Crew: 4
+  Encumbrance: 150
+  Passengers: 40
+  Price: 80000
+  Restricted: true
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: c88afe62-c2c6-4649-94eb-b5c0c648d411:20
+  GeneratedId: bfb4976f-2cf6-469b-957e-0ded86d0f36e
+- category: Shuttle
+  Name: Kappa-Class Shuttle
+  Silhouette: 4
+  Speed: 3
+  Model: Kappa
+  Manufacturer: Republic Sienar Systems
+  Crew: 4
+  Encumbrance: 250
+  Passengers: 40
+  Price: 110000
+  Restricted: true
+  Rarity: 5
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:63
+  GeneratedId: 5b219bf9-4320-45e6-a55c-ff7e3ed69bbf
+- category: Shuttle
+  Name: Lambda-Class T-4A Long Range Shuttle
+  Silhouette: 4
+  Speed: 3
+  Model: Lambda
+  Manufacturer: Sienar Fleet Systems and Cygnus Spaceworks
+  Crew: 6
+  Encumbrance: 200
+  Passengers: 20
+  Price: 140000
+  Restricted: true
+  Rarity: 6
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43*, f34ec89d-b99e-4b0c-b9c6-562894526075:273, 37ee73a9-01c8-440c-a734-ea52e2ff780a:256, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:260
+  GeneratedId: 6bd435b6-7e2e-4cf9-abc0-42256360a7c7
+- category: Shuttle
+  Name: Sentinel-Class Landing Craft
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Sentinel
+  Manufacturer: Sienar Fleet Systems and Cygnus Spaceworks
+  Crew: 4
+  Encumbrance: 500
+  Passengers: 54
+  Price: 240000
+  Restricted: true
+  Rarity: 7
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:273
+  GeneratedId: b4a96430-327f-43dc-87f0-98a8fc46d2af
+- category: Shuttle
+  Name: Shuttle Pod
+  Silhouette: 2
+  Speed: 4
+  Model: ISP-6
+  Manufacturer: Cygnus Spaceworks
+  Crew: 1
+  Encumbrance: 8
+  Price: 15000
+  Restricted: true
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: c88afe62-c2c6-4649-94eb-b5c0c648d411:20
+  GeneratedId: ad732a0d-166a-4637-bbed-c634a59438e7
+- category: Shuttle
+  Name: T-6 Shuttle
+  Silhouette: 4
+  Speed: 3
+  Handling: 1
+  Model: T-6
+  Manufacturer: Slayn & Korpil
+  Crew: 2
+  Encumbrance: 80
+  Passengers: 4
+  Price: 100000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:60
+  GeneratedId: 3e1fb6ae-889e-4bbc-91cd-53be22625cdf
+- category: Small Transport
+  Name: KSE Rho-1 Limulus-Class Courier
+  Silhouette: 3
+  Speed: 4
+  Model: Limulus-class
+  Manufacturer: Kuat Systems Engineering
+  Crew: 2
+  Encumbrance: 6
+  Passengers: 1
+  Price: 55000
+  Restricted: false
+  Rarity: 8
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  GeneratedId: d99ad0df-a7cf-4f86-9acc-c3c63c76ff59
+- category: Small Transport
+  Name: Selonian Coneship
+  Silhouette: 3
+  Speed: 1
+  Handling: -5
+  Model: Coneship
+  Manufacturer: Various Selonian Dens
+  Crew: 2
+  Encumbrance: 2
+  Price: 5000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:107
+  GeneratedId: c54f6cab-cfd2-4c33-9aae-76a94a323480
+- category: Small Transport
+  Name: YT-1760 Small Transport
+  Silhouette: 4
+  Speed: 4
+  Handling: 1
+  Model: YT-1760
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 70
+  Passengers: 8
+  Price: 80000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:58
+  GeneratedId: bd8d0fdc-724f-45a8-88f1-2c430897db9a
+- category: Space Defense Platform
+  Name: Golan I Space Defense Platform
+  Silhouette: 8
+  Model: Golan I
+  Manufacturer: Golan Arms
+  Crew: 5000
+  Encumbrance: 20000
+  Passengers: 10000
+  Price: 26000000
+  Restricted: true
+  Rarity: 9
+  Weapons: 39
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:61
+  GeneratedId: be8eb499-94e1-4555-b194-27df41722de3
+- category: Star Battlecruiser
+  Name: Praetor II-Class Star Battlecruiser
+  Silhouette: 9
+  Speed: 2
+  Handling: -3
+  Model: Praetor II
+  Manufacturer: Kuat Drive Yards
+  Crew: 109000
+  Encumbrance: 78000
+  Passengers: 14000
+  Price: 700000000
+  Restricted: true
+  Rarity: 9
+  Weapons: 150
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:283
+  GeneratedId: 1f187cc3-2584-468a-8535-76238524848c
+- category: Star Destroyer
+  Name: Imperial I-Class Star Destroyer
+  Silhouette: 8
+  Speed: 2
+  Handling: -3
+  Model: Imperial I
+  Manufacturer: Kuat Drive Yards
+  Crew: 37085
+  Encumbrance: 15000
+  Passengers: 9700
+  Price: 150000000
+  Restricted: true
+  Rarity: 7
+  Weapons: 130
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:281
+  GeneratedId: 86926ee7-cecf-4d9f-ae2e-47f70214d1c9
+- category: Star Destroyer
+  Name: The Eternal Wrath
+  Silhouette: 8
+  Speed: 2
+  Handling: -3
+  Model: Interdictor
+  Manufacturer: Sienar Fleet Systems
+  Crew: 37085
+  Encumbrance: 12500
+  Passengers: 5000
+  Price: 175000000
+  Restricted: true
+  Rarity: 8
+  Weapons: 32
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:75
+  GeneratedId: a270b6b0-45fc-4832-9484-98d7a640fe51
+- category: Star Destroyer
+  Name: Victory-Class Star Destroyer
+  Silhouette: 8
+  Speed: 1
+  Handling: -3
+  Model: Victory II
+  Manufacturer: Kuat Drive Yards
+  Crew: 6107
+  Encumbrance: 6500
+  Passengers: 1600
+  Price: 50000000
+  Restricted: true
+  Rarity: 6
+  Weapons: 60
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:284, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:267
+  GeneratedId: 4d80e35e-0753-4fad-8e09-33c72470bcac
+- category: Starfighter
+  Name: A-7 Hunter Interceptor
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: A-series
+  Manufacturer: Kuat Drive Yards
+  Crew: 1
+  Encumbrance: 4
+  Price: 80000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:65
+  GeneratedId: 0e05e56a-d668-45ab-b76b-c61779c52274
+- category: Starfighter
+  Name: A-Type Stiletto
+  Silhouette: 3
+  Speed: 4
+  Model: A-type Stiletto
+  Manufacturer: Nubia Star Drives, Inc.
+  Crew: 1
+  Encumbrance: 8
+  Price: 90000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:107
+  GeneratedId: 6f691d62-af34-49a6-a2c2-a21a99a81a66
+- category: Starfighter
+  Name: A/SF-01 "B-Wing" Heavy Fast Attack Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: A/SF-01 B-Wing
+  Manufacturer: Slayn & Korpil
+  Crew: 1
+  Encumbrance: 15
+  Price: 150000
+  Restricted: false
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:268
+  GeneratedId: 7c288a93-33d8-4480-9908-8ae070a78fdc
+- category: Starfighter
+  Name: Alpha-3 Nimbus "V-Wing" Interceptor
+  Silhouette: 3
+  Speed: 4
+  Handling: 2
+  Model: A3-Nimbus
+  Manufacturer: Kuat Systems Engineering
+  Crew: 2
+  Encumbrance: 5
+  Price: 70000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:57
+  GeneratedId: 8fe207b8-7965-4f01-badb-477f494f5f0f
+- category: Starfighter
+  Name: ARC-40b Scout-Reconnaissance Fighter
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: ARC-40b
+  Manufacturer: Kuat Drive Yards
+  Crew: 3
+  Encumbrance: 10
+  Price: 85000
+  Restricted: false
+  Rarity: 7
+  Weapons: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
+  GeneratedId: da56bb5c-3164-4953-ac49-c5d24d4fb367
+- category: Starfighter
+  Name: Blade-32 Superiority Fighter
+  Silhouette: 3
+  Speed: 4
+  Handling: -2
+  Model: Blade-32
+  Manufacturer: Tarrvin-on-Kallik
+  Crew: 2
+  Encumbrance: 10
+  Passengers: 1
+  Price: 60000
+  Restricted: false
+  Rarity: 7
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:60
+  GeneratedId: 7b4a2e33-8717-40f0-aada-dab54f9d42a0
+- category: Starfighter
+  Name: BTL-A4 Y-Wing Attack Starfighter
+  Silhouette: 3
+  Speed: 4
+  Model: BTL Y-Wing
+  Manufacturer: Koensayr Manufacturing
+  Crew: 1
+  Encumbrance: 10
+  Price: 80000
+  Restricted: false
+  Rarity: 4
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:268, 02ff3289-de1a-4365-bced-fea8f6b2743b:43, 37ee73a9-01c8-440c-a734-ea52e2ff780a:257, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:257
+  GeneratedId: b111c316-412c-4452-b454-422daaa12a67
+- category: Starfighter
+  Name: BTL-S3 Y-Wing Attack Starfighter
+  Silhouette: 3
+  Speed: 4
+  Model: BTL Y-Wing
+  Manufacturer: Koensayr Manufacturing
+  Crew: 2
+  Encumbrance: 10
+  Price: 80000
+  Restricted: false
+  Rarity: 4
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:268, 37ee73a9-01c8-440c-a734-ea52e2ff780a:257, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:257
+  GeneratedId: 9049bd04-ba8f-4472-b857-141e6fc6fcbd
+- category: Starfighter
+  Name: BTS-A2 "H-Wing" Long-range Strike Starfighter
+  Silhouette: 3
+  Speed: 3
+  Handling: -2
+  Model: BTS-A2 H-wing
+  Manufacturer: Koensayr Manuracturing
+  Crew: 3
+  Encumbrance: 15
+  Passengers: 1
+  Price: 225000
+  Restricted: false
+  Rarity: 6
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:54
+  GeneratedId: 9ba1397b-afa8-4a0c-aaa2-b03efe09beb8
+- category: Starfighter
+  Name: CL-1c Lancet Interceptor
+  Silhouette: 3
+  Speed: 5
+  Handling: 1
+  Model: CL-1c
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 4
+  Passengers: 1
+  Price: 55000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:108
+  GeneratedId: cc58987c-050a-4a53-9333-005955c3b970
+- category: Starfighter
+  Name: Cloakshape Fighter
+  Silhouette: 3
+  Speed: 4
+  Model: CloakShape
+  Manufacturer: Kuat Systems Engineering
+  Crew: 1
+  Encumbrance: 12
+  Price: 38000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:254
+  GeneratedId: 089a2862-978c-4360-ac0d-59d0cc4746c5
+- category: Starfighter
+  Name: Cutlass-9 Patrol Fighter
+  Silhouette: 3
+  Speed: 3
+  Model: Cutlass
+  Manufacturer: SoroSuub Corporation
+  Crew: 1
+  Encumbrance: 12
+  Price: 40000
+  Restricted: false
+  Rarity: 4
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:78
+  GeneratedId: edc1bb7c-be38-4823-a99d-0c96a55b1c6a
+- category: Starfighter
+  Name: Delta-12 Skysprite
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: D-12
+  Manufacturer: Kuat Systems Engineering
+  Crew: 1
+  Encumbrance: 8
+  Passengers: 1
+  Price: 85000
+  Restricted: false
+  Rarity: 8
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:259
+  GeneratedId: efd21ef5-b1ee-4cdd-9dae-5a5253fece60
+- category: Starfighter
+  Name: Delta-6 System Defense Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: Delta-6
+  Manufacturer: Kuat Systems Engineering
+  Crew: 1
+  Encumbrance: 8
+  Price: 30000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:258
+  GeneratedId: 2247fa3f-242f-4533-88bf-bef9131a9a07
+- category: Starfighter
+  Name: E-7 E-Wing Multi-Role Starfighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 1
+  Model: E-Wing
+  Manufacturer: FreiTek Incorporated
+  Crew: 2
+  Encumbrance: 8
+  Price: 160000
+  Restricted: false
+  Rarity: 8
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:52
+  GeneratedId: 02b3f0f4-73a8-40ff-9588-c97a56c1f2ea
+- category: Starfighter
+  Name: H-60 Tempest Heavy Bomber
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: H-60 Tempest
+  Manufacturer: Slayn & Korpil
+  Crew: 2
+  Encumbrance: 12
+  Price: 172000
+  Restricted: false
+  Rarity: 5
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:53
+  GeneratedId: b0a45fa3-4ac8-4e2a-814b-b9c65f472568
+- category: Starfighter
+  Name: HH-87 Starhopper Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: HH-87 Starhopper
+  Manufacturer: MandalMotors
+  Crew: 1
+  Encumbrance: 6
+  Price: 50000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:114
+  GeneratedId: c2377711-68e1-49ff-900f-f032ef9960cf
+- category: Starfighter
+  Name: HLAF-500 Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: HLAF-500
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 6
+  Price: 70000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:108
+  GeneratedId: c050dd6f-4c19-42a4-8d5e-d51db58fc639
+- category: Starfighter
+  Name: Kihraxz Light Starfighter
+  Silhouette: 3
+  Speed: 4
+  Model: Kihraxz
+  Manufacturer: TransGalMeg, Inc
+  Crew: 1
+  Encumbrance: 7
+  Price: 65000
+  Restricted: false
+  Rarity: 6
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:60
+  GeneratedId: 8582c74d-4ce5-4542-ad51-bf2bb78ca63b
+- category: Starfighter
+  Name: Koensayr AD-1S Moduilar Multi-role Starfighter
+  Silhouette: 3
+  Speed: 3
+  Model: AD-1S
+  Manufacturer: Koensayr Manufacturing
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 2
+  Price: 25000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: d9ac248f-b392-4790-8683-dca15e8ba603:62
+  GeneratedId: cd9153c7-515e-4068-855e-c99e32ba473d
+- category: Starfighter
+  Name: LAF-250 Starfighter
+  Silhouette: 3
+  Speed: 4
+  Model: LAF-250
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 6
+  Price: 60000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:108
+  GeneratedId: bb4c991f-ef1f-414b-9bf4-5681ca37c5ea
+- category: Starfighter
+  Name: M12-L Kimogila Heavy Starfighter
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: M12-L Kimogila
+  Manufacturer: MandalMotors
+  Crew: 1
+  Encumbrance: 20
+  Price: 150000
+  Restricted: false
+  Rarity: 5
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:60
+  GeneratedId: 76ea05de-c7cb-4756-b578-b54472b67a62
+- category: Starfighter
+  Name: MandalMotors M3-A Scyk Interceptor
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: M3-A Scyk
+  Manufacturer: MandalMotors
+  Crew: 1
+  Encumbrance: 4
+  Price: 55000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:113
+  GeneratedId: e0bbd02b-855c-49cc-bbb1-42ea9ddd6fb5
+- category: Starfighter
+  Name: Mandalorian Protectorate Starfighter
+  Silhouette: 3
+  Speed: 6
+  Handling: 3
+  Model: Fang fighter
+  Manufacturer: MandalMotors
+  Crew: 1
+  Encumbrance: 2
+  Price: 120000
+  Restricted: false
+  Rarity: 9
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:58
+  GeneratedId: 22c5b5f3-8504-48b5-9928-70ffea454f78
+- category: Starfighter
+  Name: Miy'til Starfighter
+  Silhouette: 2
+  Speed: 4
+  Handling: 1
+  Model: Miy'til
+  Manufacturer: Olanji/Charubah
+  Crew: 1
+  Encumbrance: 5
+  Price: 210000
+  Restricted: false
+  Rarity: 8
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:61
+  GeneratedId: bfeb9a40-1642-41e0-8d3e-f77c1b655d6c
+- category: Starfighter
+  Name: Modified Cloakshape Starfighter
+  Silhouette: 3
+  Speed: 4
+  Model: CloakShape
+  Manufacturer: Kuat Systems Engineering
+  Crew: 1
+  Encumbrance: 12
+  Price: 38000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:144
+  GeneratedId: 33b86ee0-095f-4d46-aea0-008fb00f0360
+- category: Starfighter
+  Name: Modified TIE Bomber
+  Silhouette: 3
+  Speed: 3
+  Handling: -1
+  Model: TIE Series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 10
+  Price: 110000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: ed37823e-7ce0-47ba-a3a5-eb790bda1dde:45
+  GeneratedId: c8f57732-27d0-4661-9632-6b4e8b05c637
+- category: Starfighter
+  Name: Preybird-Class Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: Preybird
+  Manufacturer: SoroSuub
+  Crew: 2
+  Encumbrance: 8
+  Price: 84000
+  Restricted: false
+  Rarity: 8
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:66
+  GeneratedId: 17eddd30-6f82-4f14-a404-1aef8019cad1
+- category: Starfighter
+  Name: R-41 Starchaser
+  Silhouette: 3
+  Speed: 4
+  Model: R-41 Starchaser
+  Manufacturer: Hoersch-Kessel Drive, Inc.
+  Crew: 1
+  Encumbrance: 6
+  Price: 55000
+  Restricted: false
+  Rarity: 7
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:55
+  GeneratedId: cc7cc4fe-fd45-4b93-80f2-6394b1ce63f4
+- category: Starfighter
+  Name: R60 "T-Wing" Interceptor
+  Silhouette: 3
+  Speed: 6
+  Handling: -1
+  Model: R-60 T-wing
+  Manufacturer: Hoersch-Kessel Drive, Inc.
+  Crew: 1
+  Encumbrance: 5
+  Price: 95000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:56
+  GeneratedId: c8692a8e-d5db-414f-9ea2-876274e9c1f6
+- category: Starfighter
+  Name: RZ-1 "A-Wing" Light Interceptor
+  Silhouette: 3
+  Speed: 6
+  Handling: 3
+  Model: RZ-1 "A-Wing"
+  Manufacturer: Incom/Alliance Underground Engineering
+  Crew: 1
+  Encumbrance: 4
+  Price: 150000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:266
+  GeneratedId: 2600fe59-501d-4f29-9927-71b03696c20f
+- category: Starfighter
+  Name: StarViper M-2
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: StarViper M-2
+  Manufacturer: MandalMotors
+  Crew: 1
+  Encumbrance: 12
+  Price: 160000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:81
+  GeneratedId: 6884fef7-7795-401c-bc05-aca805a9e282
+- category: Starfighter
+  Name: T-65B "X-Wing" Multi-Role Starfighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 1
+  Model: T-65B X-wing
+  Manufacturer: Incom Corporation
+  Crew: 2
+  Encumbrance: 10
+  Price: 120000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43, f34ec89d-b99e-4b0c-b9c6-562894526075:267, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:261
+  GeneratedId: 4065394d-952e-4318-8263-c83b77f9fc13
+- category: Starfighter
+  Name: Tallanx-class Stealth Fighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: Tallanx
+  Manufacturer: Gimmellian Shipworks
+  Crew: 1
+  Encumbrance: 6
+  Price: 120000
+  Restricted: true
+  Rarity: 9
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:117
+  GeneratedId: 294fa540-1a41-4c21-b900-94048842cec1
+- category: Starfighter
+  Name: Tam Blackstar's TIE Hunter
+  Silhouette: 3
+  Speed: 6
+  Handling: 3
+  Model: TIE Series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 4
+  Price: 100000
+  Restricted: true
+  Rarity: 7
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:42
+  GeneratedId: abbf6717-e87f-42e5-83e4-0be29a530d58
+- category: Starfighter
+  Name: TIE/AG "Aggressor" Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: TIE-series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 2
+  Encumbrance: 7
+  Price: 75000
+  Restricted: true
+  Rarity: 9
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:57
+  GeneratedId: ebcc3cb3-9956-4d89-a13b-e9843dfeef24
+- category: Starfighter
+  Name: TIE/D "Defender" Multi-Role Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 2
+  Model: TIE Series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 5
+  Price: 300000
+  Restricted: true
+  Rarity: 8
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:271
+  GeneratedId: aeb308c8-20e0-4b1d-b958-98e9f00ace95
+- category: Starfighter
+  Name: TIE/HU "Hunter" Multi-role Starfighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: TIE-series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 6
+  Price: 275000
+  Restricted: true
+  Rarity: 9
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:58
+  GeneratedId: 4bb0510c-6744-434b-9dd4-6a86c95bd5b2
+- category: Starfighter
+  Name: TIE/IN Interceptor
+  Silhouette: 3
+  Speed: 6
+  Handling: 3
+  Model: TIE Series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 4
+  Price: 75000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43, f34ec89d-b99e-4b0c-b9c6-562894526075:270, e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:43
+  GeneratedId: 94a7a9e3-c46f-4589-97ec-6dd3f5cf17fc
+- category: Starfighter
+  Name: TIE/IT Interdictor Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: -2
+  Model: TIE-series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 10
+  Price: 253000
+  Restricted: true
+  Rarity: 7
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:59
+  GeneratedId: 99d4feb8-d7fd-4547-8fce-385e7b8bc552
+- category: Starfighter
+  Name: TIE/LN Starfighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 3
+  Model: TIE Series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 4
+  Price: 50000
+  Restricted: true
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:43, f34ec89d-b99e-4b0c-b9c6-562894526075:270, e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:44, 03e9c8db-eac1-4b81-948b-dacfa3b7e470:26, 37ee73a9-01c8-440c-a734-ea52e2ff780a:257, 5e256682-404b-4851-bd02-6890a0f353ee:78, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:261
+  GeneratedId: e08f790f-5f66-47ca-b1ee-4efc1edccef8
+- category: Starfighter
+  Name: TIE/PH "Phantom" Multi-role Stealth Starfighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: TIE-series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 2
+  Encumbrance: 8
+  Price: 365000
+  Restricted: true
+  Rarity: 9
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:60, 2744c440-3ad1-4f02-ac37-a8745861b4d7:127
+  GeneratedId: c95705a7-a20f-4697-a7a6-c7f61bcd08e4
+- category: Starfighter
+  Name: TIE/SA Tactical Bomber
+  Silhouette: 3
+  Speed: 4
+  Model: TIE Series
+  Manufacturer: Sienar Fleet Systems
+  Crew: 1
+  Encumbrance: 10
+  Price: 110000
+  Restricted: true
+  Rarity: 5
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:272
+  GeneratedId: fc3efeab-0f92-46c5-8a08-8ef01f172563
+- category: Starfighter
+  Name: V-19B Dart Personal Flyer
+  Silhouette: 3
+  Speed: 4
+  Model: V-19B Dart
+  Manufacturer: Slayn & Korpil
+  Crew: 2
+  Encumbrance: 30
+  Passengers: 2
+  Price: 60000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:60
+  GeneratedId: 473af890-7448-4033-9d73-d50404ae3992
+- category: Starfighter
+  Name: Z-95-AF4 Headhunter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: Headhunter
+  Manufacturer: Incom/Subpro
+  Crew: 1
+  Encumbrance: 8
+  Price: 55000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:21, 37ee73a9-01c8-440c-a734-ea52e2ff780a:258, 5e256682-404b-4851-bd02-6890a0f353ee:35*
+  GeneratedId: 3e8676a0-44d7-4d48-a9e8-11ba6689b45c
+- category: Starfighter
+  Name: Z-95-AF4-H "Heavy-95" Multi-role Starfighter
+  Silhouette: 3
+  Speed: 4
+  Model: Heavy-95
+  Manufacturer: Incom/SubPro
+  Crew: 2
+  Encumbrance: 6
+  Price: 85000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:56
+  GeneratedId: b73490e4-66d5-4f13-b76c-06e28eee75e3
+- category: Starliner
+  Name: Indulgent-Class Luxury Starliner
+  Silhouette: 7
+  Speed: 1
+  Handling: -1
+  Model: Indulgent-class
+  Manufacturer: Leonore Luxury Liners Incorporated
+  Crew: 850
+  Encumbrance: 3200
+  Passengers: 1500
+  Price: 25500000
+  Restricted: false
+  Rarity: 7
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:59
+  GeneratedId: ef68b915-d7d0-4ec3-9278-0ad960b36476
+- category: Transport
+  Name: Action VI Bulk Transport
+  Silhouette: 5
+  Speed: 2
+  Handling: -3
+  Model: Action VI
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 20
+  Encumbrance: 10000
+  Passengers: 5
+  Price: 200000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:260*
+  GeneratedId: 23b0f0fd-1cca-4f6d-b585-95ad212dde63
+- category: Transport
+  Name: Armos Modular Transport
+  Silhouette: 6
+  Speed: 2
+  Handling: -2
+  Model: Armos
+  Manufacturer: SoroSuub
+  Crew: 150
+  Encumbrance: 10000
+  Passengers: 1000
+  Price: 780000
+  Restricted: false
+  Rarity: 8
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:59
+  GeneratedId: af0535f1-a1db-475c-909c-7b718bc2ada1
+- category: Transport
+  Name: CSS-1 Corellian Star Shuttle
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: CCS-8
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 8
+  Encumbrance: 1000
+  Passengers: 200
+  Price: 325000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:110
+  GeneratedId: fb7e4141-9697-4eb5-afb5-b2e3986c4d17
+- category: Transport
+  Name: GR-75 Medium Transport
+  Silhouette: 5
+  Speed: 3
+  Handling: -3
+  Model: GR-75
+  Manufacturer: Gallofree Yards, Inc.
+  Crew: 7
+  Encumbrance: 1000
+  Passengers: 100
+  Price: 180000
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:261
+  GeneratedId: dec48923-c678-45ea-a37b-0ac54fc04cd7
+- category: Transport
+  Name: Mobquet Medium Transport
+  Silhouette: 5
+  Speed: 1
+  Handling: -4
+  Model: MMT
+  Manufacturer: Mobquet Swoops and Speeders
+  Crew: 4
+  Encumbrance: 5000
+  Passengers: 90
+  Price: 275000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:57
+  GeneratedId: 8bdf5a51-86df-400e-835c-9138beff4d21
+- category: Transport
+  Name: Space Master Medium Transport
+  Silhouette: 5
+  Speed: 2
+  Handling: -4
+  Model: Space Master
+  Manufacturer: Kuat Drive Yards
+  Crew: 9
+  Encumbrance: 800
+  Price: 150000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:262
+  GeneratedId: 51e6f347-9ff3-40c7-a1df-c2a0ba8dfb60
+- category: Transport
+  Name: Star Galleon Armed Transport
+  Silhouette: 6
+  Speed: 1
+  Handling: -2
+  Model: Star Galleon
+  Manufacturer: Kuat Drive Yards
+  Crew: 150
+  Encumbrance: 10000
+  Passengers: 300
+  Price: 1500000
+  Restricted: true
+  Rarity: 7
+  Weapons: 11
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:442, 37ee73a9-01c8-440c-a734-ea52e2ff780a:265
+  GeneratedId: 3c7d3c81-9ae1-44c5-88fb-9036d3eb09f5
+- category: Transport
+  Name: TL-18B Medium Transport
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: TL-18B
+  Manufacturer: Suwantek Systems
+  Crew: 3
+  Encumbrance: 400
+  Passengers: 4
+  Price: 157000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:61
+  GeneratedId: 4b5ede67-d1e3-472d-a8e6-2aa536e26704
+- category: Transport
+  Name: Ubrikkian Industries Seltiss-2 Caravel
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Seltiss-2
+  Manufacturer: Ubrikkian Industries
+  Crew: 8
+  Encumbrance: 200
+  Passengers: 12
+  Price: 550000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:115
+  GeneratedId: 26f9fea7-e175-4685-ae75-8041647e3e88
+- category: Transport
+  Name: Xiytiar-Class Heavy Transport
+  Silhouette: 5
+  Speed: 2
+  Handling: -3
+  Model: Xiytiar
+  Manufacturer: TransGalMeg Industries
+  Crew: 10
+  Encumbrance: 2000
+  Passengers: 12
+  Price: 200000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:63
+  GeneratedId: 3b8a9603-3bb2-4d8d-aa96-80c4fb77dee1
+- category: Transport
+  Name: Y164 Slave Transport
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: Y164
+  Manufacturer: Rendili StarDrive
+  Crew: 15
+  Encumbrance: 120
+  Passengers: 1200
+  Price: 245000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:115
+  GeneratedId: c87f3f65-13e7-4e5c-8944-35f172866b9b
+- category: Transport
+  Name: YZ-775 Medium Transport
+  Silhouette: 5
+  Speed: 2
+  Handling: -3
+  Model: YZ-775
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 8
+  Encumbrance: 850
+  Price: 500000
+  Restricted: false
+  Rarity: 3
+  Weapons: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:68
+  GeneratedId: 5401da5a-e9a9-4b85-9584-e7e6bdfeaedf
+- category: Transport
+  Name: Barloz-class Medium Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -2
+  Model: Barloz-class
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 170
+  Passengers: 4
+  Price: 70000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:61
+  GeneratedId: cb258a4d-2206-4402-99b1-7e80051b0457
+- category: Transport
+  Name: CEC HWK-1000 Light Freighter
+  Silhouette: 4
+  Speed: 5
+  Handling: 1
+  Model: HWK-1000
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 4
+  Price: 120000
+  Restricted: false
+  Rarity: 10
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:59
+  GeneratedId: a2a19f06-0beb-4000-a92a-2e10109a8b49
+- category: Transport
+  Name: CorelliSpace Gymsnor-3 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -3
+  Model: Gymsnor-3
+  Manufacturer: CorelliSpace
+  Crew: 2
+  Encumbrance: 160
+  Passengers: 4
+  Price: 80000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:58
+  GeneratedId: f7c3c1d3-50b1-4410-970b-280faa3b561b
+- category: Transport
+  Name: CorelliSpace Gymsnor-4 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -2
+  Model: Gymsnor-4
+  Manufacturer: CorelliSpace
+  Crew: 2
+  Encumbrance: 160
+  Passengers: 4
+  Price: 95000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:59
+  GeneratedId: d4074071-7dbc-483f-a343-1c008925b2e7
+- category: Transport
+  Name: D-Type Stealth Freighter
+  Silhouette: 4
+  Speed: 2
+  Handling: -3
+  Model: D-Type Stealth Freighter
+  Manufacturer: Nubia Star Drives, Inc.
+  Crew: 2
+  Encumbrance: 125
+  Passengers: 3
+  Price: 200000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:110
+  GeneratedId: ce09f4d1-55be-4f99-9004-a23018d716a3
+- category: Transport
+  Name: Darvro-class Light Freighter
+  Silhouette: 4
+  Speed: 4
+  Model: Darvro
+  Manufacturer: Gimmellian Shipworks
+  Crew: 3
+  Encumbrance: 120
+  Passengers: 4
+  Price: 250000
+  Restricted: true
+  Rarity: 9
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:118
+  GeneratedId: 5503bd35-3f99-40d1-a935-aa358b7d4ba1
+- category: Transport
+  Name: Ghtroc 720 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -2
+  Model: 720
+  Manufacturer: Ghtroc Industries
+  Crew: 2
+  Encumbrance: 200
+  Passengers: 10
+  Price: 112000
+  Restricted: false
+  Rarity: 8
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:62
+  GeneratedId: fda8a908-1e1d-40cb-ad03-2008e653fa03
+- category: Transport
+  Name: GX1 Short Hauler
+  Silhouette: 4
+  Speed: 2
+  Handling: -2
+  Model: GX1 Short Hauler
+  Manufacturer: Lantillian ShipWrights
+  Crew: 4
+  Encumbrance: 200
+  Passengers: 6
+  Price: 85000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:56
+  GeneratedId: fa25dce7-86d8-4932-b492-8b95affd3aed
+- category: Transport
+  Name: HT-2200 Medium Freighter
+  Silhouette: 5
+  Speed: 2
+  Handling: -2
+  Model: HT-2200
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 4
+  Encumbrance: 800
+  Passengers: 8
+  Price: 140000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:56, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:264
+  GeneratedId: 890d3b7f-84d2-4650-ab07-b9fd9df26180
+- category: Transport
+  Name: HWK-290 Light Freighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: HWK-290
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 75
+  Passengers: 2
+  Price: 70000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:56, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:263
+  GeneratedId: 744dc6da-089d-48a5-8de0-c378e0c5c81d
+- category: Transport
+  Name: ILH-KK Citadel-Class Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Citadel
+  Manufacturer: Koensayr Manufacturing
+  Crew: 3
+  Encumbrance: 95
+  Passengers: 14
+  Price: 200000
+  Restricted: false
+  Rarity: 6
+  Weapons: 5
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:260
+  GeneratedId: f5c49331-b58c-459d-99c1-5648830bed2d
+- category: Transport
+  Name: Nightflyer
+  Silhouette: 4
+  Speed: 3
+  Handling: 1
+  Model: YT-2400
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 95
+  Passengers: 6
+  Price: 160000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:30
+  GeneratedId: 2551250b-17a0-47b0-911e-4e2c1e10d6df
+- category: Transport
+  Name: Penumbra Stealth Freighter
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: Penumbra-class
+  Manufacturer: Brennkeyes Syndicate
+  Crew: 3
+  Encumbrance: 90
+  Passengers: 4
+  Price: 100000
+  Restricted: false
+  Rarity: 9
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:62
+  GeneratedId: 662b440a-7f3d-42c6-9212-c2d4c1557053
+- category: Transport
+  Name: Simiyiar Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Model: Simiyiar
+  Manufacturer: Mon Calamari Shipyards
+  Crew: 2
+  Encumbrance: 90
+  Passengers: 5
+  Price: 165000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:264
+  GeneratedId: dc90f70e-1b87-489b-ac83-b9faa7d313e5
+- category: Transport
+  Name: Starlight-class Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Starlight-class
+  Manufacturer: Rendili StarDrive and Surron StarTech
+  Crew: 2
+  Encumbrance: 85
+  Passengers: 6
+  Price: 69995
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:56
+  GeneratedId: cd8a06bc-6a5e-49ae-819b-2914a2c4893b
+- category: Transport
+  Name: Starwind Pleasure Yacht
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: Starwind
+  Manufacturer: Kuat Drive Yards
+  Crew: 5
+  Encumbrance: 85
+  Passengers: 10
+  Price: 210000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:263
+  GeneratedId: 071977a6-30d2-4cc9-a0bd-3601d63c1546
+- category: Transport
+  Name: Suwantek TL-1200 Transport
+  Silhouette: 5
+  Speed: 3
+  Handling: -3
+  Model: TL-1200
+  Manufacturer: Suwantek Systems
+  Crew: 6
+  Encumbrance: 600
+  Passengers: 8
+  Price: 170000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:115
+  GeneratedId: 87f8c52e-42f2-49b1-8079-a757b3b3f6f0
+- category: Transport
+  Name: Wayfarer-Class Medium Freighter
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: Wayfarer
+  Manufacturer: Kuat Systems Engineering
+  Crew: 10
+  Encumbrance: 850
+  Passengers: 6
+  Price: 120000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:263
+  GeneratedId: 7aff84f2-90be-440f-91a0-02e4b1335d62
+- category: Transport
+  Name: YG-4210 Light Freighter
+  Silhouette: 4
+  Speed: 2
+  Handling: -2
+  Model: YG-4210
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 120
+  Passengers: 12
+  Price: 85000
+  Restricted: false
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:64
+  GeneratedId: 6b97760e-0b88-410a-ac98-69e2ea9427ed
+- category: Transport
+  Name: YG-4400 Light Freighter
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: YG-4400
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 75
+  Passengers: 2
+  Price: 110000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:112
+  GeneratedId: 8657f51a-c462-4352-a787-e6e04ec09717
+- category: Transport
+  Name: YKL-37R Nova Courier
+  Silhouette: 4
+  Speed: 3
+  Model: YKL-37R Nova Courier
+  Manufacturer: Gallofree Yards, Inc.
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 6
+  Price: 130000
+  Restricted: false
+  Rarity: 6
+  Weapons: 4
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:56
+  GeneratedId: 0fe2e08b-d491-49f7-8182-e5b0dd2b47f0
+- category: Transport
+  Name: YT-1000 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: YT-1000
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 150
+  Passengers: 4
+  Price: 75000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:64
+  GeneratedId: e6dc31e7-fee3-4478-ad70-e2946159db4c
+- category: Transport
+  Name: YT-1200 Light Freighter
+  Silhouette: 4
+  Speed: 2
+  Handling: -1
+  Model: YT-1200
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 150
+  Passengers: 6
+  Price: 90000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:57
+  GeneratedId: 39a61ee6-003c-4127-9045-2f541c5e9aa7
+- category: Transport
+  Name: YT-1210 Light Freighter
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: YT-1210
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 4
+  Price: 120000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:112
+  GeneratedId: 8f012d04-900f-44f9-af1a-cbdbf572a37b
+- category: Transport
+  Name: YT-1300 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: YT-1300
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 165
+  Passengers: 6
+  Price: 100000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:264
+  GeneratedId: 3f09bafb-1847-4426-89cf-73615d8e1ed8
+- category: Transport
+  Name: YT-2000 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Model: YT-2000
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 170
+  Passengers: 7
+  Price: 120000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:60
+  GeneratedId: ec98b51f-3407-4b6e-b4c1-e88a773f9459
+- category: Transport
+  Name: YT-2400 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Model: YT-2400
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 140
+  Passengers: 6
+  Price: 130000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:265
+  GeneratedId: 39753d68-c714-4d41-8871-bbdb656e80d4
+- category: Transport
+  Name: YV-560 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Model: YV-560
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 80
+  Passengers: 5
+  Price: 120000
+  Restricted: false
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:66
+  GeneratedId: a45611d0-db63-4cc4-9539-e59ce455627b
+- category: Transport
+  Name: YV-929 Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: YV-929
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 4
+  Encumbrance: 80
+  Passengers: 6
+  Price: 380000
+  Restricted: false
+  Rarity: 6
+  Weapons: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:275*, cd13640f-c9b8-4e02-b101-f4e7c502b513:68
+  GeneratedId: de803a55-4177-47a8-8f50-595ee29c0feb
+- category: Transport
+  Name: ZH-25 Questor Light Freighter
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Questor
+  Manufacturer: Starfield Industries
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 6
+  Price: 115000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:265
+  GeneratedId: 2bfab24c-e1e0-4e9d-b3be-19fcb126fd57
+- category: Yacht
+  Name: Baudo-class Star Yacht
+  Silhouette: 4
+  Speed: 4
+  Handling: 1
+  Model: Baudo-class
+  Manufacturer: Mendel Baudo Shipyards
+  Crew: 2
+  Encumbrance: 60
+  Passengers: 8
+  Price: 250000
+  Restricted: false
+  Rarity: 9
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:57
+  GeneratedId: f970238b-3caf-4628-a0fd-692423d5486d
+- category: Yacht
+  Name: Baudo-Class Star Yacht
+  Silhouette: 4
+  Speed: 4
+  Handling: 1
+  Model: Baudo
+  Manufacturer: Mendel Baudo Shipyards
+  Crew: 2
+  Encumbrance: 60
+  Passengers: 8
+  Price: 250000
+  Restricted: false
+  Rarity: 9
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:60
+  GeneratedId: df8b43b3-0184-4066-9fbb-64769135f9cf
+- category: Yacht
+  Name: CEC WUD-500 Star Yacht
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: WUD-500
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 2
+  Encumbrance: 65
+  Passengers: 6
+  Price: 98500
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:55
+  GeneratedId: 68f61398-c739-4bcb-8429-ae0b704d4d76
+- category: Yacht
+  Name: J-Type Star Skiff
+  Silhouette: 4
+  Speed: 4
+  Handling: -1
+  Model: J-Type Star Skiff
+  Manufacturer: Nubia Star Drives, Inc.
+  Crew: 3
+  Encumbrance: 90
+  Passengers: 3
+  Price: 260000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:111
+  GeneratedId: 11c8314a-69a9-48dc-86b8-c9011eb404a7
+- category: Yacht
+  Name: Luxurious-class Yacht
+  Silhouette: 4
+  Speed: 4
+  Handling: 1
+  Model: Luxurious-class
+  Manufacturer: Ghtroc Industries
+  Crew: 3
+  Encumbrance: 80
+  Passengers: 12
+  Price: 210000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:58
+  GeneratedId: 83cbce7a-3cee-49a0-b150-860f3de1c74b
+- category: Yacht
+  Name: SoroSuub Luxury 3000 Space Yacht
+  Silhouette: 4
+  Speed: 3
+  Model: Luxury 3000
+  Manufacturer: SoroSuub Corporation
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 10
+  Price: 120000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:262
+  GeneratedId: 67435b5d-5bca-47b5-86d8-3a855a0dd333
+- category: Yacht
+  Name: The Venture
+  Silhouette: 4
+  Speed: 3
+  Handling: 2
+  Model: Courier-class
+  Manufacturer: Nubia Star Drives, Inc.
+  Crew: 19
+  Encumbrance: 50
+  Passengers: 25
+  Price: 185000
+  Restricted: false
+  Rarity: 5
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:91
+  GeneratedId: d8073fed-0c8c-4a60-aa15-7a8c3576ea33
+- category: Yacht
+  Name: Ubrikkian Industries Modified Minstrel-Class Space Yacht
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: Minstrel-Class Space Yacht
+  Manufacturer: Ubrikkian Industries
+  Crew: 37
+  Encumbrance: 800
+  Passengers: 75
+  Price: 1750000
+  Restricted: false
+  Rarity: 7
+  Weapons: 12
+  Defense: 
+  Sensor: 
+  Hyperdrive: 
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:116
+  GeneratedId: a60f67fe-0160-446f-8e33-fe01e38c590f
+- category: Starfighters
+  Name: Alpha-3 Nimbus-class V-Wing Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 2
+  Model: Alpha-3 Nimbus
+  Manufacturer: Kuat Systems Engineering
+  Crew: 2
+  Encumbrance: 5
+  Price: 120000
+  Restricted: true
+  Rarity: 7
+  Weapons: 2
+  Armor: 2
+  htt: 10
+  Defense: 1/-/-/0
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:69
+  GeneratedId: ed180543-2cdf-4e2e-8991-9030ac7f8aaf
+- category: Starfighters
+  Name: ARC-170 Heavy Starfighter
+  Silhouette: 3
+  Speed: 4
+  Model: ARC-170
+  Manufacturer: Incom/Subpro
+  Crew: 4
+  Encumbrance: 30
+  Price: 180000
+  Restricted: true
+  Rarity: 5
+  Weapons: 4
+  Armor: 4
+  htt: 18
+  Defense: 2/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 1.5, Backup: None'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:70
+  GeneratedId: 63284c14-3bf3-4cdb-bcd6-979502b2da91
+- category: Starfighters
+  Name: Belbullab-22 Heavy Starfighter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: Belbullab-22
+  Manufacturer: Feetha Ottraw Scalable Assemblies
+  Crew: 1
+  Encumbrance: 8
+  Price: 168000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Armor: 3
+  htt: 15
+  Defense: 1/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 6, Backup: Class 15'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:70
+  GeneratedId: 36966688-95d9-4e8a-8dee-a9061f68b4a6
+- category: Starfighters
+  Name: Droid Tri-Fighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: Tri-Fighter
+  Manufacturer: Colla Designs/Phlac-Arphocc Automata Industries
+  Price: 40000
+  Restricted: true
+  Rarity: 8
+  Weapons: 3
+  Armor: 2
+  htt: 12
+  Defense: 0
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 'Crew: Integrated droid brain.'
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
+  GeneratedId: 02ee890b-20b4-4162-9a24-866845d8ca62
+- category: Starfighters
+  Name: Eta-2 Actis-class Light Interceptor
+  Silhouette: 3
+  Speed: 6
+  Handling: 2
+  Model: Eta-2 Actis-class
+  Manufacturer: Kuat Systems Engineering
+  Crew: 2
+  Encumbrance: 5
+  Price: 290000
+  Restricted: true
+  Rarity: 8
+  Weapons: 2
+  Armor: 2
+  htt: 10
+  Defense: 0
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:71
+  GeneratedId: cd6c7207-8e81-4db5-9497-8a126dcc4056
+- category: Bombers
+  Name: Hyena-class Droid Bomber
+  Silhouette: 3
+  Speed: 4
+  Model: Hyena-class
+  Manufacturer: Baktoid Armor Workshop
+  Price: 120000
+  Restricted: true
+  Rarity: 8
+  Weapons: 4
+  Armor: 3
+  htt: 14
+  Defense: 0
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 'Crew: Integrated droid brain.'
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
+  GeneratedId: 279f9cac-127b-431c-8e2c-5d295156a157
+- category: Shuttles/Light Freighters
+  Name: Trident-class Assault Ship
+  Silhouette: 4
+  Speed: 4
+  Handling: 1
+  Model: Trident-class
+  Manufacturer: Colicoid Creation Nest
+  Crew: 4
+  Encumbrance: 350
+  Passengers: 30
+  Price: 120000
+  Restricted: false
+  Rarity: 8
+  Weapons: 13
+  Armor: 4
+  htt: 35
+  Defense: 2/-/-/2
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:72
+  GeneratedId: 502c5f69-4d81-4c4c-a2de-b2692eb30e92
+- category: Starfighters
+  Name: V-19 Torrent
+  Silhouette: 3
+  Speed: 4
+  Handling: 2
+  Model: V-19 Torrent
+  Manufacturer: Slayn & Korpil
+  Crew: 1
+  Encumbrance: 6
+  Price: 75000
+  Restricted: false
+  Rarity: 4
+  Weapons: 3
+  Armor: 3
+  htt: 10
+  Defense: 0
+  Sensor: 
+  Hyperdrive: 'Primary: Class 1, Backup: None'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:73, d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:57
+  GeneratedId: f621c18e-d563-4a4c-ba29-e2c162f332cf
+- category: Cruisers
+  Name: Acclamator-class Planetary Assault Ship
+  Silhouette: 7
+  Speed: 2
+  Handling: -1
+  Model: Acclamator-class
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 700
+  Encumbrance: 10000
+  Passengers: 15000
+  Price: 110000000
+  Restricted: true
+  Rarity: 8
+  Weapons: 40
+  Armor: 6
+  htt: 80
+  Defense: 3/2/2/2
+  Sensor: 
+  Hyperdrive: 'Primary: Class 0.6, Backup: Class 10'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:74
+  GeneratedId: dde46a30-2230-487a-afda-0da1cea87e5c
+- category: Frigates
+  Name: Pelta-class Frigate
+  Silhouette: 6
+  Speed: 3
+  Model: Pelta-class
+  Manufacturer: Kuat Drive Yards
+  Crew: 900
+  Encumbrance: 6000
+  Passengers: 300
+  Price: 7250000
+  Restricted: true
+  Rarity: 6
+  Weapons: 8
+  Armor: 4
+  htt: 65
+  Defense: 2/2/2/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 16'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 'Encumbrance: up to 6,000, depending on configuration. Passengers: up to 300, depending on configuration.'
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:75
+  GeneratedId: 0d28e3d0-4f3c-4b03-9e4c-3e47f12fab2a
+- category: Battlecruisers
+  Name: Providence-class Dreadnought
+  Silhouette: 8
+  Speed: 2
+  Handling: -3
+  Model: Providence-class
+  Manufacturer: Rendili StarDrive/Free Dac Volunteers
+  Crew: 900
+  Encumbrance: 18000
+  Passengers: 1548247
+  Price: 400585000
+  Restricted: true
+  Rarity: 9
+  Weapons: 186
+  Armor: 12
+  htt: 160
+  Defense: 2/3/3/2
+  Sensor: 
+  Hyperdrive: 'Primary: Class 1.5, Backup: Class 10'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 'Passengers: 48,247 and 1.5 million battle droids.'
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:75
+  GeneratedId: db562448-84be-4389-b570-a7d957db1e9a
+- category: Battlecruisers
+  Name: Subjugtor-class Heavy Cruiser
+  Silhouette: 9
+  Speed: 2
+  Handling: -3
+  Model: Subjugator-class
+  Manufacturer: Free Dac Volunteers Engineering Corp/Pammant Docks
+  Crew: 23350
+  Encumbrance: 85000
+  Passengers: 60000
+  Price: 875500000
+  Restricted: true
+  Rarity: 9
+  Weapons: 654
+  Armor: 12
+  htt: 210
+  Defense: 3/3/3/3
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 12'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:76
+  GeneratedId: c943173a-5f4e-4c35-8515-d20f1451b338
+- category: Starfighter
+  Name: IE-440 "Nighthawk" Multi-Role Starfighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: IE-440 Nighthawk
+  Manufacturer: Koensayr Corporation
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 1
+  Price: 124800
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Armor: 1
+  htt: 10
+  Defense: 1/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 12'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: 076c8898-25fe-48aa-8b04-0c702133d05e:62
+  GeneratedId: 3479d356-861c-44da-a42e-d63ed4fce758
+- category: Shuttles/Light Freighters
+  Name: Nu-class Shuttle
+  Silhouette: 4
+  Speed: 3
+  Model: Nu-class
+  Manufacturer: Cygnus Spaceworks
+  Crew: 2
+  Encumbrance: 250
+  Passengers: 30
+  Price: 85000
+  Restricted: false
+  Rarity: 5
+  Weapons: 3
+  Armor: 3
+  htt: 30
+  Defense: 2/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 1, Backup: Class 12'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 'Encumbrance: 250 without passengers.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:73
+  GeneratedId: 0c86682d-f177-43ff-8162-f40bbf7d91ef
+- category: Freighters and Transports
+  Name: C-9979 Landing Craft
+  Silhouette: 5
+  Speed: 3
+  Handling: -1
+  Model: C-9979
+  Manufacturer: Haor Chall Engineering
+  Crew: 88
+  Encumbrance: 5500
+  Passengers: 2500
+  Price: 12000000
+  Restricted: true
+  Rarity: 6
+  Weapons: 2
+  Armor: 5
+  htt: 65
+  Defense: 2/1/1/2
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 15'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 'Crew: 88 B1s, or 143 organics. Encumbrance: Up to 5,500. Passengers: Up to 2,500.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:70
+  GeneratedId: 22ae787a-a4fb-4964-9be7-8a4f4ec103c7
+- category: Star Destroyers
+  Name: Venator-class Star Destroyer
+  Silhouette: 8
+  Speed: 2
+  Handling: -3
+  Model: Venator-class
+  Manufacturer: Kuat Drive Yards
+  Crew: 7400
+  Encumbrance: 7000
+  Passengers: 2000
+  Price: 59000000
+  Restricted: true
+  Rarity: 7
+  Weapons: 80
+  Armor: 8
+  htt: 115
+  Defense: 2/2/2/2
+  Sensor: 
+  Hyperdrive: 'Primary: Class 1, Backup: Class 15'
+  Navicomputer: Yes
+  AdditionalRules: Massive 2
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:79
+  GeneratedId: 267c4406-45fe-487d-9004-847dfca4104e
+- category: Shuttles/Light Freighters
+  Name: Droch-class Boarding Ship
+  Silhouette: 3
+  Speed: 3
+  Model: Droch-class
+  Manufacturer: Colicoid Creation Nest
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 6
+  Price: 43000
+  Restricted: false
+  Rarity: 7
+  Weapons: 4
+  Armor: 2
+  htt: 10
+  Defense: 1/-/-/1
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72
+  GeneratedId: 4c6ef768-3777-41c7-8926-91dd526e0fcc
+- category: Battlecruisers
+  Name: Lucrehulk-class Battleship
+  Silhouette: 9
+  Speed: 2
+  Handling: -3
+  Model: Lucrehulk-class
+  Manufacturer: Hoersch-Kessel Drive Yards
+  Crew: 175
+  Encumbrance: 95000
+  Passengers: 139000
+  Price: 500000000
+  Restricted: true
+  Rarity: 8
+  Weapons: 588
+  Armor: 10
+  htt: 200
+  Defense: 4/3/3/3
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 10'
+  Navicomputer: Yes
+  AdditionalRules: Massive 3
+  Notes: 'Crew: 150 droids, 25 command staff'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:78
+  GeneratedId: 692beafe-2c6e-41a9-b4b2-15389b0b2191
+- category: Starfighters
+  Name: Republic Z-95 Headhunter
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: Z-95
+  Manufacturer: Incom/Subpro
+  Crew: 1
+  Encumbrance: 9
+  Price: 75000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Armor: 3
+  htt: 10
+  Defense: 1/-/-/1
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  GeneratedId: 904ec568-17e1-449f-88fb-b64727b7a559
+- category: Cruisers
+  Name: Munificent-class Heavy Frigate
+  Silhouette: 7
+  Speed: 2
+  Model: Munificent-class
+  Manufacturer: Hoersch-Kessel Drive Yards
+  Crew: 200
+  Encumbrance: 10000
+  Passengers: 150000
+  Price: 12000000
+  Restricted: false
+  Rarity: 7
+  Weapons: 102
+  Armor: 5
+  htt: 60
+  Defense: 3/2/2/2
+  Sensor: 
+  Hyperdrive: 'Primary: Class 1, Backup: Class 10'
+  Navicomputer: Yes
+  AdditionalRules: Massive 1
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
+  GeneratedId: 923f16ae-4ea6-4f62-9f6f-7865678ead4b
+- category: Frigates
+  Name: Arquitens-class Light Cruiser
+  Silhouette: 6
+  Speed: 3
+  Handling: -2
+  Model: Arquitens-class
+  Manufacturer: Kuat Drive Yards
+  Crew: 750
+  Encumbrance: 1200
+  Passengers: 100
+  Price: 4000000
+  Restricted: true
+  Rarity: 5
+  Weapons: 12
+  Armor: 5
+  htt: 60
+  Defense: 2/2/2/2
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 12'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:75
+  GeneratedId: a2aa145d-8d27-4d96-92f6-1cbe46226a52
+- category: Shuttles/Light Freighters
+  Name: Sheathipede-class Shuttle
+  Silhouette: 4
+  Speed: 3
+  Handling: 1
+  Model: Sheathipede-class
+  Manufacturer: Haor Chall Engineering
+  Crew: 4
+  Encumbrance: 150
+  Passengers: 8
+  Price: 120000
+  Restricted: false
+  Rarity: 6
+  Armor: 4
+  htt: 25
+  Defense: 1/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 1, Backup: Class 10'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:73
+  GeneratedId: a8a199cb-1dea-4a0c-a07d-e104621c7049
+- category: Starfighters
+  Name: Vulture-class Droid Starfighter
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: Vulture-class
+  Manufacturer: Haor Chall Engineering
+  Price: 40000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Armor: 2
+  htt: 8
+  Defense: 0
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: Discord Missile Launcher, Variable Geometry
+  Notes: 'Crew: Integrated droid brain.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:74
+  GeneratedId: f962f135-4135-41d3-a914-ce8c2093f47b
+- category: Starfighters
+  Name: Delta-7 Aethersprite-class Interceptor
+  Silhouette: 3
+  Speed: 5
+  Handling: 2
+  Model: Delta-7/Delta 7B
+  Manufacturer: Kuat Systems Engineering
+  Crew: 2
+  Encumbrance: 4
+  Price: 78000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Armor: 2
+  htt: 7
+  Defense: 1/-/-/0
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: Astromech Droid Socket
+  AdditionalRules: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:71, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:259
+  GeneratedId: 681a6b13-5c7c-4749-986a-c3eac8ff42e0
+- category: Shuttles/Light Freighters
+  Name: Eta-class Shuttle
+  Silhouette: 4
+  Speed: 3
+  Model: Eta-class
+  Manufacturer: Cygnus Spaceworks
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 10
+  Price: 100000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Armor: 3
+  htt: 17
+  Defense: 2/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 12'
+  Navicomputer: Yes
+  AdditionalRules: Undicurs Aboard
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  GeneratedId: 3bfce3eb-c5b7-4cca-b2c8-f2270fe6a5b5
+- category: Corvettes
+  Name: Consular-class Light Cruiser
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: Consular-class
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 9
+  Encumbrance: 4000
+  Passengers: 24
+  Price: 3000000
+  Restricted: false
+  Rarity: 5
+  Armor: 4
+  htt: 46
+  Defense: 2/1/1/0
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 14'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 'Encumbrance: Up to 4,000. Passengers: Up to 24.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:76, 055878ae-d2a3-4e53-8ac6-b013f3ea3600:62
+  GeneratedId: 5a4af284-5e47-4a33-afa7-63de89fdbb06
+- category: Corvettes
+  Name: Charger C70 Combat Refit
+  Silhouette: 5
+  Speed: 3
+  Handling: -2
+  Model: Consular-class
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 9
+  Encumbrance: 4000
+  Passengers: 24
+  Price: 3000000
+  Restricted: false
+  Rarity: 5
+  Weapons: 7
+  Armor: 5
+  htt: 46
+  Defense: 2/1/1/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 2, Backup: Class 14'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 'Encumbrance: Up to 4,000. Passengers: Up to 24.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:77
+  GeneratedId: e054dd2d-fd77-442a-aa38-64ec6bfc4a04
+- category: Shuttles/Light Freighters
+  Name: Ainik-class Scientific Survey Vessel
+  Silhouette: 4
+  Speed: 3
+  Model: Ainik-class
+  Manufacturer: SoroSuub
+  Crew: 4
+  Encumbrance: 150
+  Passengers: 6
+  Price: 120000
+  Rarity: 7
+  Weapons: 3
+  Armor: 2
+  htt: 22
+  Defense: 2/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 3, Backup: Class 12'
+  Navicomputer: Yes
+  AdditionalRules: Research Labs
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:57
+  GeneratedId: 99de3c4f-4daa-40bd-9ca1-564c6dba6134
+- category: Shuttles/Light Freighters
+  Name: Caisson-class Engineering Troop Carrier
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: Caisson-class
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 3
+  Encumbrance: 110
+  Passengers: 40
+  Price: 190000
+  Rarity: 6
+  Weapons: 3
+  Armor: 5
+  htt: 25
+  Defense: 1/-/-/1
+  Sensor: 
+  Hyperdrive: 'Primary: Class 3, Backup: Class 12'
+  Navicomputer: Yes
+  AdditionalRules: 
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:58
+  GeneratedId: c43b0d4a-c435-40f5-bf30-93972deecc74
+- category: Space Stations
+  Name: Haven-class Mobile Space Dock
+  Silhouette: 7
+  Speed: 2
+  Handling: -3
+  Model: Haven-class
+  Manufacturer: Rendili StarDrive
+  Crew: 4500
+  Encumbrance: 30000
+  Passengers: 8000
+  Price: 38000000
+  Rarity: 9
+  Weapons: 82
+  Armor: 6
+  htt: 100
+  Defense: 2/2/2/2
+  Sensor: 
+  Hyperdrive: 'Primary: Class 3, Backup: Class 16'
+  Navicomputer: Yes
+  AdditionalRules: Massive 2
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:59
+  GeneratedId: 6f39797e-fae0-4071-9a03-f0b493029a7d
+- category: Space Stations
+  Name: Mk IX Orbital Maintenance Depot
+  Silhouette: 8
+  Handling: -4
+  Model: Mk IX OMD
+  Manufacturer: Core Worlds Engineering
+  Crew: 20000
+  Encumbrance: 35000
+  Passengers: 22000
+  Price: 22000000
+  Rarity: 7
+  Weapons: 42
+  Armor: 4
+  htt: 250
+  Defense: 2/2/2/2
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: Massive 3, Depot Resources
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:60
+  GeneratedId: 9a8f7d54-fa3c-4bc3-8b4e-5bd6ad951a8c
+- category: Space Stations
+  Name: Firestar II-class Orbital Defense Station
+  Silhouette: 7
+  Handling: -4
+  Model: FireStar II
+  Manufacturer: Rendili StarDrive
+  Crew: 300
+  Encumbrance: 5000
+  Passengers: 200
+  Price: 8500000
+  Rarity: 8
+  Weapons: 72
+  Armor: 8
+  htt: 110
+  Defense: 2/2/2/2
+  Sensor: 
+  Hyperdrive: None
+  Navicomputer: None
+  AdditionalRules: Massive 2
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:89
+  GeneratedId: 0d080ed3-7fa8-4510-beed-7127746222fe

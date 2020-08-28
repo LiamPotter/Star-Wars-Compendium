@@ -1,0 +1,2707 @@
+---
+Items:
+- category: Aerial Retreat
+  Name: HA-5 Aerial Retreat
+  Silhouette: 5
+  Speed: 1
+  Handling: -5
+  Model: HA-5
+  Manufacturer: Hyrotii Engineering
+  Crew: 16
+  Encumbrance: 250
+  Passengers: 16
+  Price: 750000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:60
+  GeneratedId: 59e453e5-26fd-4c7a-b6d5-2ad8cab7737a
+- category: Airspeeder
+  Name: Alliance T-47 Airspeeder (Military)
+  Silhouette: 2
+  Speed: 4
+  Model: T-47
+  Manufacturer: Incom Corporation
+  Crew: 2
+  Encumbrance: 6
+  Price: 18000
+  Restricted: false
+  Rarity: 3
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:263
+  GeneratedId: 4978850c-de72-4d3b-9269-b9c60b45e3d1
+- category: Airspeeder
+  Name: Alliance T-47 Sandspeeder
+  Silhouette: 2
+  Speed: 4
+  Handling: 2
+  Model: T-47
+  Manufacturer: Incom Corporation
+  Crew: 2
+  Encumbrance: 6
+  Price: 18000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:26
+  GeneratedId: f75e925f-fdbc-4d11-ba4d-d3070096fa8d
+- category: Airspeeder
+  Name: Arrow-7 Airspeeder, Customized
+  Silhouette: 2
+  Speed: 2
+  Model: Civilian
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 6
+  Price: 12000
+  Restricted: false
+  Rarity: 2
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:87
+  GeneratedId: 3a6f1aa6-37f8-403b-b283-045161226177
+- category: Airspeeder
+  Name: Ascendant Personal Stealth Flyer
+  Silhouette: 2
+  Speed: 3
+  Model: Ascendant
+  Manufacturer: Sienar Design Systems
+  Crew: 2
+  Encumbrance: 20
+  Price: 35000
+  Restricted: false
+  Rarity: 9
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:57
+  GeneratedId: 117a775f-8468-4314-8a91-dac6f90520b4
+- category: Airspeeder
+  Name: Br.549 FasTrak High-Altitude Scout Speeder
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: Br.549 FasTrak
+  Manufacturer: Bespin Motors
+  Crew: 4
+  Encumbrance: 15
+  Price: 25000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:53
+  GeneratedId: 9d795cb4-5917-467c-a090-3247b0305fad
+- category: Airspeeder
+  Name: CAV-11 "Condor" Airspeeder
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: CAV-11
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 12
+  Passengers: 2
+  Price: 30000
+  Restricted: false
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:104
+  GeneratedId: 9209ea11-bedc-4b6c-b518-40d04f38b3fb
+- category: Airspeeder
+  Name: Flasherfish Personal Watercraft
+  Silhouette: 1
+  Speed: 4
+  Handling: 2
+  Model: Flasherfish
+  Manufacturer: Kuat Vehicles
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 1
+  Price: 5000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:57
+  GeneratedId: dfc3799a-dd48-4780-b578-c7d9a9a6ad33
+- category: Airspeeder
+  Name: G35 "Silver Cloud" Airspeeder
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: G35
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 3
+  Encumbrance: 25
+  Passengers: 10
+  Price: 45000
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:104
+  GeneratedId: f4e73264-51df-4d37-9bd6-b4e05b62b018
+- category: Airspeeder
+  Name: Guardian 5E Personal Defense Speeder
+  Silhouette: 3
+  Speed: 3
+  Model: Guardian 5e
+  Manufacturer: Ubrikkian
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 5
+  Price: 20000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:62
+  GeneratedId: daa35f26-4d69-4d84-bc17-1f12e3bea673
+- category: Airspeeder
+  Name: High-Altitude Entry Transport-221
+  Silhouette: 3
+  Speed: 4
+  Model: HAET-221
+  Manufacturer: Mekuun Corporation
+  Crew: 3
+  Encumbrance: 20
+  Passengers: 5
+  Price: 50000
+  Restricted: false
+  Rarity: 4
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:63
+  GeneratedId: bca2fd9d-72f4-414c-9a15-607421daeb3b
+- category: Airspeeder
+  Name: HSP-10 Pursuit Airspeeder
+  Silhouette: 2
+  Speed: 4
+  Handling: -1
+  Model: HSP-10
+  Manufacturer: Dromor Motors
+  Crew: 1
+  Encumbrance: 12
+  Passengers: 2
+  Price: 40000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:52
+  GeneratedId: 9b13ff1e-a062-4526-9d7b-97ed44d54a9f
+- category: Airspeeder
+  Name: Hyperfoil 1000-XTC
+  Silhouette: 2
+  Speed: 3
+  Model: XTC
+  Manufacturer: Tion Industries
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 2
+  Price: 12500
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:60
+  GeneratedId: 61f5f7f1-9891-407a-a97e-c172ce577218
+- category: Airspeeder
+  Name: Imperial Dropship Transport
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: IDT
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 2
+  Encumbrance: 16
+  Passengers: 18
+  Price: 42500
+  Restricted: true
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:63
+  GeneratedId: c7e39e0d-621c-4179-a779-9f6c69195def
+- category: Airspeeder
+  Name: Invader AA-9 Assault Airspeeder
+  Silhouette: 3
+  Speed: 3
+  Model: Invader AA-9
+  Manufacturer: Mekuun
+  Crew: 2
+  Encumbrance: 5
+  Passengers: 10
+  Price: 45000
+  Restricted: true
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:63
+  GeneratedId: c78a34b2-48dc-4dbe-ba3d-885efd3e8855
+- category: Airspeeder
+  Name: Low Altitude Assault Transport LAAT/c (Carrier)
+  Silhouette: 3
+  Speed: 4
+  Handling: -2
+  Model: LAAT
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 2
+  Price: 75000
+  Restricted: true
+  Rarity: 4
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:62
+  GeneratedId: 9d7b965a-e988-4912-9373-7513d3e22a0d
+- category: Airspeeder
+  Name: Low Altitude Assault Transport LAAT/I (Infantry)
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: LAAT
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 6
+  Encumbrance: 30
+  Passengers: 30
+  Price: 85000
+  Restricted: true
+  Rarity: 4
+  Weapons: 9
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:62
+  GeneratedId: a6e83cec-cd9d-4c76-939a-c29443efb632
+- category: Airspeeder
+  Name: Mauler Tactical Responder
+  Silhouette: 4
+  Speed: 2
+  Model: Mauler TR
+  Manufacturer: Sienar Fleet Systems
+  Crew: 2
+  Encumbrance: 12
+  Passengers: 24
+  Price: 76000
+  Restricted: true
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:51
+  GeneratedId: d79d4e31-55b8-4dbb-bfad-2e418c6662d7
+- category: Airspeeder
+  Name: MSP100 Pteropter Hover Pod
+  Silhouette: 2
+  Speed: 3
+  Handling: -1
+  Model: MSP100 Pteropter Hover Pod
+  Manufacturer: Gallofree Aerial Products
+  Crew: 3
+  Encumbrance: 8
+  Passengers: 3
+  Price: 30000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:54
+  GeneratedId: 0d085932-b3e2-4380-aadf-c9ef6e8c8a61
+- category: Airspeeder
+  Name: Nen-Carvon R-444 Imperial Sky Swooper
+  Silhouette: 1
+  Speed: 2
+  Handling: 3
+  Model: Paraglider
+  Manufacturer: Nen-Carvon
+  Crew: 1
+  Encumbrance: 2
+  Price: 1000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:116
+  GeneratedId: f691dac1-3b93-426c-9451-f3dc9a834713
+- category: Airspeeder
+  Name: Overwatch MC-2 Mobile Command Speeder
+  Silhouette: 3
+  Speed: 2
+  Handling: -2
+  Model: Overwatch MC-2
+  Manufacturer: Mekuun
+  Crew: 8
+  Encumbrance: 4
+  Passengers: 2
+  Price: 80000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:64
+  GeneratedId: 9d7e7a31-638a-4e08-8986-79b830b9d96a
+- category: Airspeeder
+  Name: PTB-625 Heavy Bomber
+  Silhouette: 4
+  Speed: 2
+  Handling: -2
+  Model: PTB-625
+  Manufacturer: Incom/SubPro
+  Crew: 5
+  Encumbrance: 100
+  Passengers: 1
+  Price: 130000
+  Restricted: false
+  Rarity: 6
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:51
+  GeneratedId: 41339f3d-646d-408b-a792-2f330c3388db
+- category: Airspeeder
+  Name: Rush Troop Transport Speeder
+  Silhouette: 3
+  Speed: 3
+  Handling: -1
+  Model: Rush
+  Manufacturer: Mekuun
+  Crew: 3
+  Encumbrance: 8
+  Passengers: 20
+  Price: 60000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:64
+  GeneratedId: ee64be86-d7ab-43b9-915f-22ebea69c5a0
+- category: Airspeeder
+  Name: SoroSuub Rapid Service Speeder J-15
+  Silhouette: 3
+  Speed: 2
+  Handling: -3
+  Model: J-15
+  Manufacturer: SoroSuub Corporation
+  Crew: 1
+  Encumbrance: 230
+  Passengers: 3
+  Price: 25000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d9ac248f-b392-4790-8683-dca15e8ba603:61
+  GeneratedId: 3fb7cea4-6976-4ad9-8933-a447eef32665
+- category: Airspeeder
+  Name: SU-40 High-Performance Airspeeder
+  Silhouette: 2
+  Speed: 5
+  Handling: 2
+  Model: SU-40
+  Manufacturer: SoroSuub
+  Crew: 1
+  Encumbrance: 6
+  Passengers: 1
+  Price: 15000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:51
+  GeneratedId: fee067c2-9b4e-4c2b-abaa-003f3acbce30
+- category: Airspeeder
+  Name: SU-42RS Flashblind Aerial Reconnaissance Airspeeder
+  Silhouette: 2
+  Speed: 6
+  Model: SU-42RS
+  Manufacturer: SoroSuub
+  Crew: 2
+  Encumbrance: 5
+  Price: 32000
+  Restricted: false
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:59
+  GeneratedId: 3689ae8f-ade7-4dc7-82eb-dbea01c7658f
+- category: Airspeeder
+  Name: Tetan Guard Airspeeder
+  Silhouette: 2
+  Speed: 3
+  Model: SEC-22m
+  Manufacturer: Kodoos Repulsor Ltd
+  Crew: 2
+  Encumbrance: 15
+  Passengers: 2
+  Price: 25000
+  Restricted: true
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:124
+  GeneratedId: f6f2ce64-9184-47cf-9b86-7d3f8d55bb75
+- category: Airspeeder
+  Name: Ubrikkian TRL-03 Skyclaw
+  Silhouette: 5
+  Speed: 1
+  Handling: -2
+  Model: TRL-03
+  Manufacturer: Ubrikkian Industries
+  Crew: 2
+  Encumbrance: 1000
+  Passengers: 2
+  Price: 60000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d9ac248f-b392-4790-8683-dca15e8ba603:61
+  GeneratedId: c6b237ac-7490-49dd-a1ee-ec179a76ef5f
+- category: Airspeeder
+  Name: XL-3c Guardsman Patrol Airspeeder
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: XL-3c Guardsman
+  Manufacturer: Tion mil/Sci Industries
+  Crew: 4
+  Encumbrance: 30
+  Passengers: 12
+  Price: 39000
+  Restricted: false
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:56
+  GeneratedId: 061358c5-479d-44ea-abd1-09588e757568
+- category: Airspeeder
+  Name: Needle NE-4 Cloud Car Interceptor
+  Silhouette: 2
+  Speed: 5
+  Handling: 1
+  Model: Needle Ne-4
+  Manufacturer: Bespin Motors
+  Crew: 1
+  Encumbrance: 3
+  Price: 28000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:64
+  GeneratedId: c802e580-03b7-466e-a7e1-e28506cad572
+- category: Airspeeder
+  Name: Storm IV Cloud Car
+  Silhouette: 2
+  Speed: 4
+  Handling: 1
+  Model: Storm IV
+  Manufacturer: Bespin Motors
+  Crew: 2
+  Encumbrance: 8
+  Price: 30000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:262, 37ee73a9-01c8-440c-a734-ea52e2ff780a:248, ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:9
+  GeneratedId: b13a8b6a-bc6d-4f9c-bda5-4541f26a9ef6
+- category: Airspeeder
+  Name: Storm IV Cloud Car (Wing Guard variant)
+  Silhouette: 2
+  Speed: 4
+  Handling: 1
+  Model: Storm IV
+  Manufacturer: Bespin Motors
+  Crew: 2
+  Encumbrance: 8
+  Price: 30000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:44, 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:95
+  GeneratedId: c5887924-77ba-4327-ad3a-6344b097db6e
+- category: Airspeeder
+  Name: Ubrikkian Industries Talon I Combat Cloud Car
+  Silhouette: 2
+  Speed: 4
+  Handling: 2
+  Model: Talon I
+  Manufacturer: Ubrikkian Industries
+  Crew: 1
+  Encumbrance: 10
+  Price: 36000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:254
+  GeneratedId: 753fd7e0-0192-4f86-a784-18e349c07bcb
+- category: Speeder Truck
+  Name: A-A3 Dray Light Speeder Truck
+  Silhouette: 3
+  Speed: 1
+  Model: A-A3
+  Manufacturer: Trast Heavy Transports
+  Crew: 1
+  Encumbrance: 135
+  Passengers: 2
+  Price: 7000
+  Restricted: false
+  Rarity: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:255
+  GeneratedId: 27ecad3b-a8f4-49e8-8244-f4020ef20d05
+- category: Speeder Truck
+  Name: A-A5m Emergency Response Vehicle
+  Silhouette: 3
+  Speed: 3
+  Handling: -1
+  Model: A-A5m
+  Manufacturer: Trast Heavy Transports
+  Crew: 3
+  Encumbrance: 100
+  Passengers: 6
+  Price: 10000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:58
+  GeneratedId: de83f0a7-9921-48b2-b537-ee3917135d6a
+- category: Speeder Truck
+  Name: A-A8 BackCountry Speeder Truck
+  Silhouette: 3
+  Speed: 1
+  Handling: -1
+  Model: A-A8 BackCountry
+  Manufacturer: Trast Heavy Transports
+  Crew: 1
+  Encumbrance: 40
+  Passengers: 5
+  Price: 8500
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:54
+  GeneratedId: 1854d11e-180d-453f-9d6a-eabb6ecaa997
+- category: Armored Personnel Carrier
+  Name: A-19 "Iron Crawler" Armored Transport
+  Silhouette: 5
+  Speed: 1
+  Handling: -3
+  Model: A-19
+  Manufacturer: Corellian Mining Corporation
+  Crew: 4
+  Encumbrance: 40
+  Passengers: 8
+  Price: 12500
+  Restricted: false
+  Rarity: 6
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:106
+  GeneratedId: 5d6c9556-959f-4dd7-a00f-d3a3a1ccae74
+- category: Armored Personnel Carrier
+  Name: HAVr A9 Floating Fortress
+  Silhouette: 3
+  Speed: 1
+  Handling: -1
+  Model: HAVr A9
+  Manufacturer: Ubrikkian Industries
+  Crew: 4
+  Encumbrance: 40
+  Passengers: 10
+  Price: 130000
+  Restricted: true
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:59
+  GeneratedId: 225fec58-d0ae-46b3-a6dd-ff0917cf8036
+- category: Armored Personnel Carrier
+  Name: Imperial Troop Transport
+  Silhouette: 3
+  Speed: 2
+  Handling: -2
+  Model: Imperial Troop Transport
+  Manufacturer: Ubrikkian Industries
+  Crew: 3
+  Encumbrance: 55
+  Passengers: 10
+  Price: 70000
+  Restricted: true
+  Rarity: 4
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:59
+  GeneratedId: 48bee687-e8fb-45af-9738-46b3bd56b03d
+- category: Cargo Skiff
+  Name: Aratech "Shiphand" Cargo Skiff
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: Shiphand
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 250
+  Passengers: 6
+  Price: 12000
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:447
+  GeneratedId: d38d7477-eeec-449f-b208-137290722105
+- category: Cargo Skiff
+  Name: Superhaul Model II Cargo Skiff
+  Silhouette: 2
+  Speed: 2
+  Handling: -1
+  Model: AuperHaul II
+  Manufacturer: Ubrikkian Industries
+  Crew: 1
+  Encumbrance: 80
+  Passengers: 8
+  Price: 8000
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:52
+  GeneratedId: ad56e125-4152-47e9-a3cb-ff46de1cdb4b
+- category: Cargo Skiff
+  Name: TaggeCo. Cargohopper 102 Cargo Lifter
+  Silhouette: 2
+  Speed: 3
+  Handling: -1
+  Model: Cargohopper 102
+  Manufacturer: TaggeCo.
+  Crew: 1
+  Encumbrance: 75
+  Price: 14500
+  Restricted: false
+  Rarity: 3
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:52
+  GeneratedId: 8b0e8b31-ace8-4085-80ca-e067c5ab1fa6
+- category: Cargo Skiff
+  Name: Ubrikkian Industries Bantha-II Cargo Skiff
+  Silhouette: 2
+  Speed: 3
+  Model: Bantha-II
+  Manufacturer: Ubrikkian Industries
+  Crew: 1
+  Encumbrance: 250
+  Passengers: 16
+  Price: 8000
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:112
+  GeneratedId: 53999ea6-5b46-4a78-8c14-6fc7cfc8041f
+- category: Droid Operated Vehicle
+  Name: I-C2 Civil-Industrial Droid
+  Silhouette: 4
+  Speed: 1
+  Handling: -2
+  Model: I-C2
+  Manufacturer: Veril Line Systems
+  Encumbrance: 200
+  Passengers: 6
+  Price: 1700000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:53
+  GeneratedId: 3b222d54-d2ee-43ca-8a27-e9fee215cd44
+- category: Gravsled
+  Name: 64-Y Swift 3 Repulsorsled
+  Silhouette: 2
+  Speed: 3
+  Model: Swift 3
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 20
+  Price: 8000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:53
+  GeneratedId: 005f4f4b-2ef9-46c9-9e04-9a696dac27be
+- category: Gravsled
+  Name: Hutt Repulsorsled
+  Silhouette: 2
+  Speed: 1
+  Model: HF-2
+  Manufacturer: SakTek, Inc.
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 2
+  Price: 8000
+  Restricted: false
+  Rarity: 3
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:113
+  GeneratedId: d8ae7dd3-a893-4608-8b16-4afc5ded127f
+- category: Gravsled
+  Name: V5 Medium Cargo Floater
+  Silhouette: 2
+  Speed: 1
+  Handling: -2
+  Model: V5-series
+  Manufacturer: TaggeCo
+  Crew: 1
+  Encumbrance: 55
+  Passengers: 6
+  Price: 1225
+  Restricted: false
+  Rarity: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:33
+  GeneratedId: 92bcc501-182f-43c4-b332-b573b5fd0109
+- category: Groundcar
+  Name: Groundcar
+  Silhouette: 2
+  Speed: 2
+  Handling: -1
+  Model: Various
+  Manufacturer: Various manufacturers
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 3
+  Price: 1500
+  Restricted: false
+  Rarity: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:256
+  GeneratedId: fcb2112e-733f-47f8-b856-21ab3891002f
+- category: Heavy Assault Walker
+  Name: All Terrain Armored Transport (AT-AT)
+  Silhouette: 4
+  Speed: 1
+  Handling: -3
+  Model: AT-AT
+  Manufacturer: Kuat Drive Yards
+  Crew: 5
+  Encumbrance: 100
+  Passengers: 40
+  Price: 150000
+  Restricted: true
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:264
+  GeneratedId: 69bd5f49-b7df-47f5-837e-06675f36d0d6
+- category: Heavy Assault Walker
+  Name: All Terrain Tactical Enforcer
+  Silhouette: 4
+  Speed: 1
+  Handling: -2
+  Model: AT-TE
+  Manufacturer: Kuat Drive Yards
+  Crew: 8
+  Encumbrance: 40
+  Passengers: 20
+  Price: 100000
+  Restricted: true
+  Rarity: 4
+  Weapons: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:57
+  GeneratedId: adf30058-33cb-4dee-9490-60d98507dca4
+- category: Heavy Assault Walker
+  Name: Retrofitted AT-AT
+  Silhouette: 4
+  Speed: 1
+  Handling: -1
+  Model: AT-AT
+  Manufacturer: Kuat Drive Yards
+  Crew: 5
+  Encumbrance: 100
+  Passengers: 40
+  Price: 100000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: ed37823e-7ce0-47ba-a3a5-eb790bda1dde:45
+  GeneratedId: 5020a221-0988-46f8-b784-0957d7d9c2c5
+- category: Heavy Cargo Loader
+  Name: Rufescent Cargo Hauler
+  Silhouette: 2
+  Speed: 1
+  Handling: -2
+  Model: Rufescent-class
+  Manufacturer: TaggeCo
+  Crew: 1
+  Encumbrance: 50
+  Price: 4000
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:59
+  GeneratedId: 2758d200-877b-4afa-99a5-add6dda4cd38
+- category: Heavy Landspeeder
+  Name: D-4 Mobile Defense Platform
+  Silhouette: 4
+  Speed: 2
+  Handling: -2
+  Model: D-4
+  Manufacturer: Incom Corporation
+  Crew: 3
+  Encumbrance: 20
+  Passengers: 10
+  Price: 20000
+  Restricted: false
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:58
+  GeneratedId: 6c63f657-e087-4672-84b9-ff28d99d5d20
+- category: Heavy Landspeeder
+  Name: D-4S Projection Platform
+  Silhouette: 4
+  Speed: 2
+  Handling: -2
+  Model: D-4S
+  Manufacturer: Incom Corporation
+  Crew: 3
+  Encumbrance: 20
+  Passengers: 10
+  Price: 10000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:58
+  GeneratedId: 42120354-9425-439f-8e21-472f41080783
+- category: Heavy Landspeeder
+  Name: SC2-M Repulsor Tank
+  Silhouette: 3
+  Speed: 2
+  Model: SC2-M
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 2
+  Encumbrance: 25
+  Passengers: 1
+  Price: 65000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:60
+  GeneratedId: c5b0e3eb-2a63-4225-89c8-7b273089eed5
+- category: Landspeeder
+  Name: 1-L Imperial-Series Repulsor Tank
+  Silhouette: 3
+  Speed: 2
+  Handling: 1
+  Model: 1L Light Repulsor Tank
+  Manufacturer: Ubrikkian Industries
+  Crew: 2
+  Encumbrance: 12
+  Passengers: 4
+  Price: 50000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:50
+  GeneratedId: da098bed-eb67-48d7-b74a-56a4a7068586
+- category: Landspeeder
+  Name: 8880 Luxury Landspeeder
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: 8880
+  Manufacturer: Ubrikkian Industries
+  Crew: 1
+  Encumbrance: 30
+  Passengers: 6
+  Price: 40000
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:59
+  GeneratedId: 8682c04c-a3a0-4d0c-8f3a-2cafc1cd9bde
+- category: Landspeeder
+  Name: AA-70 Observation and Command Speeder
+  Silhouette: 3
+  Speed: 1
+  Handling: -2
+  Model: AA-70
+  Manufacturer: Trast Heavy Transports
+  Crew: 4
+  Encumbrance: 40
+  Passengers: 10
+  Price: 16000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:50
+  GeneratedId: 5400a66f-2e3e-4038-96c7-03af3a85a561
+- category: Landspeeder
+  Name: Arrow-23 Landspeeder
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: Arrow-23
+  Manufacturer: Aratech Repulsor Company
+  Crew: 2
+  Encumbrance: 20
+  Passengers: 4
+  Price: 10800
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:59
+  GeneratedId: bd2891ac-7f68-4479-adab-ebc8d534182d
+- category: Landspeeder
+  Name: AV-21 Landspeeder
+  Silhouette: 2
+  Speed: 3
+  Model: AV-21
+  Manufacturer: Mobquet Swoops and Speeders
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 1
+  Price: 6500
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:50
+  GeneratedId: 0b406099-943c-4003-991a-38c498e6dde0
+- category: Landspeeder
+  Name: Baktoid UH-XH Heavy Work Platform
+  Silhouette: 4
+  Speed: 1
+  Handling: -3
+  Model: UH-XH
+  Manufacturer: Baktoid Armor Workshop
+  Crew: 2
+  Encumbrance: 350
+  Passengers: 24
+  Price: 30000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d9ac248f-b392-4790-8683-dca15e8ba603:60
+  GeneratedId: a995203e-2541-4ba6-aaca-568ba9cd7f3e
+- category: Landspeeder
+  Name: Hyperfoil 1000-XTC
+  Silhouette: 2
+  Speed: 2
+  Model: 1000-XTC
+  Manufacturer: Tion Industries
+  Crew: 1
+  Encumbrance: 25
+  Passengers: 2
+  Price: 7000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:52
+  GeneratedId: 7f441d6b-a7fd-476c-8d8a-ade85cdbb934
+- category: Landspeeder
+  Name: LAVr QH-7 Chariot Command Speeder
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: LAVr QH-7 Chariot
+  Manufacturer: Uulshos Manufacturing
+  Crew: 7
+  Encumbrance: 20
+  Passengers: 3
+  Price: 40000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:51
+  GeneratedId: 41f63d3f-b2e6-4238-aa37-2b10303e1f08
+- category: Landspeeder
+  Name: LM002 Bloodhound Survey Vehicle
+  Silhouette: 2
+  Speed: 2
+  Handling: -1
+  Model: LM002 Bloodhound
+  Manufacturer: SoroSuub Corporation
+  Crew: 4
+  Encumbrance: 35
+  Passengers: 2
+  Price: 13500
+  Restricted: false
+  Rarity: 7
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:55
+  GeneratedId: 2ee2fcff-c483-4ab2-98e9-ce612d2004fe
+- category: Landspeeder
+  Name: Model 90 Ranger
+  Silhouette: 3
+  Speed: 3
+  Handling: 1
+  Model: M90 Ranger
+  Manufacturer: Cryospac Repulsorlift Corporation
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 6
+  Price: 19500
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0a591d04-1904-466d-a198-e172a11a424e:56
+  GeneratedId: e7d70829-d491-4d14-aefb-3355d8083069
+- category: Landspeeder
+  Name: Oduran Luxury Landspeeder
+  Silhouette: 2
+  Speed: 2
+  Model: Oduran Model 25
+  Manufacturer: Ubrikkian Industries
+  Crew: 1
+  Encumbrance: 25
+  Passengers: 5
+  Price: 25000
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:59
+  GeneratedId: 7e59ef02-268b-41d4-92a0-c13327b88b92
+- category: Landspeeder
+  Name: Ord Radama Landspeeder
+  Silhouette: 2
+  Speed: 2
+  Handling: -1
+  Model: Civilian
+  Manufacturer: Various
+  Crew: 1
+  Encumbrance: 30
+  Passengers: 6
+  Price: 10000
+  Restricted: false
+  Rarity: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:86
+  GeneratedId: c27cde37-853a-4cda-b2df-6d5821c0c687
+- category: Landspeeder
+  Name: Panther Police Interceptor
+  Silhouette: 2
+  Speed: 4
+  Model: Panther
+  Manufacturer: SoroSuub Corporation
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 3
+  Price: 11000
+  Restricted: true
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:52
+  GeneratedId: 88b0c64a-8542-479c-9e96-ecea959fb2f5
+- category: Landspeeder
+  Name: Passenger Landspeeder
+  Silhouette: 2
+  Speed: 2
+  Model: Various
+  Manufacturer: Various corporations
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 4
+  Price: 3500
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:254
+  GeneratedId: 62bd6725-d13b-4beb-9bf5-b12fba2cb3bf
+- category: Landspeeder
+  Name: SoroSuub Portable Store KRI-80
+  Silhouette: 4
+  Speed: 1
+  Handling: -4
+  Model: KRI-80
+  Manufacturer: SoroSuub Corporation
+  Crew: 1
+  Encumbrance: 400
+  Passengers: 5
+  Price: 60000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d9ac248f-b392-4790-8683-dca15e8ba603:60
+  GeneratedId: dc350a65-f14b-4583-9ea6-4ececbfa886e
+- category: Landspeeder
+  Name: SoroSuub Seraph "Flash Speeder"
+  Silhouette: 2
+  Speed: 3
+  Model: Seraph-Class
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 18
+  Passengers: 3
+  Price: 5200
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:105
+  GeneratedId: 26d4fc59-b9dc-4e3d-9d80-a905ca610792
+- category: Landspeeder
+  Name: Sunrunner ZX Landspeeder
+  Silhouette: 2
+  Speed: 2
+  Model: Sunrunner zX
+  Manufacturer: Ikas-Adno
+  Crew: 2
+  Encumbrance: 12
+  Passengers: 1
+  Price: 8500
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:53
+  GeneratedId: 2dc51405-a543-40cb-aa1f-a732f31d02c8
+- category: Landspeeder
+  Name: Ubrikkian Industries Pongeeta-class Swamp Speeder
+  Silhouette: 2
+  Speed: 2
+  Handling: 1
+  Model: Pongeeta-class
+  Manufacturer: Ubrikkian Industries
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 2
+  Price: 6000
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:113
+  GeneratedId: 38db8579-a37b-4f23-8b81-89da42d34786
+- category: Landspeeder
+  Name: V-35 Courier
+  Silhouette: 2
+  Speed: 1
+  Model: V-35
+  Manufacturer: SoroSuub Corporation
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 2
+  Price: 5500
+  Restricted: false
+  Rarity: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0e5c0b9b-ec77-4be1-9e4d-f8188d35f9eb:59
+  GeneratedId: e7f03f80-415a-4680-b01c-37ad578af261
+- category: Landspeeder
+  Name: V-35 Courier Landspeeder
+  Silhouette: 2
+  Speed: 3
+  Model: V-35 Courier
+  Manufacturer: SoroSuub
+  Crew: 1
+  Encumbrance: 20
+  Passengers: 3
+  Price: 7500
+  Restricted: false
+  Rarity: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:52
+  GeneratedId: fb2d2071-3d7f-45b4-98bb-c0d27ad772be
+- category: Reconnaissance Walker
+  Name: All Terrain Scout Transport (AT-ST)
+  Silhouette: 3
+  Speed: 2
+  Model: AT-ST
+  Manufacturer: Kuat Drive Yards
+  Crew: 2
+  Encumbrance: 18
+  Price: 75000
+  Restricted: true
+  Rarity: 5
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:265, e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:34, e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:93
+  GeneratedId: 93777df1-4de7-4665-8133-57df331bf267
+- category: Reconnaissance Walker
+  Name: Baktoid Versatile-Athletic "Zalaaca" Walker
+  Silhouette: 2
+  Speed: 3
+  Handling: -2
+  Model: Versatile-Athletic Walker
+  Manufacturer: Baktoid Industrial Systems
+  Crew: 1
+  Encumbrance: 9
+  Passengers: 1
+  Price: 14500
+  Restricted: false
+  Rarity: 8
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 0c1b09b4-30d5-415c-81b8-389a2107b9d2:58
+  GeneratedId: f1d5e25a-b3a0-4a46-9c5a-0c6964cba1ef
+- category: Sail Barge
+  Name: Ubrikkian Industries Luxury-Class Sail Barge
+  Silhouette: 4
+  Speed: 2
+  Handling: -2
+  Model: Luxury-class
+  Manufacturer: Ubrikkian Industries
+  Crew: 26
+  Encumbrance: 1000
+  Passengers: 300
+  Price: 300000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:112
+  GeneratedId: f3c483bf-3a68-4d54-86eb-13b5f71144dc
+- category: Speeder Bike
+  Name: 610-AvA "Dart" Speeder Bike
+  Silhouette: 2
+  Speed: 2
+  Handling: 1
+  Model: 610-AvA "Dart"
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 9
+  Passengers: 1
+  Price: 2400
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:53
+  GeneratedId: 77cc7bc0-aa5d-4528-b06a-ceb8bf1d206e
+- category: Speeder Bike
+  Name: 85-XS Odyssey Heavy Speeder Bike
+  Silhouette: 2
+  Speed: 2
+  Model: 85-XS
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 1
+  Price: 4500
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:255
+  GeneratedId: 3b2d8531-241b-4736-851b-ff495b637144
+- category: Speeder Bike
+  Name: Aratech 57-D Speeder Bike
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: 57-D
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 1
+  Price: 2800
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:58
+  GeneratedId: 6d13ad22-5cb9-46db-9562-d80b6e59de73
+- category: Speeder Bike
+  Name: CEC D-22 "Screamer" Speeder Bike
+  Silhouette: 2
+  Speed: 4
+  Model: D-22
+  Manufacturer: Corellian Engineering Corporation
+  Crew: 1
+  Encumbrance: 3
+  Passengers: 1
+  Price: 4500
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:104, 1189b4a0-d299-42e1-9a9f-7d54b58295d5:131
+  GeneratedId: e81ffb2f-e961-4b75-aec8-73eb0a41561a
+- category: Speeder Bike
+  Name: Joben T-85
+  Silhouette: 2
+  Speed: 2
+  Model: Joben T-85
+  Manufacturer: Zebulon Dak Speeder Corporation
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 1
+  Price: 1500
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:54
+  GeneratedId: c4627df7-de9b-4eb1-8233-171b5464a28e
+- category: Speeder Bike
+  Name: Jawa Salvage Skiff
+  Silhouette: 2
+  Speed: 1
+  Handling: -1
+  Model: Cargo Floater 3z
+  Manufacturer: Ubrikkian
+  Crew: 1
+  Encumbrance: 60
+  Passengers: 15
+  Price: 4000
+  Restricted: false
+  Rarity: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:87
+  GeneratedId: 61543109-d1e9-469d-a951-a994f385c9a7
+- category: Submarine
+  Name: IML-2C Aquatic Scout Ship
+  Silhouette: 3
+  Speed: 3
+  Handling: 1
+  Model: IML-2c
+  Manufacturer: Imperial Mining, Ltd
+  Crew: 3
+  Encumbrance: 20
+  Passengers: 2
+  Price: 10000
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:58
+  GeneratedId: 87fa4c9a-8f7a-4eb7-8d34-a2d3334f24e9
+- category: Submarine
+  Name: Mon Calamari Keelkana-class Attack Submersible
+  Silhouette: 2
+  Speed: 4
+  Handling: 1
+  Model: Attack Submersible
+  Manufacturer: Mon Calamari Subworks
+  Crew: 1
+  Encumbrance: 4
+  Price: 32000
+  Restricted: true
+  Rarity: 6
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:117
+  GeneratedId: 8e59e32b-10f8-4376-b89a-3955c450e263
+- category: Swoop
+  Name: KV Swoop
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: KV
+  Manufacturer: Kuat Vehicles
+  Crew: 1
+  Encumbrance: 3
+  Price: 4800
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 7a9f4542-4122-4b02-a224-4ac9006c47e8:58
+  GeneratedId: e602e289-1fa3-4d45-934d-8e8cd3a39003
+- category: Swoop
+  Name: Mobquet Flare-V Swoop Bike
+  Silhouette: 2
+  Speed: 4
+  Handling: -2
+  Model: Flare-V
+  Manufacturer: Monquet Swoops and Speeders
+  Crew: 1
+  Encumbrance: 3
+  Passengers: 1
+  Price: 5000
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: cd97363d-0ae3-47bf-8a3e-301844ae133c:58
+  GeneratedId: fa0c772e-51fa-406c-9e06-940afb5df3ad
+- category: Swoop
+  Name: Mobquet S-5 "Flashfury" Swoop
+  Silhouette: 2
+  Speed: 5
+  Handling: 1
+  Model: S-5
+  Manufacturer: Mobquet Swoops and Speeders
+  Crew: 1
+  Price: 5500
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:105
+  GeneratedId: 54554d94-57b3-41e4-b153-a4e091dee4b8
+- category: Swoop
+  Name: Nebulon-Q Racing Swoop
+  Silhouette: 2
+  Speed: 3
+  Handling: 2
+  Model: Nebulon-Q
+  Manufacturer: Mobquet Swoops and Speeders
+  Crew: 1
+  Encumbrance: 3
+  Price: 5500
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:51
+  GeneratedId: abf986ae-61d3-4783-8ea3-259962c462c6
+- category: Swoop
+  Name: Starhawk Speeder Bike
+  Silhouette: 2
+  Speed: 3
+  Model: Starhawk
+  Manufacturer: Ikas-Adno
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 1
+  Price: 2000
+  Restricted: false
+  Rarity: 3
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:53
+  GeneratedId: bf22c985-9a1f-4a88-8bdf-eaed6409bb75
+- category: Swoop
+  Name: Starhawk Speeder Bike with Sidecar
+  Silhouette: 2
+  Speed: 3
+  Model: Starhawk
+  Manufacturer: Ikas-Adno
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 2
+  Price: 2500
+  Restricted: false
+  Rarity: 3
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 8b7c0c76-a618-4e9b-ad91-a8b142c7b866:53
+  GeneratedId: 9b6b79ee-e06c-4761-88fe-2c6ab2717317
+- category: Swoop
+  Name: The Superflare -- Modified Mobquet Flare-S Swoop
+  Silhouette: 3
+  Speed: 4
+  Handling: 2
+  Model: Flare-S
+  Manufacturer: Mobquet Swoops and Speeders
+  Crew: 1
+  Encumbrance: 4
+  Price: 9500
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: cd13640f-c9b8-4e02-b101-f4e7c502b513:65
+  GeneratedId: 71cfeb2d-3fc6-4427-8de9-9267ccfcecae
+- category: Swoop
+  Name: Zephyr-G Swoop
+  Silhouette: 2
+  Speed: 2
+  Model: Zeohyr-G
+  Manufacturer: Mobquet Swoops and Speeders
+  Crew: 1
+  Encumbrance: 4
+  Passengers: 1
+  Price: 5700
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:90, 7a9f4542-4122-4b02-a224-4ac9006c47e8:59
+  GeneratedId: cab598ee-ea61-4727-a25d-51b7f00c4196
+- category: Tunneling Vehicle
+  Name: A-11 Model III "Burrower"
+  Silhouette: 3
+  Speed: 1
+  Handling: -3
+  Model: TBV Model III
+  Manufacturer: Corellian Mining Corporation
+  Crew: 2
+  Encumbrance: 12
+  Passengers: 3
+  Price: 45000
+  Restricted: false
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:106
+  GeneratedId: a947b7da-8f26-4f75-8e8d-930855ea98e7
+- category: Walker
+  Name: All Terrain Exploration Transport (AT-ET)
+  Silhouette: 3
+  Speed: 1
+  Model: AT-ET
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 2
+  Encumbrance: 25
+  Passengers: 4
+  Price: 5000
+  Restricted: false
+  Rarity: 4
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:56
+  GeneratedId: 08dadfc1-d8e9-4d0a-acc2-40fe92795da2
+- category: Walker
+  Name: All Terrain Reconnaissance Transport (AT-RT)
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: AT-RT
+  Manufacturer: Kuat Drive Yards
+  Crew: 1
+  Encumbrance: 7
+  Price: 8000
+  Restricted: true
+  Rarity: 8
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: d6fa30fe-23f2-47c3-b7c9-a6a17aaee63a:56
+  GeneratedId: 136c4cef-d395-4b3a-bd32-15bcb90552b8
+- category: Walker
+  Name: All Terrain Riot Control Transport (AT-RCT)
+  Silhouette: 3
+  Speed: 2
+  Model: AT-RCT
+  Manufacturer: Kuat Drive Yards
+  Crew: 2
+  Encumbrance: 10
+  Price: 35000
+  Restricted: true
+  Rarity: 7
+  Weapons: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:53
+  GeneratedId: edfdaa9d-c629-430c-8f23-2aad69bef31c
+- category: Walker
+  Name: All-Terrain Anti-Aircraft (AT-AA)
+  Silhouette: 4
+  Speed: 1
+  Handling: -2
+  Model: AT-AA
+  Manufacturer: Rothana Heavy Industries
+  Crew: 3
+  Encumbrance: 25
+  Passengers: 2
+  Price: 135000
+  Restricted: true
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 4df0ada2-7749-4c67-8cea-a04ddf36e115:49
+  GeneratedId: 2f957c04-6fbc-4c2d-807e-8995e172b96a
+- category: Walker
+  Name: AT-FRC Force Reconnaissance Walker
+  Silhouette: 2
+  Speed: 2
+  Handling: 1
+  Model: AT-FRC
+  Manufacturer: Kuat Drive Yards
+  Crew: 2
+  Encumbrance: 5
+  Price: 75000
+  Restricted: false
+  Rarity: 8
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: f358e094-fb3f-46ca-a540-b76c474ac712:51
+  GeneratedId: 0bd51bee-183f-42b2-8bb2-dfab8047edc8
+- category: Walker
+  Name: AT-HCT
+  Silhouette: 3
+  Speed: 1
+  Handling: -1
+  Model: AT-HCT
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 1
+  Encumbrance: 200
+  Passengers: 6
+  Price: 3000
+  Restricted: false
+  Rarity: 3
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:256
+  GeneratedId: 70201fb6-0028-48f0-b800-e881ae42a806
+- category: Walker
+  Name: Hunchback Construction Strider
+  Silhouette: 2
+  Speed: 1
+  Model: All Terrain Construction Transport
+  Manufacturer: Kuat Drive Yards
+  Crew: 2
+  Encumbrance: 12
+  Price: 28000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 6cfba585-45aa-4553-8c82-243c82cf098a:54
+  GeneratedId: b0cfd1e6-00dd-461a-8aff-6ae8733cd0a1
+- category: Walker
+  Name: Hydrospace Corp Explorer Submersible
+  Silhouette: 3
+  Speed: 2
+  Model: Explorer Submersible
+  Manufacturer: Hydrosphere Corporation
+  Crew: 4
+  Encumbrance: 10
+  Passengers: 2
+  Price: 55000
+  Restricted: true
+  Rarity: 5
+  Weapons: 2
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:116
+  GeneratedId: c7bbf330-d7a0-4352-984c-0a59075f558e
+- category: Walker
+  Name: MEV2 "Dug Digger"
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: MEV2
+  Manufacturer: Corellia Mining Corporation
+  Crew: 2
+  Encumbrance: 100
+  Price: 30000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:107
+  GeneratedId: a98bb884-96f1-4926-84a6-ac1d95afc97a
+- category: Walker
+  Name: Slightly Rusted AT-ST Walker
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: AT-ST
+  Manufacturer: Kuat Drive Yards
+  Crew: 2
+  Encumbrance: 18
+  Price: 75000
+  Restricted: true
+  Rarity: 5
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 4b9aa0b3-c2d3-4da3-8bde-c09f815dd4a2:26
+  GeneratedId: 032b7a5f-2ce9-4df0-a2a4-ac3eee2d62d0
+- category: Walker
+  Name: Whelik All-Terrain Explorer
+  Silhouette: 4
+  Speed: 1
+  Handling: -1
+  Model: Whelik ATE
+  Manufacturer: Corellian Mining Corporation
+  Crew: 3
+  Encumbrance: 100
+  Passengers: 2
+  Price: 50000
+  Restricted: false
+  Rarity: 6
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 055878ae-d2a3-4e53-8ac6-b013f3ea3600:59
+  GeneratedId: 30a7d74c-b2c5-4e52-ab0c-ba6584db6a37
+- category: Wheel Bike
+  Name: Gallis-Tech 48 Roller
+  Silhouette: 2
+  Speed: 3
+  Handling: -2
+  Model: 48 Roller
+  Manufacturer: Gallis-Tech
+  Crew: 1
+  Encumbrance: 5
+  Price: 750
+  Restricted: false
+  Rarity: 5
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:256
+  GeneratedId: f4a615df-2592-4117-9d16-47ce9869196c
+- category: Wheel Bike
+  Name: Tsmeu-6 Personal Wheel Bike
+  Silhouette: 2
+  Speed: 3
+  Handling: -1
+  Model: Tsmeu-6
+  Manufacturer: Z-Gomot Ternbuell Guppat Corporation
+  Crew: 1
+  Encumbrance: 5
+  Price: 15000
+  Restricted: false
+  Rarity: 7
+  Weapons: 1
+  Defense: 
+  Sensor: 
+  Notes: 
+  Index: 91b5a626-105f-45d0-8347-e7bf176e4938:59
+  GeneratedId: 8c6450d3-83ab-4cea-8a64-3aa8c7efefe7
+- category: Airspeeders
+  Name: HMP Droid Gunship
+  Silhouette: 3
+  Speed: 3
+  Model: HMP
+  Manufacturer: Baktoid Fleet Ordnance/ Haor Chall Engineering
+  Passengers: 12
+  Price: 60000
+  Restricted: true
+  Rarity: 8
+  Weapons: 6
+  Armor: 4
+  htt: 20
+  Defense: 2/-/-/1
+  Sensor: 
+  Notes: 'Crew: Integrated droid brain. Passengers: 12 super battle droids or BX-series droid commandos in ventral-mounted deployment racks'
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:64
+  GeneratedId: d27dd171-281f-4acc-84e9-bb5cc24f1d00
+- category: Airspeeders
+  Name: LAAT/c Assault Carrier
+  Silhouette: 3
+  Speed: 4
+  Handling: -2
+  Model: LAAT/c
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 3
+  Encumbrance: 15
+  Passengers: 2
+  Price: 175000
+  Restricted: true
+  Rarity: 6
+  Weapons: 2
+  Armor: 2
+  htt: 20
+  Defense: 1/-/-/1
+  Sensor: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  GeneratedId: 5ff24113-c18a-4cc5-adff-a20d21ed4110
+- category: Speeders
+  Name: BARC Speeder
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: BARC
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 5
+  Price: 9500
+  Restricted: true
+  Rarity: 7
+  Weapons: 1
+  Armor: 1
+  htt: 6
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  GeneratedId: 603677bd-32b8-4b18-a5f9-2fb24cccb4ff
+- category: Speeders
+  Name: STAP Assault Platform
+  Silhouette: 2
+  Speed: 3
+  Model: STAP
+  Manufacturer: Baktoid Armor Workshop
+  Crew: 1
+  Encumbrance: 4
+  Price: 2500
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  htt: 2
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:65
+  GeneratedId: 533d27c0-7620-4b69-aa66-9bffbb8a9839
+- category: Speeders
+  Name: WLO-5 Light Speeder Tank
+  Silhouette: 3
+  Speed: 3
+  Model: WLO-5
+  Manufacturer: Ubrikkian Ord Pedrovia
+  Crew: 3
+  Encumbrance: 18
+  Passengers: 4
+  Price: 115000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Armor: 2
+  htt: 12
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:66
+  GeneratedId: 1f75cb43-a332-4ff3-a650-9cf8a0f9d21d
+- category: Wheeled and Tracked Vehicles
+  Name: HAVw A6 Juggernaut Heavy Armored Vehicle
+  Silhouette: 4
+  Speed: 3
+  Handling: -1
+  Model: HAVw A6 Juggernaut
+  Manufacturer: Kuat Drive Yards
+  Crew: 20
+  Encumbrance: 200
+  Passengers: 300
+  Price: 180000
+  Restricted: true
+  Rarity: 7
+  Weapons: 7
+  Armor: 5
+  htt: 55
+  Defense: 0
+  Sensor: 
+  Notes: 'Passengers: up to 300'
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:66
+  GeneratedId: c052eeb8-668e-48bd-b009-19ad1ed1b8cf
+- category: Wheeled and Tracked Vehicles
+  Name: NR-N99 Persuader Heavy Droid Tank
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: NR-N99 Persuader
+  Manufacturer: Techno Union
+  Passengers: 8
+  Price: 120000
+  Restricted: true
+  Rarity: 5
+  Weapons: 8
+  Armor: 4
+  htt: 25
+  Defense: 0
+  Sensor: 
+  Notes: 'Crew: Integrated droid brain. Passengers: 4 on each outer tread'
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:67
+  GeneratedId: 97c870a6-e292-4eaf-b433-4a622da9510f
+- category: Walkers
+  Name: All Terrain Attack Pod
+  Silhouette: 3
+  Speed: 2
+  Model: AT-AP
+  Manufacturer: Kuat Drive Yards
+  Crew: 3
+  Encumbrance: 12
+  Price: 90000
+  Restricted: true
+  Rarity: 5
+  Weapons: 3
+  Armor: 2
+  htt: 15
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:68
+  GeneratedId: 09a5e20e-bfe5-4157-a836-b2d29e2ba6fc
+- category: Walkers
+  Name: All Terrain Reconnaissance Transport
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: AT-RT
+  Manufacturer: Kuat Drive Yards
+  Crew: 1
+  Encumbrance: 7
+  Price: 20000
+  Restricted: true
+  Rarity: 4
+  Weapons: 1
+  htt: 4
+  Defense: 1/-/-/0
+  Sensor: 
+  Notes: 
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:69
+  GeneratedId: 4d8a71b6-97ac-4da3-ac59-0abeedda6959
+- category: Landspeeder
+  Name: Arlen-Dempler C-B7 "Interceptor"
+  Silhouette: 2
+  Speed: 4
+  Handling: 2
+  Model: C-B7 Interceptor
+  Manufacturer: Arlen-Dempler Luxury Speeders
+  Crew: 1
+  Encumbrance: 10
+  Passengers: 4
+  Price: 21500
+  Restricted: false
+  Rarity: 5
+  Armor: 1
+  htt: 4
+  Defense: 0/-/-/0
+  Sensor: 
+  Notes: 
+  Index: 076c8898-25fe-48aa-8b04-0c702133d05e:61
+  GeneratedId: cb01cd45-7bd6-4e93-8935-1404ca6d5ba3
+- category: Speeders
+  Name: AAT-1 Hover Tank
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: AAT-1
+  Manufacturer: Baktoid Armor Workshop
+  Crew: 4
+  Encumbrance: 10
+  Passengers: 6
+  Price: 75000
+  Restricted: true
+  Rarity: 6
+  Weapons: 6
+  Armor: 4
+  htt: 15
+  Defense: 0
+  Sensor: 
+  Notes: 'Passengers: 6 on exterior.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:66
+  GeneratedId: cec17859-c3d6-4185-9f59-47e6b64580eb
+- category: Speeders
+  Name: CK-6
+  Silhouette: 2
+  Speed: 2
+  Model: CK-6
+  Manufacturer: Bespin Motors
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 1
+  Price: 4500
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  htt: 2
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:67
+  GeneratedId: 65a78be7-3a0e-4b85-aadc-8f4df9f6058f
+- category: Airspeeders
+  Name: LAAT/i
+  Silhouette: 3
+  Speed: 4
+  Handling: -1
+  Model: LAAT/i
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 5
+  Encumbrance: 30
+  Passengers: 30
+  Price: 85000
+  Restricted: false
+  Rarity: 4
+  Weapons: 9
+  Armor: 3
+  htt: 20
+  Defense: 1/-/-/1
+  Sensor: 
+  Notes: 'Crew: 5 to 7.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:67
+  GeneratedId: 57f1e31d-30d5-415a-aff4-e0740427907e
+- category: Speeders
+  Name: Multi Troop Transport
+  Silhouette: 3
+  Speed: 2
+  Handling: -2
+  Model: Multi Troop Transport
+  Manufacturer: Baktoid Armor Workshop
+  Crew: 4
+  Encumbrance: 100
+  Passengers: 112
+  Price: 120000
+  Restricted: true
+  Rarity: 5
+  Weapons: 2
+  Armor: 4
+  htt: 30
+  Defense: 4/-/-/0
+  Sensor: 
+  Notes: 'Passengers: 112 B1 battle droids, or 12 Bs super battle droids.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
+  GeneratedId: d877a3ea-a013-4a86-ba70-11c9f2a2cbad
+- category: Wheeled and Tracked Vehicles
+  Name: IG-227 Hailfire Tank
+  Silhouette: 3
+  Speed: 3
+  Handling: 2
+  Model: IG-227 Hailfire
+  Manufacturer: Haor Chall Engineering
+  Price: 25000
+  Restricted: true
+  Rarity: 6
+  Weapons: 3
+  Armor: 1
+  htt: 6
+  Defense: 0
+  Sensor: 
+  Notes: 'Crew: Integrated droid brain.'
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:68
+  GeneratedId: 1d9d673c-8b75-4724-a604-c2e583fc18f7
+- category: Walkers
+  Name: AT-TE
+  Silhouette: 4
+  Speed: 1
+  Handling: -2
+  Model: AT-TE
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 8
+  Encumbrance: 40
+  Passengers: 20
+  Price: 100000
+  Restricted: true
+  Rarity: 4
+  Weapons: 3
+  Armor: 4
+  htt: 40
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:69
+  GeneratedId: 2a686bfb-a1b0-4576-9605-81cb7bf64e6e
+- category: Speeders
+  Name: Undicur-class Jumpspeeder
+  Silhouette: 2
+  Speed: 2
+  Model: Undicur-class
+  Manufacturer: Kuat Vehicles
+  Crew: 1
+  Encumbrance: 2
+  Price: 3000
+  Restricted: false
+  Rarity: 6
+  htt: 2
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:72, bb9db15e-1f38-4c66-accc-c827ec545e76:62
+  GeneratedId: e86bd7dd-525d-4547-becc-00d39486487c
+- category: Speeders
+  Name: T2-E Petard-class Combat Engineering Vehicle
+  Silhouette: 3
+  Speed: 2
+  Handling: -1
+  Model: T2-E Petard-class
+  Manufacturer: Yutrane-Trackata
+  Crew: 3
+  Encumbrance: 20
+  Price: 88000
+  Restricted: true
+  Rarity: 7
+  Weapons: 3
+  Armor: 3
+  htt: 14
+  Defense: 1/-/-/0
+  Sensor: 
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:54
+  GeneratedId: 7f160a50-ce07-43ac-a341-594d2765bd87
+- category: Speeders
+  Name: UEV-M1 Marauder Engineer Squad Carrier
+  Silhouette: 3
+  Speed: 2
+  Model: UEV-M1 Marauder
+  Manufacturer: SoroSuub
+  Crew: 2
+  Encumbrance: 60
+  Passengers: 12
+  Price: 98000
+  Restricted: true
+  Rarity: 8
+  Weapons: 3
+  Armor: 5
+  htt: 15
+  Defense: 2/-/-/0
+  Sensor: 
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:55
+  GeneratedId: c28777c6-d22d-4bfd-8e41-c5c18a5f7a14
+- category: Wheeled and Tracked Vehicles
+  Name: I-C4a Combat Construction Droid Vehicle
+  Silhouette: 3
+  Speed: 1
+  Handling: -2
+  Model: I-C4a
+  Manufacturer: Veril Line Systems
+  Encumbrance: 150
+  Passengers: 2
+  Price: 750000
+  Restricted: true
+  Rarity: 6
+  Weapons: 1
+  Armor: 2
+  htt: 25
+  Defense: 0/-/-/0
+  Sensor: 
+  Notes: 'Crew: Droid operated.'
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:56
+  GeneratedId: 89cf447f-d2d2-4efd-9100-30006a786246
+- category: Walkers
+  Name: AT-CE Combat Excavator
+  Silhouette: 3
+  Speed: 2
+  Handling: -2
+  Model: AT-CE
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 2
+  Encumbrance: 15
+  Passengers: 1
+  Price: 95000
+  Restricted: false
+  Rarity: 6
+  Weapons: 5
+  Armor: 3
+  htt: 18
+  Defense: 1/-/-/0
+  Sensor: 
+  Notes: 
+  Index: ced537f4-dfe1-4d4e-8030-b97752b46805:56
+  GeneratedId: ba6f9597-1074-4df6-ac09-5e711ac8c6cc
+- category: Airspeeders
+  Name: Civilian Airspeeder
+  Silhouette: 2
+  Speed: 3
+  Model: Various Models
+  Manufacturer: Various Manufacturers
+  Crew: 1
+  Encumbrance: 30
+  Passengers: 6
+  Price: 10000
+  Restricted: false
+  Rarity: 3
+  htt: 5
+  Defense: 0
+  Sensor: 
+  Notes: 'Encumbrance: 10-30. Passengers: 1-6.'
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:248, be0796d8-6ef1-43ec-9fd6-5164e1982bb8:254*
+  GeneratedId: 438f403f-fe0a-45e6-988d-4e19c2b12fe3
+- category: Airspeeders
+  Name: Incom T-16 Skyhopper
+  Silhouette: 2
+  Speed: 4
+  Handling: 3
+  Model: T-16 Skyhopper
+  Manufacturer: Incom Corporation
+  Crew: 1
+  Encumbrance: 12
+  Passengers: 1
+  Price: 7500
+  Restricted: false
+  Rarity: 2
+  Armor: 1
+  htt: 4
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:248, ed37823e-7ce0-47ba-a3a5-eb790bda1dde:27*
+  GeneratedId: 15b6b710-4c27-41d0-99e0-05e430e7c639
+- category: Airspeeders
+  Name: Incom T-47 Airspeeder (Civilian)
+  Silhouette: 2
+  Speed: 4
+  Model: T-47
+  Manufacturer: Incom Corporation
+  Crew: 2
+  Encumbrance: 6
+  Price: 18000
+  Restricted: false
+  Rarity: 3
+  Weapons: 1
+  Armor: 1
+  htt: 4
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:249
+  GeneratedId: 97bec50d-55b6-456c-915a-32ab2841d9ec
+- category: Speeders
+  Name: Aratech 74-Z Military Speeder Bike
+  Silhouette: 2
+  Speed: 3
+  Handling: 1
+  Model: 74-Z
+  Manufacturer: Aratech Repulsor Company
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 1
+  Price: 3000
+  Restricted: false
+  Rarity: 4
+  Weapons: 1
+  htt: 2
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:263*, 02ff3289-de1a-4365-bced-fea8f6b2743b:42, 37ee73a9-01c8-440c-a734-ea52e2ff780a:250, 5e256682-404b-4851-bd02-6890a0f353ee:70*
+  GeneratedId: e5b74eae-cac6-4074-a687-a2e14b697978
+- category: Speeders
+  Name: Mobquet Flare-S Swoop
+  Silhouette: 2
+  Speed: 3
+  Handling: 2
+  Model: Flare-S
+  Manufacturer: Mobquet Swoops and Speeders
+  Crew: 1
+  Encumbrance: 4
+  Passengers: 1
+  Price: 6000
+  Restricted: false
+  Rarity: 3
+  htt: 2
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:250
+  GeneratedId: f5937274-fc16-4430-8d55-389bc2883783
+- category: Speeders
+  Name: Trast A-A5 Heavy Speeder Truck
+  Silhouette: 3
+  Speed: 1
+  Handling: -2
+  Model: A-A5
+  Manufacturer: Trast Heavy Transports
+  Crew: 3
+  Encumbrance: 220
+  Passengers: 25
+  Price: 10000
+  Restricted: false
+  Rarity: 2
+  htt: 10
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:250
+  GeneratedId: a1b1de47-0eff-403a-b1f3-c382bd4971f7
+- category: Speeders
+  Name: X-34 Landspeeder
+  Silhouette: 2
+  Speed: 2
+  Model: X-34
+  Manufacturer: SoroSuub
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 1
+  Price: 4500
+  Restricted: false
+  Rarity: 2
+  htt: 4
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:251
+  GeneratedId: 29458bb0-36e7-4dda-88a1-b9b47a40b13f
+- category: Wheeled and Tracked Vehicles
+  Name: Corellian Mining Corporation Digger Crawler
+  Silhouette: 4
+  Speed: 1
+  Handling: -3
+  Model: Digger Crawler
+  Manufacturer: Corellian Mining Corporation
+  Crew: 100
+  Encumbrance: 400
+  Passengers: 60
+  Price: 50000
+  Restricted: false
+  Rarity: 7
+  Armor: 4
+  htt: 40
+  Defense: 0
+  Sensor: 
+  Notes: 'Crew: 50, or 100 Jawas. Passengers: 30, or 60 Jawas'
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:251
+  GeneratedId: d3be84b9-492e-4903-bd5b-b6f3a7895c7b
+- category: Wheeled and Tracked Vehicles
+  Name: Personnel Carrier
+  Silhouette: 3
+  Speed: 2
+  Handling: -2
+  Model: Personnel Carrier
+  Manufacturer: Various Manufacturers
+  Crew: 2
+  Encumbrance: 100
+  Passengers: 15
+  Price: 3000
+  Restricted: false
+  Rarity: 2
+  htt: 8
+  Defense: 0
+  Sensor: 
+  Notes: 'Encumbrance: 100 without passengers. Passengers: 4-15.'
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:252
+  GeneratedId: 493b6166-37a3-462b-97a3-daf4f940252f
+- category: Walkers
+  Name: All Terrain Personal Transport
+  Silhouette: 2
+  Speed: 2
+  Model: AT-PT
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 1
+  Price: 30000
+  Restricted: false
+  Rarity: 7
+  Weapons: 2
+  Armor: 3
+  htt: 6
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:252
+  GeneratedId: 9ef34a42-579d-4c7b-bb39-128f4f488037
+- category: Walkers
+  Name: AT-EST Exploration and Survey Walker
+  Silhouette: 4
+  Speed: 1
+  Handling: -2
+  Model: AT-EST
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 3
+  Encumbrance: 50
+  Passengers: 8
+  Price: 12000
+  Restricted: false
+  Rarity: 5
+  Weapons: 1
+  Armor: 2
+  htt: 20
+  Defense: 0
+  Sensor: 
+  Notes: 
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:253
+  GeneratedId: cff6ea51-523a-4186-ad03-077335f4d3c5
+- category: Airspeeder
+  Name: S-K2 "Skywing" Personal Speeder
+  Silhouette: 2
+  Speed: 3
+  Handling: 2
+  Model: S-K2 Skywing
+  Manufacturer: Ubrikkian Industries
+  Crew: 1
+  Encumbrance: 5
+  Price: 1000
+  Restricted: false
+  Rarity: 4
+  htt: 3
+  Defense: 0/-/-/0
+  Sensor: 
+  Notes: 
+  Index: c71146fe-f76b-4f0b-823f-c899c86d451f:53
+  GeneratedId: cdf0e707-57b6-4ba9-8345-cded3a806337
+- category: Landspeeder
+  Name: 88-R "Nightscreamer" Speeder Bike
+  Silhouette: 2
+  Speed: 4
+  Handling: 1
+  Model: 88-R Nightscreemer
+  Manufacturer: Ikas-Adno
+  Crew: 1
+  Encumbrance: 5
+  Passengers: 1
+  Price: 5500
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Armor: 1
+  htt: 3
+  Defense: 0/-/-/0
+  Sensor: 
+  Notes: 
+  Index: c71146fe-f76b-4f0b-823f-c899c86d451f:53
+  GeneratedId: 93985f8d-819b-482c-8268-6460104031bb
+- category: Landspeeder
+  Name: RX-200 "Falchion" Ion Tank
+  Silhouette: 3
+  Speed: 3
+  Model: RX-200 Falchion
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 3
+  Encumbrance: 25
+  Passengers: 2
+  Price: 75000
+  Restricted: true
+  Rarity: 6
+  Weapons: 3
+  Armor: 2
+  htt: 30
+  Defense: 2/-/-/1
+  Sensor: 
+  Notes: 
+  Index: c71146fe-f76b-4f0b-823f-c899c86d451f:53
+  GeneratedId: 7d5047f0-3f64-4355-8ef0-00114229a14c
+- category: Landspeeder
+  Name: TX-130 Saber-class Fighter Tank
+  Silhouette: 3
+  Speed: 4
+  Handling: 1
+  Model: TX-130 Saber-class
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 5
+  Encumbrance: 20
+  Passengers: 2
+  Price: 85000
+  Restricted: true
+  Rarity: 6
+  Weapons: 3
+  Armor: 2
+  htt: 20
+  Defense: 1/-/-/1
+  Sensor: 
+  Notes: 
+  Index: c71146fe-f76b-4f0b-823f-c899c86d451f:54
+  GeneratedId: 1d18a94b-2273-4737-94fa-293679f1c47d
+- category: Landspeeder
+  Name: SCS-19 "Sentinel" Armored Landspeeder
+  Silhouette: 3
+  Speed: 3
+  Handling: -1
+  Model: SCS-19 Sentinel
+  Manufacturer: TaggeCo
+  Crew: 1
+  Encumbrance: 15
+  Passengers: 4
+  Price: 60000
+  Restricted: false
+  Rarity: 6
+  Weapons: 1
+  Armor: 3
+  htt: 8
+  Defense: 0/-/-/0
+  Sensor: 
+  Notes: 
+  Index: c71146fe-f76b-4f0b-823f-c899c86d451f:54
+  GeneratedId: 3c63d0b8-d7e0-4407-ad71-0928c10b223b
+- category: Landspeeder
+  Name: RTT-04 Armored Troop Transport
+  Silhouette: 3
+  Speed: 3
+  Model: RTT-04
+  Manufacturer: Rothana Heavy Engineering
+  Crew: 2
+  Encumbrance: 85
+  Passengers: 12
+  Price: 42000
+  Restricted: false
+  Rarity: 5
+  Weapons: 2
+  Armor: 2
+  htt: 18
+  Defense: 0/-/-/0
+  Sensor: 
+  Notes: 
+  Index: c71146fe-f76b-4f0b-823f-c899c86d451f:55
+  GeneratedId: ba726835-1460-414a-b5d1-3f057925707a
+- category: Walker
+  Name: All Terrain Attack Pod
+  Silhouette: 3
+  Speed: 2
+  Model: AT-AP
+  Manufacturer: Kuat Drive Yards
+  Crew: 3
+  Encumbrance: 12
+  Price: 100000
+  Restricted: true
+  Rarity: 6
+  Weapons: 3
+  Armor: 2
+  htt: 15
+  Defense: 0/-/-/0
+  Sensor: 
+  Notes: 
+  Index: c71146fe-f76b-4f0b-823f-c899c86d451f:55
+  GeneratedId: 99d0343c-16e1-4905-9a7d-db3276b4a657

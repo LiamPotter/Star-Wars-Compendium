@@ -1,0 +1,334 @@
+---
+Items:
+- name: Armored Flight Suit
+  Soak: 2
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:144
+  GeneratedId: 2734c667-987b-42d4-9526-93d091a327e4
+- name: Armored Guard Uniform
+  Defense: 1
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:78
+  GeneratedId: 02744790-9f9f-4606-9186-ab9bece6136d
+- name: Armored Imperial Uniform
+  Defense: 1
+  Soak: 1
+  Index: 2744c440-3ad1-4f02-ac37-a8745861b4d7:138
+  GeneratedId: d92e247d-b477-4198-9926-090a25e97c6f
+- name: armored plating
+  Defense: 1
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:90
+  GeneratedId: 77f6a60e-146e-430e-8112-fd4f4a923880
+- name: Armored Suit
+  Soak: 1
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:93
+  GeneratedId: d39cacf8-35bc-458f-9720-d42ae40d669f
+- name: Armored Uniform
+  Soak: 1
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:91
+  GeneratedId: 7ec80d45-96ef-4a67-ba5c-b4c6637e5a61
+- name: armored Wing Guard uniform
+  Defense: 1
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:88
+  GeneratedId: 8c53676d-0b2b-4610-b88f-8a70f643fcc0
+- name: Black Robes
+  Soak: 1
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:412
+  GeneratedId: a621380d-b9e8-431a-9a6f-e5b8e8639939
+- name: Blast vest and Helmet
+  Soak: 1
+  Index: 37ee73a9-01c8-440c-a734-ea52e2ff780a:403
+  GeneratedId: 05b6109c-3caf-44a9-ae4a-05fcd4e4cca1
+- name: Boiled Leather Jerkin
+  Soak: 1
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:37
+  GeneratedId: 0e1b7565-1023-41f9-8114-1183e4fbcc94
+- name: Built-in Armor Plating
+  Defense: 1
+  Soak: 2
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:409
+  GeneratedId: 8f71b13a-c5dd-4702-b038-34b4f84df60d
+- name: Ceremonial Armor
+  Defense: 1
+  Soak: 2
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:63
+  GeneratedId: 12d98c3c-d312-4502-8800-5df936f4db2f
+- name: Combat Robes
+  Defense: 1
+  Soak: 2
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:123
+  GeneratedId: 7f789cd3-649f-4575-89ce-6baface8e9c0
+- name: Concealed Armored Robes
+  Defense: 1
+  Soak: 1
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:139
+  GeneratedId: e067ba83-8dda-46fe-bcc8-552fb54428b9
+- name: CorSec Mk. IV armored vest
+  Soak: 2
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:21
+  GeneratedId: be750376-fdfb-42d4-ba98-c64c098e40df
+- name: Cortosis Chassis
+  Soak: 2
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:128
+  GeneratedId: 732fdd34-c7d4-4787-9255-941acbdf6546
+- name: Cortosis-laced Battle Armor
+  Defense: 1
+  Soak: 2
+  Index: cd97363d-0ae3-47bf-8a3e-301844ae133c:47
+  GeneratedId: fd728c68-4712-4745-a656-0ca6538e3abf
+- name: Disgusting Racing Hides
+  Soak: 1
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:131
+  GeneratedId: bbf69162-4256-45d2-9270-177a2ba50355
+- name: Durable clothing
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:12
+  GeneratedId: bbffc98b-b741-4b3e-a7e6-5e4660d1cdb4
+- name: Enforcer's Uniform
+  Soak: 1
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:85
+  GeneratedId: 6d1762d8-2d5c-4592-ae17-2040aa71dac2
+- name: Flak vest
+  Soak: 2
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:70
+  GeneratedId: cb07a9be-8e66-41fb-b5cb-b29169674877
+- name: Gladiatorial Leathers
+  Soak: 2
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:413
+  GeneratedId: a08265ff-3128-4d21-ab68-69d1dfb3e044
+- name: Glare Peak guard uniform
+  Soak: 1
+  Index: 2d94ff02-1ca9-4179-92db-eb7bd848bd50:22
+  GeneratedId: 896d8dec-4de1-49a3-b812-8ab740cc80f3
+- name: Guard uniform and helmet
+  Soak: 1
+  Index: 2d94ff02-1ca9-4179-92db-eb7bd848bd50:39
+  GeneratedId: 9ce7f630-3326-40a9-813e-6edf9731b16c
+- name: Heavy and Smelly Robes
+  Soak: 1
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:37
+  GeneratedId: b8d5581a-6c20-4e51-9af1-8119d226dae1
+- name: Heavy Clothing Uniforms
+  Soak: 1
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:70
+  GeneratedId: fa2d0e26-048b-4b93-991f-5c0df72e5c1e
+- name: Heavy Fur Clothes
+  Soak: 1
+  Index: adcad517-586c-46c5-80ee-3b84ce42d4cb:14
+  GeneratedId: 4b51809b-bd53-4210-b810-48dd1a896952
+- name: Heavy Leather Clothing
+  Defense: 1
+  Soak: 1
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:142
+  GeneratedId: e40b6b80-f79c-4a1e-a589-d4876d912a9e
+- name: Heavy Trench Coat
+  Soak: 1
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:26
+  GeneratedId: 0da8385d-43d4-4148-9014-5d56f5faa202
+- name: Heavy Work Clothing
+  Soak: 1
+  Index: ec2a3fc7-2bcb-4b61-aa97-1d8c81555989:22
+  GeneratedId: 1d4d32c5-e5b2-47c9-8bbe-185fb7908409
+- name: Hide armor
+  Soak: 1
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:63
+  GeneratedId: 0f3a15f4-f010-4995-afbc-fa3d943ff07e
+- name: High-temp Environment Armor
+  Soak: 2
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  GeneratedId: f4d09095-d77a-44e4-b6df-23482d85a47f
+- name: Integrated Armor Plating
+  Defense: 1
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:41
+  GeneratedId: 2df6eed5-ec93-4b5e-ab27-c14603437188
+- name: Jedi Robes
+  Soak: 1
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:433
+  GeneratedId: 8d5bd7ed-21bb-4c03-9397-d4cfeb147f1c
+- name: Leather Vest
+  Soak: 1
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:63
+  GeneratedId: ed7ab335-2a53-4f4d-9df6-44d2353344c7
+- name: Long Coat
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:24
+  GeneratedId: 184e4440-1e87-4568-ad0b-3829878adb31
+- name: Mechanics' coveralls
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:91
+  GeneratedId: 3e2abaaa-0a45-40a5-bb5c-c2449343290f
+- name: Officer Uniform
+  Soak: 1
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45
+  GeneratedId: 7d5d3934-4d35-4d47-bd54-8a2ee8b2e7a2
+- name: Ornate Armor
+  Soak: 2
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:91
+  GeneratedId: 51195cfe-2c30-4b67-91a7-922b5f9e586e
+- name: Ornate Thick Furs and Leathers
+  Soak: 1
+  Index: cd97363d-0ae3-47bf-8a3e-301844ae133c:32
+  GeneratedId: bdae5442-b1ca-4525-adcf-791801b43eba
+- name: Police Armor
+  Soak: 1
+  Index: be0796d8-6ef1-43ec-9fd6-5164e1982bb8:403
+  GeneratedId: 763b3ed6-16f0-4739-a939-58041adc4676
+- name: Power Armor
+  Defense: 1
+  Soak: 2
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  GeneratedId: db4297ec-ef06-45cf-b273-8087d410a007
+- name: Reforged Star Armor
+  Defense: 1
+  Soak: 2
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:36
+  GeneratedId: 9d3214e4-df0f-4135-8715-41247ff551ab
+- name: Reinforced Blast Vest
+  Soak: 2
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:415
+  GeneratedId: 8ca14812-0eb8-491e-a58d-486524fd065b
+- name: Reinforced Flight Suit
+  Defense: 1
+  Soak: 1
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:21
+  GeneratedId: 3896c05a-b06c-4803-acd9-81375f35adad
+- name: Riding Armor
+  Defense: 1
+  Soak: 1
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:130
+  GeneratedId: b290b951-ccff-4ea6-9d16-c3693254dbfa
+- name: Riding Leather
+  Soak: 1
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:131
+  GeneratedId: bd823d3b-f491-4ddd-a34e-f75d30dbc1e2
+- name: Robes
+  Soak: 1
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:412
+  GeneratedId: 2e142215-e608-4780-b6cc-19b5e46c6b74
+- name: Robes
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:47
+  GeneratedId: 17661116-5710-4104-bd68-7ae4e50b7fb8
+- name: Scavenged Partial Plate
+  Soak: 2
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:37
+  GeneratedId: a341614c-61eb-4d21-b19e-69eea7a19725
+- name: Scout Trooper Armor
+  Soak: 2
+  Index: 5e256682-404b-4851-bd02-6890a0f353ee:70
+  GeneratedId: 8c7cec5c-6428-4573-ad6c-5fad1c7c3052
+- name: Security Uniform
+  Soak: 1
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:83
+  GeneratedId: 344780ce-23a2-4ba6-88e3-dd2328afbe5c
+- name: Snowtrooper Armor
+  Soak: 2
+  Index: f34ec89d-b99e-4b0c-b9c6-562894526075:422
+  GeneratedId: a66740c8-98bc-48da-a24b-0dd41de5b3e6
+- name: Steel Breastplate
+  Soak: 1
+  Index: dfca4764-06e7-4ee3-9ac8-aec65723bdec:36
+  GeneratedId: 4419970f-a9a0-4935-849b-c9fa77d088e8
+- name: Stormtrooper Armor
+  Soak: 2
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:46
+  GeneratedId: 8e081bee-8f3e-4398-a3ed-77240623cb55
+- name: superior concealed armored clothing
+  Defense: 1
+  Soak: 2
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:48
+  GeneratedId: 9a753313-1d1f-4f59-b23f-34b1693828d8
+- name: Swamptrooper Armor
+  Soak: 2
+  Index: 93aef378-66c0-419b-9675-dd9ad54bc3b9:129
+  GeneratedId: 8105e973-56c6-444c-826b-12c964d5980d
+- name: Thick Furs and Leathers
+  Soak: 1
+  Index: cd97363d-0ae3-47bf-8a3e-301844ae133c:31
+  GeneratedId: 580db30d-84cb-470a-81fb-8091a0e46998
+- name: Trooper uniform and helmet
+  Soak: 1
+  Index: 0d4e1eb2-7980-446a-9b86-d3c9c26277c3:45
+  GeneratedId: c2313a41-e13b-4bec-8ed5-8fbc0f830efc
+- name: Uniform
+  Soak: 1
+  Index: 1189b4a0-d299-42e1-9a9f-7d54b58295d5:49
+  GeneratedId: a5e8138c-e5b9-4647-a78d-a2d593d070a3
+- name: Wing Guard Uniform
+  Soak: 1
+  Index: 75e95de6-f72d-4b74-a33d-568e4b3b0d2e:13
+  GeneratedId: 34d2829a-998f-4469-9ba5-4876c7e72c08
+- name: Work tabard
+  Soak: 1
+  Index: e3f9ac70-465a-4c0f-a4bd-03832ff17ad6:85
+  GeneratedId: 5ceb6c5b-bdab-456c-817a-176e8cd5f3ea
+- name: Worn Clone Trooper Armor
+  Soak: 2
+  Index: 9b5c42a9-d340-4fae-b7f0-12d1e9fbc060:29
+  GeneratedId: 43f53fe4-0df1-4870-9148-474db3fffe9a
+- name: Armorweave Cloak
+  Defense: 1
+  Soak: 2
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:98
+  GeneratedId: 72c89384-0c3c-44dd-95e2-cb952035b4ab
+- name: Armorweave Clothing
+  Defense: 1
+  Soak: 2
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:99
+  GeneratedId: 68cb301d-0239-4058-8e38-6df6e7d6f6a1
+- name: Armored Chassis
+  Defense: 2
+  Soak: 4
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:101
+  GeneratedId: 35763932-8e11-42ed-b5a2-06578ffed62f
+- name: Armored Uniform
+  Defense: 1
+  Soak: 1
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:139
+  GeneratedId: 2bd30332-30b3-48de-a4a6-09dc94ac86f9
+- name: Built-in Armored Plating
+  Defense: 1
+  Soak: 2
+  Index: cf023ae2-5206-49e0-9e39-550bba0f7f56:143
+  GeneratedId: e9896497-e9f8-412a-83ef-a5228527bbed
+- name: Padded Robes
+  Defense: 1
+  Soak: 1
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:85
+  GeneratedId: af141f65-a09f-4021-a3ce-4847c257ced8
+- name: Second Skin Armored Bodysuit
+  Defense: 1
+  Soak: 1
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  GeneratedId: e1665ed7-e5f0-486b-95ca-75f6a4272eac
+- name: Longcoat
+  Defense: 1
+  Soak: 1
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:93
+  GeneratedId: 17222997-45d5-4502-badb-328c7acadede
+- name: Nightbrother Heavy Clothing
+  Soak: 1
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:95
+  GeneratedId: 0f6b3da7-65cc-40c8-affc-1aae57f8e011
+- name: Padawan Robes
+  Soak: 1
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
+  GeneratedId: 8a4cda64-6d21-4e72-be9c-88f5a084af0f
+- name: Senate Guard Armor
+  Soak: 2
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:137
+  GeneratedId: b24dc521-3110-4b68-9405-19e148fc6931
+- name: Nightsister Robes
+  Defense: 1
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:138
+  GeneratedId: 09419360-40e0-42b0-99d4-2d92bd43b134
+- name: Death Watch Armor
+  Defense: 2
+  Soak: 1
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
+  GeneratedId: 860a658f-b27a-44cd-9098-b0600287eccd
+- name: Hunter Armor
+  Soak: 2
+  Index: 04196a88-99d9-4018-83ef-ca37d68a4869:139
+  GeneratedId: dbd366ed-b991-4332-9fbc-c49fd8569f4a
