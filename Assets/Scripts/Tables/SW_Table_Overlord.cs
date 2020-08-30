@@ -41,7 +41,7 @@ namespace SWars.Tables
 			tempDataType = SW_DataController.dataType.Book;
 			tempTable =Tables.Find(x => x.TableType == tempDataType);
 			tempTable.PopulateTable(dControl.Books.Items);
-			//tempTable.gameObject.SetActive(false);
+			tempTable.gameObject.SetActive(false);
 		}
 		public void OpenTable(SW_DataController.dataType type)
 		{

@@ -68,81 +68,26 @@ namespace SWars.Data
 		protected bool Load()
 		{
 			Abilities = LoadYAML.Load<Ability>("Abilities");
-			Debug.Log(Abilities.Items.Count);
-			Debug.Log(Abilities.Items[0].Name);	
+			AdRules = LoadYAML.Load<AdRule>("Additional-Rules");
+			Adversaries = LoadYAML.Load<Adversary>("Adversaries");
+			AdversaryArmors = LoadYAML.Load<AdversaryArmor>("Adversaries-Armor");
+			AdversaryGear = LoadYAML.Load<AdversaryGear>("Adversaries-Gear");
+			AdversaryWeapons = LoadYAML.Load<AdversaryWeapon>("Adversaries-Weapon");
+			Armors = LoadYAML.Load<Armor>("Armor");
+			Attachments = LoadYAML.Load<Attachment>("Attachments");
 			Books = LoadYAML.Load<Book>("Books");
-
-			DirectoryInfo dir = new DirectoryInfo(Application.dataPath + "/YAML");
-			var deserializer = new DeserializerBuilder().WithNamingConvention(new CamelCaseNamingConvention()).IgnoreUnmatchedProperties().Build();
-			var InputFiles = dir.GetFiles("*.yaml");
-			foreach (FileInfo f in InputFiles)
-			{
-				string Input = File.ReadAllText(Application.dataPath + "/YAML/" + f.Name);
-				StringReader sReader = new StringReader(Input);
-				//Debug.Log(Input);
-				switch (f.Name)
-				{				
-					case "Additional-Rules.yaml":
-						AdRules = deserializer.Deserialize<AdRule>(sReader);
-						break;
-					case "Adversaries.yaml":
-						Adversaries = deserializer.Deserialize<Adversary>(sReader);
-						break;
-					case "Adversaries-Armor.yaml":
-						AdversaryArmors = deserializer.Deserialize<AdversaryArmor>(sReader);
-						break;
-					case "Adversaries-Gear.yaml":
-						AdversaryGear = deserializer.Deserialize<AdversaryGear>(sReader);
-						break;
-					case "Adversaries-Weapon.yaml":
-						AdversaryWeapons = deserializer.Deserialize<AdversaryWeapon>(sReader);
-						break;
-					case "Armor.yaml":
-						Armors = deserializer.Deserialize<Armor>(sReader);
-						break;
-					case "Attachments.yaml":
-						Attachments = deserializer.Deserialize<Attachment>(sReader);
-						break;				
-					case "Creatures.yaml":
-						Creatures = deserializer.Deserialize<Creature>(sReader);
-						break;
-					case "Creatures-Weapons.yaml":
-						CreatureWeapons = deserializer.Deserialize<CreatureWeapon>(sReader);
-						break;
-					case "Gear.yaml":
-						Gear = deserializer.Deserialize<Gear>(sReader);
-						break;
-					case "Qualities.yaml":
-						Qualities = deserializer.Deserialize<Quality>(sReader);
-						break;
-					case "Skills.yaml":
-						Skills = deserializer.Deserialize<Skill>(sReader);
-						break;
-					case "Species.yaml":
-						Species = deserializer.Deserialize<Species>(sReader);
-						break;
-					case "Starships.yaml":
-						Starships = deserializer.Deserialize<Starship>(sReader);
-						break;
-					case "Talents.yaml":
-						Talents = deserializer.Deserialize<Talent>(sReader);
-						break;
-					case "Vehicle-Attachments.yaml":
-						VehicleAttachments = deserializer.Deserialize<VehicleAttachment>(sReader);
-						break;
-					case "Vehicles.yaml":
-						Vehicles = deserializer.Deserialize<Vehicle>(sReader);
-						break;
-					case "Vehicles-Weapons.yaml":
-						VehicleWeapons = deserializer.Deserialize<VehicleWeapon>(sReader);
-						break;
-					case "Weapons.yaml":
-						Weapons = deserializer.Deserialize<Weapon>(sReader);
-						break;
-					default:
-						break;
-				}
-			}
+			Creatures = LoadYAML.Load<Creature>("Creatures");
+			CreatureWeapons = LoadYAML.Load<CreatureWeapon>("Creatures-Weapons");
+			Gear = LoadYAML.Load<Gear>("Gear");
+			Qualities = LoadYAML.Load<Quality>("Qualities");
+			Skills = LoadYAML.Load<Skill>("Skills");
+			Species = LoadYAML.Load<Species>("Species");
+			Starships = LoadYAML.Load<Starship>("Starships");
+			Talents = LoadYAML.Load<Talent>("Talents");
+			VehicleAttachments = LoadYAML.Load<VehicleAttachment>("Vehicle-Attachments");
+			Vehicles = LoadYAML.Load<Vehicle>("Vehicles");
+			VehicleWeapons = LoadYAML.Load<VehicleWeapon>("Vehicles-Weapons");
+			Weapons = LoadYAML.Load<Weapon>("Weapons");
 			return true;
 		}
 		

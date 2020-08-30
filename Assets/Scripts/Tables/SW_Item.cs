@@ -48,7 +48,6 @@ namespace SWars.Tables
 		}
 		public void EnableSortImage(bool asc)
 		{
-			Debug.Log(asc);
 			if (asc)
 				ascdescImgs[0].SetActive(true);
 			else ascdescImgs[1].SetActive(true);
