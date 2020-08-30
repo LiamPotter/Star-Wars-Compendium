@@ -19,8 +19,10 @@ namespace SWars.Tables
 		public RectTransform TableContentHolder;
 		private SW_Row tempRow0;
 		private SW_Row tempRow1;
-		private int currentSortID=0;
-		private bool asc = false;
+		[HideInInspector]
+		public int currentSortID=0;
+		[HideInInspector]
+		public bool asc = false;
 		void Start()
 		{
 			if (!Overlord)
@@ -57,15 +59,12 @@ namespace SWars.Tables
 			tempRow1 = Instantiate(Overlord.RowPrefab);
 			tempRow1.transform.SetParent(TableContentHolder.transform,false);
 			tempRow1.Overlord = Overlord;
-			
+			tempRow1.Table = this;
 			return tempRow1;
 		}
 		public void SortBy(int Item)
 		{
-			if (currentSortID == Item)
-				asc = !asc;
-			else asc = true;
-			currentSortID = Item;
+			
 			Rows.Sort(delegate (SW_Row x, SW_Row y)
 			{
 				if (asc)
@@ -89,7 +88,7 @@ namespace SWars.Tables
 			}
 		}
 
-		public int SortAscending(string value1, string value2)
+		private int SortAscending(string value1, string value2)
 		{
 
 			return value1.CompareTo(value2);

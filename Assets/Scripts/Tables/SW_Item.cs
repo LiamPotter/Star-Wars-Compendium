@@ -9,10 +9,12 @@ namespace SWars.Tables
 	{
 		private LayoutElement layout;
 		private TextMeshProUGUI textUI;
-		public string NavString="";
 		private SW_Table_Overlord Overlord;
+		public string NavString="";
 		public string Value;
-		public void Initialize(float min,bool flex,string text,SW_Table_Overlord overlord)
+		public SW_Row row;
+		public GameObject[] ascdescImgs;
+		public void Initialize(float min, bool flex, string text, SW_Table_Overlord overlord, SW_Row row)
 		{
 			layout = GetComponent<LayoutElement>();
 			textUI = GetComponentInChildren<TextMeshProUGUI>();
@@ -23,7 +25,7 @@ namespace SWars.Tables
 			if(flex)
 				layout.flexibleWidth = 1;
 		}
-		public void Initialize(float min, bool flex, string text, SW_Table_Overlord overlord, string navigationString)
+		public void Initialize(float min, bool flex, string text, SW_Table_Overlord overlord, SW_Row row, string navigationString)
 		{
 			layout = GetComponent<LayoutElement>();
 			textUI = GetComponentInChildren<TextMeshProUGUI>();
@@ -38,6 +40,31 @@ namespace SWars.Tables
 		public void NavigationEvent()
 		{
 			Overlord.NavigateToItem(NavString);
+		}
+		public void DisableSortImages()
+		{
+			ascdescImgs[0].SetActive(false);
+			ascdescImgs[1].SetActive(false);
+		}
+		public void EnableSortImage(bool asc)
+		{
+			Debug.Log(asc);
+			if (asc)
+				ascdescImgs[0].SetActive(true);
+			else ascdescImgs[1].SetActive(true);
+		}
+		public void PressedSort(int itemID)
+		{
+			for (int i = 0; i < row.Items.Count; i++)
+			{
+				row.Items[i].DisableSortImages();
+			}
+			if (row.Table.currentSortID == itemID)
+				row.Table.asc = !row.Table.asc;
+			else row.Table.asc = true;
+			EnableSortImage(row.Table.asc);
+			row.Table.currentSortID = itemID;
+			row.Table.SortBy(itemID);
 		}
 	}
 }

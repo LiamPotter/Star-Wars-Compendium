@@ -64,7 +64,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Items: []
+  Table: {fileID: 0}
   Overlord: {fileID: 0}
+  ItemID: 
 --- !u!114 &114922901609448258
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -107,7 +109,7 @@ RectTransform:
   m_GameObject: {fileID: 1750072936324196}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1.000006, y: 1.000006, z: 1.000006}
+  m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
