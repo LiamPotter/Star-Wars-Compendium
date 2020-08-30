@@ -11,12 +11,14 @@ namespace SWars.Tables
 		private TextMeshProUGUI textUI;
 		public string NavString="";
 		private SW_Table_Overlord Overlord;
+		public string Value;
 		public void Initialize(float min,bool flex,string text,SW_Table_Overlord overlord)
 		{
 			layout = GetComponent<LayoutElement>();
 			textUI = GetComponentInChildren<TextMeshProUGUI>();
 			Overlord = overlord;
 			textUI.text = text;
+			Value = text;
 			layout.minWidth = min;
 			if(flex)
 				layout.flexibleWidth = 1;
@@ -27,6 +29,7 @@ namespace SWars.Tables
 			textUI = GetComponentInChildren<TextMeshProUGUI>();
 			Overlord = overlord;
 			textUI.text = text;
+			Value = text;
 			layout.minWidth = min;
 			if (flex)
 				layout.flexibleWidth = 1;

@@ -8,6 +8,7 @@ namespace SWars.Tables
 	{
 		public List<SW_Item> Items;
 		public SW_Table_Overlord Overlord;
+		public string ItemID;
 		public void AddNewItem(string inputText,SW_Column column)
 		{
 			SW_Item tempItem = Instantiate(Overlord.ItemPrefab);
@@ -22,5 +23,7 @@ namespace SWars.Tables
 			tempItem.Initialize(column.minWidth, column.flexWidth, inputText, Overlord, navigation);
 			Items.Add(tempItem);
 		}
+	
+
 	}
 }
