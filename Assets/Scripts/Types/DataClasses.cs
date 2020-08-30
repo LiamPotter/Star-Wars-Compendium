@@ -14,8 +14,11 @@ namespace SWars.Data
 
 	}
 
+	
+
 	public class DataItem
 	{
+		[DefaultValue("")]
 		public string Index { get; set; }
 		public string GeneratedId { get; set; }
 
@@ -158,7 +161,7 @@ namespace SWars.Data
 		public int HP { get; set; }
 		public int Rarity { get; set; }
 	}
-	public class Book
+	public class Book 
 	{
 		public List<BookItem> Items { get; set; }
 	}

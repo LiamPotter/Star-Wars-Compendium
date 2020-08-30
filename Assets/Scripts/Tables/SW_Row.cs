@@ -7,16 +7,20 @@ namespace SWars.Tables
 	public class SW_Row : MonoBehaviour
 	{
 		public List<SW_Item> Items;
-		// Use this for initialization
-		void Start()
+		public SW_Table_Overlord Overlord;
+		public void AddNewItem(string inputText,SW_Column column)
 		{
-
+			SW_Item tempItem = Instantiate(Overlord.ItemPrefab);
+			tempItem.transform.SetParent(transform);
+			tempItem.Initialize(column.minWidth, column.flexWidth, inputText, Overlord);
+			Items.Add(tempItem);
 		}
-
-		// Update is called once per frame
-		void Update()
+		public void AddNewItem(string inputText,string navigation, SW_Column column)
 		{
-
+			SW_Item tempItem = Instantiate(Overlord.ItemNavPrefab);
+			tempItem.transform.SetParent(transform);
+			tempItem.Initialize(column.minWidth, column.flexWidth, inputText, Overlord, navigation);
+			Items.Add(tempItem);
 		}
 	}
 }

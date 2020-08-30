@@ -35,39 +35,43 @@ namespace SWars.Data
 			Weapon
 		}
 
-        #region Data Classes
-        private Ability Abilities;
-		private AdRule AdRules;
-		private Adversary Adversaries;
-		private AdversaryArmor AdversaryArmors;
-		private AdversaryGear AdversaryGear;
-		private AdversaryWeapon AdversaryWeapons;
-		private Armor Armors;
-		private Attachment Attachments;
-		private Book Books;
-		private Creature Creatures;
-		private CreatureWeapon CreatureWeapons;
-		private Gear Gear;
-		private Quality Qualities;
-		private Skill Skills;
-		private Species Species;
-		private Starship Starships;
-		private Talent Talents;
-		private Vehicle Vehicles;
-		private VehicleAttachment VehicleAttachments;
-		private VehicleWeapon VehicleWeapons;
-		private Weapon Weapons;
+		#region Data Classes
+        public Ability Abilities;
+		public AdRule AdRules;
+		public Adversary Adversaries;
+		public AdversaryArmor AdversaryArmors;
+		public AdversaryGear AdversaryGear;
+		public AdversaryWeapon AdversaryWeapons;
+		public Armor Armors;
+		public Attachment Attachments;
+		public Book Books;
+		public Creature Creatures;
+		public CreatureWeapon CreatureWeapons;
+		public Gear Gear;
+		public Quality Qualities;
+		public Skill Skills;
+		public Species Species;
+		public Starship Starships;
+		public Talent Talents;
+		public Vehicle Vehicles;
+		public VehicleAttachment VehicleAttachments;
+		public VehicleWeapon VehicleWeapons;
+		public Weapon Weapons;
 		#endregion
 
+		public bool Loaded = false;
 		void Start()
 		{
-			Load();			
+			Loaded=Load();		
+			
 		}
-		protected void Load()
+		protected bool Load()
 		{
 			Abilities = LoadYAML.Load<Ability>("Abilities");
 			Debug.Log(Abilities.Items.Count);
-			Debug.Log(Abilities.Items[0].Name);
+			Debug.Log(Abilities.Items[0].Name);	
+			Books = LoadYAML.Load<Book>("Books");
+
 			DirectoryInfo dir = new DirectoryInfo(Application.dataPath + "/YAML");
 			var deserializer = new DeserializerBuilder().WithNamingConvention(new CamelCaseNamingConvention()).IgnoreUnmatchedProperties().Build();
 			var InputFiles = dir.GetFiles("*.yaml");
@@ -75,7 +79,7 @@ namespace SWars.Data
 			{
 				string Input = File.ReadAllText(Application.dataPath + "/YAML/" + f.Name);
 				StringReader sReader = new StringReader(Input);
-				Debug.Log(Input);
+				//Debug.Log(Input);
 				switch (f.Name)
 				{				
 					case "Additional-Rules.yaml":
@@ -98,10 +102,7 @@ namespace SWars.Data
 						break;
 					case "Attachments.yaml":
 						Attachments = deserializer.Deserialize<Attachment>(sReader);
-						break;
-					case "Books.yaml":
-						Books = deserializer.Deserialize<Book>(sReader);
-						break;
+						break;				
 					case "Creatures.yaml":
 						Creatures = deserializer.Deserialize<Creature>(sReader);
 						break;
@@ -142,6 +143,8 @@ namespace SWars.Data
 						break;
 				}
 			}
+			return true;
 		}
+		
 	}
 }

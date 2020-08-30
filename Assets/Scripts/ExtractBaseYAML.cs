@@ -24,11 +24,6 @@ public class ExtractBaseYAML : MonoBehaviour {
 	[HideInInspector]
 	public string Input;
 
-	public DisplayItem ItemPrefab;
-
-	public RectTransform ItemHolder;
-
-	private DisplayItem tempItem;
 
 	private StringReader sReader;
 
