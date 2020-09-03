@@ -11,7 +11,7 @@ using System.Text;
 
 public class ExtractBaseYAML : MonoBehaviour {
 
-	public string InputFolder;
+	public SW_DataController dataController;
 
 	public FileInfo[] InputFiles;
 
@@ -24,6 +24,7 @@ public class ExtractBaseYAML : MonoBehaviour {
 	[HideInInspector]
 	public string Input;
 
+	public bool overrideFirstLoad=false;
 
 	private StringReader sReader;
 
@@ -33,11 +34,18 @@ public class ExtractBaseYAML : MonoBehaviour {
 
 	private YamlStream yStream;
 
+	public bool Loaded = false;
 	void Start () 
 	{
-
-		Extract();
-	
+		if (!PlayerPrefs.HasKey("FirstLoad"))
+			PlayerPrefs.SetInt("FirstLoad", 0);
+		if (PlayerPrefs.GetInt("FirstLoad") == 0)
+			Extract();
+		else if (overrideFirstLoad)
+			Extract();
+		else Loaded = true;
+		if (Loaded)
+			dataController.Loaded = dataController.Load();
 	}
 	
 	// Update is called once per frame
@@ -49,22 +57,20 @@ public class ExtractBaseYAML : MonoBehaviour {
 	{
 		InputLines = new List<string[]>();
 		InputAllText = new List<string>();
-		DirectoryInfo dir = new DirectoryInfo(Application.dataPath + InputFolder);
+		TextAsset[] textAssets = Resources.LoadAll<TextAsset>("Base YAML/");
 		deserializer = new DeserializerBuilder().WithNamingConvention(new CamelCaseNamingConvention()).IgnoreUnmatchedProperties().Build();
-		InputFiles = dir.GetFiles("*.yaml");
-		foreach (FileInfo f in InputFiles)
+		foreach (TextAsset f in textAssets)
 		{
 			//Debug.Log(Application.dataPath + InputFolder + "/" + f.Name);
-			Input = File.ReadAllText(Application.dataPath + InputFolder + "/" + f.Name);
-			InputAllText.Add(Input);
+			Input = f.text;
 
 			sReader = new StringReader(Input);
-			//Debug.Log(f.Name);
-			switch (f.Name)
+			Debug.Log(f.name);
+			string fName = f.name + ".yaml";
+			switch (fName)
 			{
 				case "abilities.yaml":
 					var des = deserializer.Deserialize<Ability>(sReader);
-					Debug.Log(des.Items[0].Name);
 					SaveToYAML(des, "Abilities");
 					break;
 				case "additional-rules.yaml":
@@ -153,7 +159,8 @@ public class ExtractBaseYAML : MonoBehaviour {
 
 
 		}
-
+		PlayerPrefs.SetInt("FirstLoad", 1);
+		Loaded = true;
 	}
 	public void SaveToYAML<T>(T toSave, string FileName)
 	{

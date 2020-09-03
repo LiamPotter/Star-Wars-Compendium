@@ -14,7 +14,6 @@ namespace SWars.Utils
 		{
 			var deserializer = new DeserializerBuilder().WithNamingConvention(new PascalCaseNamingConvention()).IgnoreUnmatchedProperties().Build();
 			string fileString = File.ReadAllText(Application.dataPath + "/YAML/" + fileName+".yaml");
-			StringReader sReader = new StringReader(fileString);
 			T temp= deserializer.Deserialize<T>(fileString);
 			return temp;
 		}

@@ -6,10 +6,15 @@ using YamlDotNet.Serialization.NamingConventions;
 using YamlDotNet.RepresentationModel;
 using System.IO;
 using SWars.Utils;
+using System;
+using SWars.Tables;
+
 namespace SWars.Data
 {
 	public class SW_DataController : MonoBehaviour
 	{
+		public ExtractBaseYAML extractBase;
+		public SW_Table_Overlord overlord;
 		public enum dataType
 		{
 			None,
@@ -60,19 +65,15 @@ namespace SWars.Data
 		#endregion
 
 		public bool Loaded = false;
-		void Start()
-		{
-			Loaded=Load();		
-			
-		}
-		protected bool Load()
+	
+		public bool Load()
 		{
 			Abilities = LoadYAML.Load<Ability>("Abilities");
 			AdRules = LoadYAML.Load<AdRule>("Additional-Rules");
 			Adversaries = LoadYAML.Load<Adversary>("Adversaries");
-			AdversaryArmors = LoadYAML.Load<AdversaryArmor>("Adversaries-Armor");
+			AdversaryArmors = LoadYAML.Load<AdversaryArmor>("Adversaries-Armors");
 			AdversaryGear = LoadYAML.Load<AdversaryGear>("Adversaries-Gear");
-			AdversaryWeapons = LoadYAML.Load<AdversaryWeapon>("Adversaries-Weapon");
+			AdversaryWeapons = LoadYAML.Load<AdversaryWeapon>("Adversaries-Weapons");
 			Armors = LoadYAML.Load<Armor>("Armor");
 			Attachments = LoadYAML.Load<Attachment>("Attachments");
 			Books = LoadYAML.Load<Book>("Books");
@@ -88,8 +89,81 @@ namespace SWars.Data
 			Vehicles = LoadYAML.Load<Vehicle>("Vehicles");
 			VehicleWeapons = LoadYAML.Load<VehicleWeapon>("Vehicles-Weapons");
 			Weapons = LoadYAML.Load<Weapon>("Weapons");
+			overlord.PopulateAllTables();
 			return true;
 		}
 		
+		public object GetDataClass(dataType type)
+		{
+			switch (type)
+			{
+				case dataType.None:
+					return null;
+				case dataType.Ability:
+					return Abilities;
+				case dataType.AdRule:
+					return AdRules;
+				case dataType.Adversary:
+					return Adversaries;
+				case dataType.AdversaryArmor:
+					return AdversaryArmors;
+				case dataType.AdversaryGear:
+					return AdversaryGear;
+				case dataType.AdversaryWeapon:
+					return AdversaryWeapons;
+				case dataType.Armor:
+					return Armors;
+				case dataType.Attachment:
+					return Attachments;
+				case dataType.Book:
+					return Books;
+				case dataType.Creature:
+					return Creatures;
+				case dataType.Gear:
+					return Gear;
+				case dataType.Quality:
+					return Qualities;
+				case dataType.Skill:
+					return Skills;
+				case dataType.Species:
+					return Species;
+				case dataType.Starship:
+					return Starships;
+				case dataType.Talent:
+					return Talents;
+				case dataType.VehicleAttachment:
+					return VehicleAttachments;
+				case dataType.Vehicle:
+					return Vehicles;
+				case dataType.VehicleWeapon:
+					return VehicleWeapons;
+				case dataType.Weapon:
+					return Weapons;
+				default:
+					return null;
+			}
+		}
+
+		public string BookFromIndex(string index)
+		{
+			char[] divider = new char[]{ ':', ','};
+			string[] id = index.Split(divider,StringSplitOptions.None);
+			
+			string builtName = "";
+			for (int i = 0; i < Books.Items.Count; i++)
+			{
+				for (int j = 0; j < id.Length; j++)
+				{
+					id[j] = id[j].Trim();
+					if (Books.Items[i].GeneratedId == id[j])
+					{
+						//Debug.Log("Builtname before=" + builtName);
+						builtName = builtName + Books.Items[i].Name + ":" + id[j + 1] +" ";
+					}
+				}
+			
+			}
+			return builtName;
+		}
 	}
 }

@@ -215,6 +215,7 @@ namespace SWars.Data
 		public string Restricted { get; set; }
 		public string Encumbrance { get; set; }
 		public int Rarity { get; set; }
+		public string Notes { get; set; }
 	}
 	public class Quality
 	{

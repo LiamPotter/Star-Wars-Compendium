@@ -7,7 +7,8 @@ public class UIAnimation : MonoBehaviour {
 	private Animator animator;
 	private bool MiddleOnly =true;
 	public Animator HomePanelAnimator;
-	private bool HomePanelOpen = true;
+	[HideInInspector]
+	public bool HomePanelOpen = true;
 	// Use this for initialization
 	void Start () {
 		animator = GetComponent<Animator>();

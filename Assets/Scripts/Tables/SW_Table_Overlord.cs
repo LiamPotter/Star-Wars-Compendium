@@ -1,9 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using System.Runtime;
 using System.Reflection;
 using UnityEngine;
 using SWars.Data;
 using SWars.Utils;
+using System.Linq;
+using System;
+
 namespace SWars.Tables
 {
 	public class SW_Table_Overlord : MonoBehaviour
@@ -14,7 +18,7 @@ namespace SWars.Tables
 		public SW_Item ItemNavPrefab;
 		public SW_Item ItemPrefab;
 		public List<SW_Table> Tables= new List<SW_Table>();
-		public RectTransform AllTableScroller;
+		public RectTransform AllTableContent;
 
 		private SW_Table tempTable;
 		private SW_DataController.dataType tempDataType;
@@ -25,12 +29,7 @@ namespace SWars.Tables
 			if (!dControl)
 				dControl = FindObjectOfType<SW_DataController>();
 		}
-		void Update()
-		{
-			if (dControl.Loaded)
-				if (!firstPopulation)
-					PopulateAllTables();
-		}
+
 		public void NavigateToItem(string navString)
 		{
 
@@ -38,16 +37,39 @@ namespace SWars.Tables
 		public void PopulateAllTables()
 		{
 			firstPopulation = true;
-			tempDataType = SW_DataController.dataType.Book;
-			tempTable =Tables.Find(x => x.TableType == tempDataType);
-			tempTable.PopulateTable(dControl.Books.Items);
-			tempTable.gameObject.SetActive(false);
+			for (int i = 0; i < Enum.GetValues(typeof(SW_DataController.dataType)).Length; i++)
+			{
+				tempTable = null;
+				tempDataType = (SW_DataController.dataType)Enum.GetValues(typeof(SW_DataController.dataType)).GetValue(i);
+				object tempObj = dControl.GetDataClass(tempDataType);
+				tempTable = Tables.Find(x => x.TableType == tempDataType);
+				if (tempTable == null)
+				{
+					Debug.Log("Couldn't find table for " + tempDataType);
+				}
+				else
+				{
+					Debug.Log("Populating " + tempObj.GetType().Name);
+					tempTable.PopulateTable(tempObj);
+					//tempTable.transform.SetParent(null);
+					tempTable.gameObject.SetActive(false);
+				}
+			}
 		}
 		public void OpenTable(SW_DataController.dataType type)
 		{
-			tempTable = Tables.Find(x => x.TableType == tempDataType);
+			if(tempTable)
+			{
+				tempTable.gameObject.SetActive(false);
+				//tempTable.transform.SetParent(null);
+			}
+			tempTable = Tables.Find(x => x.TableType == type);
+			//tempTable.transform.SetParent(AllTableContent);
+			
 			tempTable.gameObject.SetActive(true);
-			uIAnimation.ToggleHomePanel();
+			//tempTable.ResizeAllRows();
+			if (uIAnimation.HomePanelOpen)
+				uIAnimation.ToggleHomePanel();
 		}
 	}
 }

@@ -44,7 +44,7 @@ MonoBehaviour:
   m_Padding:
     m_Left: 10
     m_Right: 0
-    m_Top: 3
+    m_Top: 0
     m_Bottom: 0
   m_ChildAlignment: 3
   m_Spacing: 0
@@ -64,9 +64,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Items: []
+  rTransform: {fileID: 224682804179135376}
   Table: {fileID: 0}
   Overlord: {fileID: 0}
   ItemID: 
+  hLayout: {fileID: 114332458322899322}
 --- !u!114 &114922901609448258
 MonoBehaviour:
   m_ObjectHideFlags: 1
