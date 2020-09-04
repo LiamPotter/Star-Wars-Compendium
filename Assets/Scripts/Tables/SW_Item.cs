@@ -13,7 +13,7 @@ namespace SWars.Tables
 		private SW_Table_Overlord Overlord;
 		public string NavString="";
 		public string Value;
-		public SW_Row row;
+		public SW_Row itemRow;
 		public GameObject[] ascdescImgs;
 		[HideInInspector]
 		public int itemID;
@@ -24,6 +24,7 @@ namespace SWars.Tables
 			if (!textUI)
 				textUI = GetComponent<TextMeshProUGUI>();
 			Overlord = overlord;
+			itemRow = row;
 			textUI.text = text;	
 			Value = text;
 			layout.minWidth = column.minWidth;
@@ -37,6 +38,7 @@ namespace SWars.Tables
 			if (!textUI)
 				textUI = GetComponent<TextMeshProUGUI>();
 			Overlord = overlord;
+			itemRow = row;
 			textUI.text = text;
 			Value = text;
 			layout.minWidth = min;
@@ -55,35 +57,39 @@ namespace SWars.Tables
 		}
 		public void EnableSortImage(bool asc)
 		{
-			if (row.Table.asc)
+			if (itemRow.Table.asc)
 				ascdescImgs[0].SetActive(true);
 			else ascdescImgs[1].SetActive(true);
 		}
 		public void PressedSortInt()
 		{
-			for (int i = 0; i < row.Items.Count; i++)
+			for (int i = 0; i < itemRow.Items.Count; i++)
 			{
-				row.Items[i].DisableSortImages();
+				itemRow.Items[i].DisableSortImages();
 			}
-			if (row.Table.currentSortID == itemID)
-				row.Table.asc = !row.Table.asc;
-			else row.Table.asc = true;
-			EnableSortImage(row.Table.asc);
-			row.Table.currentSortID = itemID;
-			row.Table.SortByInt(itemID);
+			if (itemRow.Table.currentSortID == itemID)
+				itemRow.Table.asc = !itemRow.Table.asc;
+			else itemRow.Table.asc = true;
+			EnableSortImage(itemRow.Table.asc);
+			itemRow.Table.currentSortID = itemID;
+			itemRow.Table.SortByInt(itemID);
 		}
 		public void PressedSortString()
 		{
-			for (int i = 0; i < row.Items.Count; i++)
+			for (int i = 0; i < itemRow.Items.Count; i++)
 			{
-				row.Items[i].DisableSortImages();
+				itemRow.Items[i].DisableSortImages();
 			}
-			if (row.Table.currentSortID == itemID)
-				row.Table.asc = !row.Table.asc;
-			else row.Table.asc = true;
-			EnableSortImage(row.Table.asc);
-			row.Table.currentSortID = itemID;
-			row.Table.SortByString(itemID);
+			if (itemRow.Table.currentSortID == itemID)
+				itemRow.Table.asc = !itemRow.Table.asc;
+			else itemRow.Table.asc = true;
+			EnableSortImage(itemRow.Table.asc);
+			itemRow.Table.currentSortID = itemID;
+			itemRow.Table.SortByString(itemID);
+		}
+		public void PressedShowItem()
+		{
+			Overlord.OpenItemDisplay(itemRow.Table.TableType, itemRow.Items[0].Value, itemRow.Items[1].Value, itemRow.DatabaseObject);
 		}
 	}
 }

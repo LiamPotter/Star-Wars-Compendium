@@ -158,7 +158,7 @@ namespace SWars.Data
 					if (Books.Items[i].GeneratedId == id[j])
 					{
 						//Debug.Log("Builtname before=" + builtName);
-						builtName = builtName + Books.Items[i].Name + ":" + id[j + 1] +" ";
+						builtName = builtName + Books.Items[i].Name + ":" + id[j + 1] +(j>id.Length-2?" ":",");
 					}
 				}
 			

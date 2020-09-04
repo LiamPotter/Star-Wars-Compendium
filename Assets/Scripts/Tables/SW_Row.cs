@@ -7,12 +7,20 @@ namespace SWars.Tables
 {
 	public class SW_Row : MonoBehaviour
 	{
+		public object DatabaseObject;
 		public List<SW_Item> Items = new List<SW_Item>();
 		public RectTransform rTransform;
 		public SW_Table Table;
 		public SW_Table_Overlord Overlord;
 		public string ItemID;
 		public HorizontalLayoutGroup hLayout;
+		public void AddNewDisplayItem(string inputText,SW_Column column)
+		{
+			SW_Item tempItem = Instantiate(Overlord.ItemDisplayPrefab);
+			tempItem.transform.SetParent(transform, false);
+			tempItem.Initialize(column, inputText, Overlord, this);
+			Items.Add(tempItem);
+		}
 		public void AddNewItem(string inputText,SW_Column column)
 		{
 			SW_Item tempItem = Instantiate(Overlord.ItemPrefab);

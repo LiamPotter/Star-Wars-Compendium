@@ -15,6 +15,7 @@ namespace SWars.Tables
 	{
 		public SW_Table_Overlord Overlord;
 		public SW_DataController.dataType TableType;
+		public Type TableItemType;
 		public SW_Row TitleRow;
 		public List<SW_Column> Columns;
 		public List<SW_Row> Rows;
@@ -63,11 +64,12 @@ namespace SWars.Tables
 		}
 		private bool PrivatePopulateTable(List<BookItem> input)
 		{
+			TableItemType = input[0].GetType();
 			for (int i = 0; i < input.Count; i++)
 			{
-				tempRow0 = CreateNewRow();
+				tempRow0 = CreateNewRow(input[i]);
 				tempRow0.name = input[i].Name;
-				tempRow0.AddNewItem(input[i].Name, Columns[0]);
+				tempRow0.AddNewDisplayItem(input[i].Name, Columns[0]);
 				tempRow0.AddNewItem(input[i].System, Columns[1]);
 				tempRow0.AddNewItem(input[i].Key, Columns[2]);
 				//tempRow0.DisableScaling();
@@ -77,11 +79,12 @@ namespace SWars.Tables
 		}
 		private bool PrivatePopulateTable(List<GearItem> input)
 		{
+			TableItemType = input[0].GetType();
 			for (int i = 0; i < input.Count; i++)
 			{
-				tempRow0 = CreateNewRow();
+				tempRow0 = CreateNewRow(input[i]);
 				tempRow0.name = input[i].Name;
-				tempRow0.AddNewItem(input[i].Name, Columns[0]);
+				tempRow0.AddNewDisplayItem(input[i].Name, Columns[0]);
 				tempRow0.AddNewItem(input[i].Category, Columns[1]);
 				tempRow0.AddNewItem(input[i].Price.ToString(), Columns[2]);
 				tempRow0.AddNewItem(input[i].Rarity.ToString(), Columns[3]);
@@ -98,12 +101,13 @@ namespace SWars.Tables
 			return true;
 		}
 
-		private SW_Row CreateNewRow()
+		private SW_Row CreateNewRow(object databaseObject)
 		{
 			tempRow1 = Instantiate(Overlord.RowPrefab);
 			tempRow1.transform.SetParent(TableContentHolder.transform,false);
 			tempRow1.Overlord = Overlord;
 			tempRow1.Table = this;
+			tempRow1.DatabaseObject = databaseObject;
 			return tempRow1;
 		}
 		public void ResizeAllRows()

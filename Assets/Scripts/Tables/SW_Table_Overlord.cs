@@ -16,7 +16,9 @@ namespace SWars.Tables
 		public UIAnimation uIAnimation;
 		public SW_Row RowPrefab;
 		public SW_Item ItemNavPrefab;
+		public SW_Item ItemDisplayPrefab;
 		public SW_Item ItemPrefab;
+		public SW_Item_Display ItemDisplay;
 		public List<SW_Table> Tables= new List<SW_Table>();
 		public RectTransform AllTableContent;
 
@@ -70,6 +72,11 @@ namespace SWars.Tables
 			//tempTable.ResizeAllRows();
 			if (uIAnimation.HomePanelOpen)
 				uIAnimation.ToggleHomePanel();
+		}
+		public void OpenItemDisplay(SW_DataController.dataType type,string name,string subtitle, object Item)
+		{
+			ItemDisplay.gameObject.SetActive(true);
+			ItemDisplay.DisplayItem(type.ToString(), name, subtitle, StringString.MakeFromType(Item));
 		}
 	}
 }
