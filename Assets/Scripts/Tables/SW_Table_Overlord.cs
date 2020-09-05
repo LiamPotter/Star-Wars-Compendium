@@ -76,7 +76,7 @@ namespace SWars.Tables
 		public void OpenItemDisplay(SW_DataController.dataType type,string name,string subtitle, object Item)
 		{
 			ItemDisplay.gameObject.SetActive(true);
-			ItemDisplay.DisplayItem(type.ToString(), name, subtitle, StringString.MakeFromType(Item));
+			ItemDisplay.DisplayItem(type, name, subtitle, StringString.MakeFromType(Item));
 		}
 	}
 }
