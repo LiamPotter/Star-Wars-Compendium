@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Runtime;
 using UnityEditor;
 using UnityEngine;
+using UnityEngine.Experimental.UIElements;
 using UnityEngine.UI;
 
 namespace SWars.Tables
@@ -26,6 +27,9 @@ namespace SWars.Tables
 		public int currentSortID=0;
 		[HideInInspector]
 		public bool asc = false;
+
+		public int RowShowAmount = 20;
+		public GameObject ItemShowDropdown;
 		void Start()
 		{
 			if (!Overlord)
@@ -72,7 +76,6 @@ namespace SWars.Tables
 				tempRow0.AddNewDisplayItem(input[i].Name, Columns[0]);
 				tempRow0.AddNewItem(input[i].System, Columns[1]);
 				tempRow0.AddNewItem(input[i].Key, Columns[2]);
-				//tempRow0.DisableScaling();
 				Rows.Add(tempRow0);
 			}
 			return true;
@@ -93,8 +96,6 @@ namespace SWars.Tables
 				string nav = Overlord.dControl.BookFromIndex(input[i].Index);
 				tempRow0.AddNewItem(nav, Columns[6]);
 				tempRow0.SetNavString(nav);
-				//tempRow0.ScaleHeightToFit();
-				//tempRow0.DisableScaling();
 				Rows.Add(tempRow0);
 			}
 			ResizeAllRows();
@@ -117,6 +118,53 @@ namespace SWars.Tables
 			{
 				Rows[i].ScaleHeightToFit();
 			}
+		}
+		public void OpenTable()
+		{
+			for (int i = 0; i < Rows.Count; i++)
+			{
+				if (i <= RowShowAmount)
+				{
+					Rows[i].gameObject.SetActive(true);
+				}
+			}
+			ResizeAllRows();
+		}
+		public void CloseTable()
+		{
+			for (int i = 0; i < Rows.Count; i++)
+			{
+				if (Rows[i].gameObject.activeSelf)
+					Rows[i].gameObject.SetActive(false);
+			}
+		}
+		public void RefreshTable()
+		{
+			CloseTable();
+			OpenTable();
+		}
+		public void UpdateShownRows(int newValue)
+		{
+			int rows = 25;
+			switch (newValue)
+			{
+				case 0:
+					rows = 25;
+					break;
+				case 1:
+					rows = 50;
+					break;
+				case 2:
+					rows = 100;
+					break;
+				case 3:
+					rows = Rows.Count;
+					break;
+				default:
+					break;
+			}
+			RowShowAmount = rows;
+			RefreshTable();
 		}
 		public void SortByInt(int Item)
 		{
@@ -145,7 +193,7 @@ namespace SWars.Tables
 			{
 				Rows[i].transform.SetSiblingIndex(2 + i);
 			}
-
+			RefreshTable();
 		}
 
 		public void SortByString(int Item)
@@ -171,12 +219,9 @@ namespace SWars.Tables
 			{
 				Rows[i].transform.SetSiblingIndex(2 + i);
 			}
+			RefreshTable();
 		}
 
-		private int SortAscending(string value1, string value2)
-		{
-
-			return value1.CompareTo(value2);
-		}
+		
 	}
 }

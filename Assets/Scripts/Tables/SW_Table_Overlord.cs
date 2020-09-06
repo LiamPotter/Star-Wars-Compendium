@@ -54,6 +54,7 @@ namespace SWars.Tables
 					Debug.Log("Populating " + tempObj.GetType().Name);
 					tempTable.PopulateTable(tempObj);
 					//tempTable.transform.SetParent(null);
+					tempTable.CloseTable();
 					tempTable.gameObject.SetActive(false);
 				}
 			}
@@ -69,9 +70,12 @@ namespace SWars.Tables
 			//tempTable.transform.SetParent(AllTableContent);
 			
 			tempTable.gameObject.SetActive(true);
+			tempTable.OpenTable();
 			//tempTable.ResizeAllRows();
 			if (uIAnimation.HomePanelOpen)
 				uIAnimation.ToggleHomePanel();
+			if (!uIAnimation.LeftPanelClosed)
+				uIAnimation.ToggleLeftBar();
 		}
 		public void OpenItemDisplay(SW_DataController.dataType type,string name,string subtitle, object Item)
 		{

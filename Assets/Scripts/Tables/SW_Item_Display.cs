@@ -58,6 +58,10 @@ namespace SWars.Tables
 			}
 			rTransform.ForceUpdateRectTransforms();
 			Canvas.ForceUpdateCanvases();
+			if(type== SW_DataController.dataType.Book)
+			{
+
+			}
 		}
 
 		private void SetName(string name)

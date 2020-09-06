@@ -5,10 +5,9 @@ using UnityEngine;
 public class UIAnimation : MonoBehaviour {
 
 	private Animator animator;
-	private bool MiddleOnly =true;
 	public Animator HomePanelAnimator;
-	[HideInInspector]
 	public bool HomePanelOpen = true;
+	public bool LeftPanelClosed = true;
 	// Use this for initialization
 	void Start () {
 		animator = GetComponent<Animator>();
@@ -16,8 +15,8 @@ public class UIAnimation : MonoBehaviour {
 	
 	public void ToggleLeftBar()
 	{
-		MiddleOnly = !MiddleOnly;
-		animator.SetBool("MiddleOnly", MiddleOnly);
+		LeftPanelClosed = !LeftPanelClosed;
+		animator.SetBool("MiddleOnly", LeftPanelClosed);
 	}
 	public void ToggleHomePanel()
 	{
