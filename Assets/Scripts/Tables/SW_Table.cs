@@ -20,6 +20,7 @@ namespace SWars.Tables
 		public SW_Row TitleRow;
 		public List<SW_Column> Columns;
 		public List<SW_Row> Rows;
+		
 		public RectTransform TableContentHolder;
 		private SW_Row tempRow0;
 		private SW_Row tempRow1;
@@ -30,6 +31,10 @@ namespace SWars.Tables
 
 		public int RowShowAmount = 20;
 		public GameObject ItemShowDropdown;
+
+		public bool ShownFromBook=false;
+		[HideInInspector]
+		public List<SW_Row> RowsFromBook = new List<SW_Row>();
 		void Start()
 		{
 			if (!Overlord)
@@ -121,6 +126,8 @@ namespace SWars.Tables
 		}
 		public void OpenTable()
 		{
+			ItemShowDropdown.SetActive(true);
+			ShownFromBook = false;
 			for (int i = 0; i < Rows.Count; i++)
 			{
 				if (i <= RowShowAmount)
@@ -164,11 +171,31 @@ namespace SWars.Tables
 					break;
 			}
 			RowShowAmount = rows;
+			
 			RefreshTable();
+		}
+		public void ShowAllBookItems(string book)
+		{
+			CloseTable();
+			ItemShowDropdown.SetActive(false);
+			RowsFromBook.Clear();
+			ShownFromBook = true;
+			for (int i = 0; i < Rows.Count; i++)
+			{
+				if (Rows[i].Items[Rows[i].Items.Count - 1].NavString.Contains(book))
+				{
+					Rows[i].gameObject.SetActive(true);
+					RowsFromBook.Add(Rows[i]);
+				}
+			}
 		}
 		public void SortByInt(int Item)
 		{
-			Rows.Sort(delegate (SW_Row x, SW_Row y)
+			List<SW_Row> rows;
+			if (ShownFromBook)
+				rows = RowsFromBook;
+			else rows = Rows;
+			rows.Sort(delegate (SW_Row x, SW_Row y)
 			{
 				if (asc)
 				{
@@ -189,16 +216,21 @@ namespace SWars.Tables
 					else return Int32.Parse(y.Items[Item].Value).CompareTo(Int32.Parse(x.Items[Item].Value));
 				}
 			});
-			for (int i = 0; i < Rows.Count; i++)
+			for (int i = 0; i < rows.Count; i++)
 			{
-				Rows[i].transform.SetSiblingIndex(2 + i);
+				rows[i].transform.SetSiblingIndex(2 + i);
 			}
-			RefreshTable();
+			if (!ShownFromBook)
+				RefreshTable();
 		}
 
 		public void SortByString(int Item)
 		{
-			Rows.Sort(delegate (SW_Row x, SW_Row y)
+			List<SW_Row> rows;
+			if (ShownFromBook)
+				rows = RowsFromBook;
+			else rows = Rows;
+			rows.Sort(delegate (SW_Row x, SW_Row y)
 			{
 				if (asc)
 				{
@@ -215,11 +247,12 @@ namespace SWars.Tables
 					else return String.Compare(y.Items[Item].Value, x.Items[Item].Value);
 				}
 			});
-			for (int i = 0; i < Rows.Count; i++)
+			for (int i = 0; i < rows.Count; i++)
 			{
-				Rows[i].transform.SetSiblingIndex(2 + i);
+				rows[i].transform.SetSiblingIndex(2 + i);
 			}
-			RefreshTable();
+			if (!ShownFromBook)
+				RefreshTable();
 		}
 
 		

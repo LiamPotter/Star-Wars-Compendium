@@ -77,10 +77,30 @@ namespace SWars.Tables
 			if (!uIAnimation.LeftPanelClosed)
 				uIAnimation.ToggleLeftBar();
 		}
+		public void OpenAllTablesFromBook(string bookName)
+		{
+			for (int i = 0; i < Tables.Count; i++)
+			{
+				if (Tables[i].TableType != SW_DataController.dataType.Book)
+				{
+					Tables[i].gameObject.SetActive(true);
+					Tables[i].ShowAllBookItems(bookName);
+				}
+				else Tables[i].gameObject.SetActive(false);
+			}
+		}
 		public void OpenItemDisplay(SW_DataController.dataType type,string name,string subtitle, object Item)
 		{
 			ItemDisplay.gameObject.SetActive(true);
 			ItemDisplay.DisplayItem(type, name, subtitle, StringString.MakeFromType(Item));
+		}
+		public void CloseAllTables()
+		{
+			for (int i = 0; i < Tables.Count; i++)
+			{
+				Tables[i].CloseTable();
+				Tables[i].gameObject.SetActive(false);
+			}
 		}
 	}
 }

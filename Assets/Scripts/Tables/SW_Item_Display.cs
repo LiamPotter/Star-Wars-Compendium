@@ -60,7 +60,7 @@ namespace SWars.Tables
 			Canvas.ForceUpdateCanvases();
 			if(type== SW_DataController.dataType.Book)
 			{
-
+				overlord.OpenAllTablesFromBook(name);
 			}
 		}
 
@@ -83,6 +83,7 @@ namespace SWars.Tables
 		}
 		public void BackToTable()
 		{
+			overlord.CloseAllTables();
 			overlord.OpenTable(dataType);
 			HideItem();
 		}
