@@ -4,10 +4,13 @@ using UnityEngine;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 using YamlDotNet.RepresentationModel;
+using System;
 using System.IO;
 using SWars.Utils;
-using System;
 using SWars.Tables;
+using SWars.Search;
+using TMPro;
+using UnityEngine.UI;
 
 namespace SWars.Data
 {
@@ -15,6 +18,8 @@ namespace SWars.Data
 	{
 		public ExtractBaseYAML extractBase;
 		public SW_Table_Overlord overlord;
+		public SW_Search_Display searchDisplay;
+		public TMP_InputField mainSearch, topSearch;
 		public enum dataType
 		{
 			None,
@@ -165,5 +170,56 @@ namespace SWars.Data
 			}
 			return builtName;
 		}
+
+		public void MainSearch()
+		{
+			Search(mainSearch.text);
+			Debug.Log(mainSearch.text);
+			mainSearch.text = "";
+		}
+		public void TopSearch()
+		{
+			Search(topSearch.text);
+			Debug.Log(topSearch.text);
+			topSearch.text = "";
+		}
+		public void Search(string searchTerm)
+		{
+			List<SW_Search_Result> searchResults = new List<SW_Search_Result>();
+			string searchLower = searchTerm.ToLower();
+			bool add = false;
+			for (int i = 0; i < Books.Items.Count; i++)
+			{
+				add = false;
+				if (Books.Items[i].Name.ToLower().Contains(searchLower))
+					add = true;
+				else if (Books.Items[i].System.ToLower().Contains(searchLower))
+					add = true;
+				if(add)
+					searchResults.Add(new SW_Search_Result(Books.Items[i],Books.Items[i].Name,Books.Items[i].System,dataType.Book));
+			}
+			for (int i = 0; i < Gear.Items.Count; i++)
+			{
+				add = false;
+				if (Gear.Items[i].Name.ToLower().Contains(searchLower))
+					add = true;
+				if (add)
+					searchResults.Add(new SW_Search_Result(Gear.Items[i], Gear.Items[i].Name, Gear.Items[i].Category, dataType.Gear));
+			}
+			for (int i = 0; i < Weapons.Items.Count; i++)
+			{
+				add = false;
+				if (Weapons.Items[i].Name.ToLower().Contains(searchLower))
+					add = true;
+				if (add)
+					searchResults.Add(new SW_Search_Result(Weapons.Items[i], Weapons.Items[i].Name, Weapons.Items[i].Category, dataType.Weapon));
+			}
+			if (overlord.uIAnimation.HomePanelOpen)
+				overlord.uIAnimation.ToggleHomePanel();
+			overlord.CloseAllTables();
+			searchDisplay.gameObject.SetActive(true);
+			searchDisplay.OpenSearch(searchTerm,searchResults);
+		}
+		
 	}
 }

@@ -62,16 +62,21 @@ namespace SWars.Tables
 			if (t== typeof(Book))
 			{
 				Book tBook = (Book)input;
-				return PrivatePopulateTable(tBook.Items);
+				return P_PopulateTable(tBook.Items);
 			}
 			if(t==typeof(Gear))
 			{
 				Gear tGear = (Gear)input;
-				return PrivatePopulateTable(tGear.Items);
+				return P_PopulateTable(tGear.Items);
+			}
+			if(t==typeof(Weapon))
+			{
+				Weapon tWeapon = (Weapon)input;
+				return P_PopulateTable(tWeapon.Items);
 			}
 			return false;
 		}
-		private bool PrivatePopulateTable(List<BookItem> input)
+		private bool P_PopulateTable(List<BookItem> input)
 		{
 			TableItemType = input[0].GetType();
 			for (int i = 0; i < input.Count; i++)
@@ -85,7 +90,7 @@ namespace SWars.Tables
 			}
 			return true;
 		}
-		private bool PrivatePopulateTable(List<GearItem> input)
+		private bool P_PopulateTable(List<GearItem> input)
 		{
 			TableItemType = input[0].GetType();
 			for (int i = 0; i < input.Count; i++)
@@ -106,7 +111,32 @@ namespace SWars.Tables
 			ResizeAllRows();
 			return true;
 		}
-
+		private bool P_PopulateTable(List<WeaponItem> input)
+		{
+			TableItemType = input[0].GetType();
+			for (int i = 0; i < input.Count; i++)
+			{
+				tempRow0 = CreateNewRow(input[i]);
+				tempRow0.name = input[i].Name;
+				tempRow0.AddNewDisplayItem(input[i].Name, Columns[0]);
+				tempRow0.AddNewItem(input[i].Category, Columns[1]);
+				tempRow0.AddNewItem(input[i].Skill, Columns[2]);
+				tempRow0.AddNewItem(input[i].Damage.ToString(), Columns[3]);
+				tempRow0.AddNewItem(input[i].Crit.ToString(), Columns[4]);
+				tempRow0.AddNewItem(input[i].Range, Columns[5]);
+				tempRow0.AddNewItem(input[i].Encumbrance.ToString(), Columns[6]);
+				tempRow0.AddNewItem(input[i].HP.ToString(), Columns[7]);
+				tempRow0.AddNewItem(input[i].Price.ToString(), Columns[8]);
+				tempRow0.AddNewItem(input[i].Rarity.ToString(), Columns[9]);
+				tempRow0.AddNewItem(input[i].Special, Columns[10]);
+				string nav = Overlord.dControl.BookFromIndex(input[i].Index);
+				tempRow0.AddNewItem(nav, Columns[11]);
+				tempRow0.SetNavString(nav);
+				Rows.Add(tempRow0);
+			}
+			ResizeAllRows();
+			return true;
+		}
 		private SW_Row CreateNewRow(object databaseObject)
 		{
 			tempRow1 = Instantiate(Overlord.RowPrefab);

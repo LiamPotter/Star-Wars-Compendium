@@ -5,6 +5,7 @@ using UnityEngine.UI;
 using TMPro;
 using SWars.Utils;
 using SWars.Data;
+using SWars.UI;
 
 namespace SWars.Tables
 {
@@ -85,6 +86,7 @@ namespace SWars.Tables
 		{
 			overlord.CloseAllTables();
 			overlord.OpenTable(dataType);
+			dataController.searchDisplay.CloseSearch();
 			HideItem();
 		}
 		public void HideItem()
