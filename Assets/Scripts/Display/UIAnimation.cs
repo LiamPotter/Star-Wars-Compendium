@@ -15,6 +15,8 @@ namespace SWars.UI
 		void Start()
 		{
 			animator = GetComponent<Animator>();
+			if (!HomePanelAnimator.gameObject.activeSelf)
+				HomePanelAnimator.gameObject.SetActive(true);
 		}
 
 		public void ToggleLeftBar()
@@ -25,6 +27,11 @@ namespace SWars.UI
 		public void ToggleHomePanel()
 		{
 			HomePanelOpen = !HomePanelOpen;
+			HomePanelAnimator.SetBool("Open", HomePanelOpen);
+		}
+		public void ToggleHomePanel(bool to)
+		{
+			HomePanelOpen = to;
 			HomePanelAnimator.SetBool("Open", HomePanelOpen);
 		}
 	}

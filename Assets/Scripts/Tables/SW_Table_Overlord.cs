@@ -8,6 +8,8 @@ using SWars.Utils;
 using SWars.UI;
 using System.Linq;
 using System;
+using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 namespace SWars.Tables
 {
@@ -15,6 +17,8 @@ namespace SWars.Tables
 	{
 		public SW_DataController dControl;
 		public UIAnimation uIAnimation;
+		public GraphicRaycaster MainCanvasRaycast;
+		public EventSystem MainEventSystem;
 		public SW_Row RowPrefab;
 		public SW_Item ItemNavPrefab;
 		public SW_Item ItemDisplayPrefab;

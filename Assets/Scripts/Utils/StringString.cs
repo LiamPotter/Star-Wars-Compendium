@@ -25,7 +25,6 @@ namespace SWars.Utils
             object propVal=null;
             for (int i = 0; i < props.Length; i++)
             {
-                Debug.Log(props[i].Name + ": " + props[i].GetValue(input, null));
                 n = props[i].Name;
                 propVal = props[i].GetValue(input, null);
                 if (propVal == null)

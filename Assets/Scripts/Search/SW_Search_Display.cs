@@ -19,6 +19,8 @@ namespace SWars.Search
 		private List<SW_Search_Result> prevResults;
 		public void ReopenSearch()
 		{
+			if (prevResults == null)
+				return;
 			Results = prevResults;
 			for (int i = 0; i < Results.Count; i++)
 			{
@@ -60,7 +62,7 @@ namespace SWars.Search
 			if (!Overlord)
 				Overlord = FindObjectOfType<SW_Table_Overlord>();
 			Overlord.OpenItemDisplay(result.Type, result.Name, result.Subtitle, result.SearchObject);
-			CloseSearch();
+			CloseSearch(true);
 		}
 		public void CloseSearch()
 		{
@@ -68,8 +70,24 @@ namespace SWars.Search
 			{
 				DisplayList[i].gameObject.SetActive(false);
 			}
-			prevResults = Results;
-			Results.Clear();
+			if (Results!=null)
+			{
+				prevResults = Results;
+			}
+			gameObject.SetActive(false);
+		}
+		public void CloseSearch(bool keepNavigationUI)
+		{
+			for (int i = 0; i < DisplayList.Count; i++)
+			{
+				DisplayList[i].gameObject.SetActive(false);
+			}
+			if (Results != null)
+			{
+				prevResults = Results;
+			}
+			if(!keepNavigationUI)
+				gameObject.SetActive(false);
 		}
 		private SW_Search_Item NewItem()
 		{

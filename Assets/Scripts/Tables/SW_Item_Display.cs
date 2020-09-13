@@ -40,12 +40,16 @@ namespace SWars.Tables
 			dataType = type;
 			Type.text = type.ToString();
 			SetName(name);
-			Subtitle.text = subtitle;
+		
 			for (int i = 0; i < values.Count; i++)
 			{
 				if (values[i].String1 != "Index" && values[i].String1 != "GeneratedId")
 				{
-					if (values[i].String2 != name && values[i].String2 != subtitle)
+					if(values[i].String1.ToLower().Contains("category"))
+					{
+						subtitle = values[i].String2;
+					}
+					else if (values[i].String2 != name && values[i].String2 != subtitle)
 					{
 						TitlesAndValues[i].Set(values[i].String1, values[i].String2);
 					}
@@ -57,6 +61,12 @@ namespace SWars.Tables
 					TitlesAndValues[i].Set(values[i].String1, dataController.BookFromIndex(values[i].String2));
 				}
 			}
+			if (subtitle != null)
+			{
+				Subtitle.gameObject.SetActive(true);
+				Subtitle.text = subtitle;
+			}
+			else Subtitle.gameObject.SetActive(false);
 			rTransform.ForceUpdateRectTransforms();
 			Canvas.ForceUpdateCanvases();
 			if(type== SW_DataController.dataType.Book)
